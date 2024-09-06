@@ -66,6 +66,8 @@ msgctxt "b4e110d254c2438b9098d33564bfa5a6"
 msgid ""
 "སྤྱིར་ གྱི་ སངས་རྒྱས་ མི་ ལྤགས་ ཀྱིས་ གཏུམས་པ་ གང་ ནས་ འོང་ མི་ ཤེས་ ཤིང༌ །"
 msgstr ""
+"In general, Buddhas being wrapped in human skin, never know from where they "
+"will come,"
 
 msgctxt "efaeabcd28a842458e57a4fe2c4b97d4"
 msgid ""
