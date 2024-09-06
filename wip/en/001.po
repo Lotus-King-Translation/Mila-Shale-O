@@ -60,7 +60,7 @@ msgstr "The Jetsun stayed there and"
 
 msgctxt "b14a3185d1a84b37aaf98292e3178386"
 msgid "དེ་ ནུབ་ བུ་མོ་ དེ་ ལ་ རྨི་ལམ་ བཟང་པོ་ བྱུང་བ་ དྲན་ ཏེ །"
-msgstr "That night, the girl had an excellent dream."
+msgstr "That night, the girl had an excellent dream. She remembered,"
 
 msgctxt "b4e110d254c2438b9098d33564bfa5a6"
 msgid ""
