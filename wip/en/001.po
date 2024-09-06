@@ -50,7 +50,7 @@ msgid ""
 "མོ་ ན་རེ །  ངེད་ ཀྱི་ ས་ལམ་ སྒོ་ ཅན་ འདི་␣ར་ ལྡོམ་བུ་ བ་བྱུང་ ཚད་ ལ་ ཚ་བ་ "
 "འདྲེན་ ན་ འདྲེན་ གྱིས་ མི་ ལང་ འདུག་ ཟེར་ ནང་ དུ་ སོང་བ་ ལ་␣ས །"
 msgstr ""
-"She said, “If I were to give a meal to all the alms beggars who come along "
+"She said, “If I were to give a meal to all the alms-beggars who come along "
 "this road of ours, I would not be able to do it.” By saying this, she went "
 "inside."
 
