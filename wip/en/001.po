@@ -72,7 +72,7 @@ msgstr ""
 msgctxt "efaeabcd28a842458e57a4fe2c4b97d4"
 msgid ""
 "ཁྱད་པར་ རྗེ་བཙུན་ མི་ལ་རས་པ་ ཟེར་བ་␣འི་ སངས་རྒྱས་ དེ་ ཡིན་པ་␣འང་ སྲིད །"
-msgstr ""
+msgstr "And in particular, this might be the Buddha called Jetsun Milarepa."
 
 msgctxt "ea82612f79574e42a50c398d6aa983c4"
 msgid ""
