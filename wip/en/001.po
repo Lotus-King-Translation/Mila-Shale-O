@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "a5fd71cfd68449dbb8981ee9b3febabb"
 msgid "རྣལ་འབྱོར་པ་ ཁྱེད་ གང་ ནས་ ཡིན་ ཟེར་བ་ ལ །"
-msgstr ""
+msgstr "She asked, \"Yogi, where are you from?\""
 
 msgctxt "fc5f53d5caf348b48bc2a7d56178c100"
 msgid ""
