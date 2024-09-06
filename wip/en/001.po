@@ -102,7 +102,7 @@ msgstr ""
 
 msgctxt "fef84b2f457f464db89a4eb53805de5e"
 msgid "ཡིན་ དུའང་ རུང་ གསུངས་པ་␣ས ༑"
-msgstr ""
+msgstr "He replied, \"I may well be.\""
 
 msgctxt "175acd6630a449ae9e3d322a106b72e6"
 msgid "མོ་ལུས་ ཞིག་ འགྲོ་བ་ ལྟ་བུ་␣འི་ དད་པ་␣འི་ སྤུ་ ལོང་ གཡོས་ ཏེ །"
