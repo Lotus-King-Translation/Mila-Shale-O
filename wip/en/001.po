@@ -97,6 +97,8 @@ msgctxt "0f09748f25c64dc18745461d6ac57565"
 msgid ""
 "ཁྱེད་ གཉའ་ནང་ གྲོད་ ཕུག་ གི་ རྗེ་བཙུན་ མི་ལ་ ནི་ མིན་ ལ་␣ས་ ཆེ་ ཟེར་བ་ ལ །"
 msgstr ""
+"She said, \"You are probably not Jetsun Milarepa from Nyanang Belly Cave, "
+"are you?\""
 
 msgctxt "fef84b2f457f464db89a4eb53805de5e"
 msgid "ཡིན་ དུའང་ རུང་ གསུངས་པ་␣ས ༑"
