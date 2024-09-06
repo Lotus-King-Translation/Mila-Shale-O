@@ -107,6 +107,8 @@ msgstr "He replied, \"I may well be.\""
 msgctxt "175acd6630a449ae9e3d322a106b72e6"
 msgid "མོ་ལུས་ ཞིག་ འགྲོ་བ་ ལྟ་བུ་␣འི་ དད་པ་␣འི་ སྤུ་ ལོང་ གཡོས་ ཏེ །"
 msgstr ""
+"The hairs on her body shook with faith as if her body was about to "
+"disintegrate."
 
 msgctxt "fb0958f72ee84eeb87dfc0245ba00e29"
 msgid ""
