@@ -170,6 +170,8 @@ msgid ""
 "རྗེ་བཙུན་ གྱི་ དྲུང་ དུ་ བྱུང་ ནས་ ཆོས་ གནང་ བར་ ཞུ་ ཞེས་ གསེར་ཐིག་པ་ ཞིག་ "
 "གིས་ ཕྱག་རྟེན་ བྱས་ ནས་ ཞུ་དོན་ གླུ་ རུ་ ཕུལ་བ །"
 msgstr ""
+"Came before Jetsun and requested teachings, offering a nugget of gold as a "
+"present, and sang this song of request:"
 
 msgctxt "283ed75dbf1a4fbb8131f9550a54e330"
 msgid "ཨེ་མ་ རྣལ་འབྱོར་ རས་ཆེན་པ ། །"
