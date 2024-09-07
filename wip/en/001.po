@@ -123,7 +123,7 @@ msgstr "[The Jetsun] asked [her], \"What was it like?\""
 
 msgctxt "a3412cf771bb4f4f8279ac93c7332722"
 msgid "བདག་ གི་ ཁོང་ ན་ འོད་ མེད་པ་␣འི་ ཉི་ཟླ་ གཉིས་ འདུག་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "\"There was a sun and a moon inside me without light.\""
 
 msgctxt "b04ade4fcfc14264be1969f73af56752"
 msgid ""
