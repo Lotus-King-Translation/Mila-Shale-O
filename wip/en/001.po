@@ -146,6 +146,8 @@ msgid ""
 "བདག་ གིས་ རྗེ་བཙུན་ གྱི་ ཕྱག་ཕྱི་␣ར་ འབྲངས་ ན་ ཆོས་ ཤིག་ འོང་བ་ ཡིན་ ནམ་ "
 "ཟེར་བ་ ལ །"
 msgstr ""
+"\"I wonder if I follow in Jetsun's footsteps, will I receive Dharma?\" she "
+"asked."
 
 msgctxt "648ca68e73274beda2bbba115eb09f60"
 msgid "ཞལ་ ནས་ ཡིན་པ་␣འང་ སྲིད་ གསུང༌ །"
