@@ -130,6 +130,8 @@ msgid ""
 "ཤར་ཕྱོགས་ ནས་ ཉི་ཟླ་ གཉིས་ ཤར་ བྱུང་བ་␣འི་ འོད་ ཀྱིས་ བདག་ གིས་ ཉི་ཟླ་ ཡང་ "
 "འོད་ དང་ ལྡན་པ་␣ར་ བྱས་ ཏེ །"
 msgstr ""
+"From the east, two luminaries, a sun and a moon, rose, and their light made "
+"my sun and moon luminous."
 
 msgctxt "d3ccb9e9c0774030b0eb5d0f3ab8c657"
 msgid ""
