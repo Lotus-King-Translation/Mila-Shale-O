@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "648ca68e73274beda2bbba115eb09f60"
 msgid "ཞལ་ ནས་ ཡིན་པ་␣འང་ སྲིད་ གསུང༌ །"
-msgstr ""
+msgstr "He replied, \"It is possible.\""
 
 msgctxt "98105e1225144b0392dff00432f6b3b5"
 msgid ""
