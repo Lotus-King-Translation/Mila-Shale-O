@@ -138,6 +138,8 @@ msgid ""
 "ཕྱིར་ ཐོན་ ཕྱི་ ནས་ ཤར་བ་␣འི་ ཉི་ཟླ་ དང་ འདྲེས་ ཏེ་ འཇིག་རྟེན་ གྱི་ ཁམས་ "
 "ཀུན་གསལ་ ལེ་ མཐོང་བ་ ཞིག་ རྨི །"
 msgstr ""
+"They emerged and merged with the sun and moon that had risen outside, and I "
+"dreamed of clearly seeing all the realms of the world."
 
 msgctxt "29d98c5340a8484aa64b774c483aee4b"
 msgid ""
