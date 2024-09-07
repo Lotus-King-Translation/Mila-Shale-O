@@ -114,6 +114,8 @@ msgctxt "fb0958f72ee84eeb87dfc0245ba00e29"
 msgid ""
 "ཕྱག་ འཚལ་ ཞིང་ དེ་ ཀ་ ལགས་ བདག་ ལ་ མདང་ རྨི་ལམ་ བཟང་པོ་ བྱུང་ ཟེར་བ་ ལ །"
 msgstr ""
+"She prostrated and said, “Indeed, it is true! I had an excellent dream last "
+"night.\""
 
 msgctxt "ad16942cc5cc4770baf07548e9d98756"
 msgid "ཇི་ལྟ་བུ་ ཞིག་ བྱུང་ གསུངས་པ་␣ས །"
