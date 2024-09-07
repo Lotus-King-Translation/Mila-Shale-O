@@ -119,7 +119,7 @@ msgstr ""
 
 msgctxt "ad16942cc5cc4770baf07548e9d98756"
 msgid "ཇི་ལྟ་བུ་ ཞིག་ བྱུང་ གསུངས་པ་␣ས །"
-msgstr ""
+msgstr "[The Jetsun] asked [her], \"What was it like?\""
 
 msgctxt "a3412cf771bb4f4f8279ac93c7332722"
 msgid "བདག་ གི་ ཁོང་ ན་ འོད་ མེད་པ་␣འི་ ཉི་ཟླ་ གཉིས་ འདུག་པ་ ལ་␣ས །"
