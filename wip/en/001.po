@@ -163,7 +163,7 @@ msgctxt "7c739a1818164c57ac6a04f66534700e"
 msgid ""
 "དེ་ནས་ རིང་པོ་ མ་ཐོགས་པ་␣ར་ སྔར་ གྱི་ བུ་མོ་ དེ་ གྲོགས་ གཅིག་ དང་ བསྡེབས་ ཏེ"
 " །"
-msgstr ""
+msgstr "Not long after, the previous girl, accompanied by a friend,"
 
 msgctxt "9ae0ca402bf7481f876ed1c9974b7a5b"
 msgid ""
