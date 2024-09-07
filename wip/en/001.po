@@ -157,7 +157,7 @@ msgctxt "98105e1225144b0392dff00432f6b3b5"
 msgid ""
 "ཏིང་ངེ་འཛིན་ གྱིས་ བྱིན་ གྱིས་ བརླབས་ ནས་ གཉའ་ནང་ གྲོད་ ཕུག་ ཏུ་ བྱོན་ ནོ "
 "། །"
-msgstr ""
+msgstr "Blessing her with samadhi, he departed for Nyanang Belly Cave."
 
 msgctxt "7c739a1818164c57ac6a04f66534700e"
 msgid ""
