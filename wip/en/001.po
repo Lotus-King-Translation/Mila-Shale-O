@@ -267,7 +267,7 @@ msgstr "My breath, like mist, is about to disappear."
 
 msgctxt "a29dfdb9e1354c1bb95666666c378cf2"
 msgid "སེམས་ བསམ་མནོ་ བཏང་བ་␣ས་ བློ་ མ་ བདེ ། །"
-msgstr ""
+msgstr "Thinking about this, my mind becomes uneasy,"
 
 msgctxt "c704e7c675f9456f86cac1fa804bf092"
 msgid "ཡིད་ ཡང་ཡང་ འགྲུས་པ་␣ས་ གཉིད་ མ་ ཁུགས ། །"
