@@ -211,7 +211,7 @@ msgstr "When I look at accumulated wealth,"
 
 msgctxt "5d2aa98dcf6a4aa5929f466d3d8381e5"
 msgid "མི་རྟག་ སྦྲང་མ་␣འི་ སྦྲང་རྩི་ འདྲ ། །"
-msgstr ""
+msgstr "It is impermanent, like bees' honey."
 
 msgctxt "a4b2a33c06dd4b4db36dd9dbb7392d21"
 msgid "དེ་␣ས་ ཀྱང་ བུ་མོ་ བློ་ མ་ བདེ ། །"
