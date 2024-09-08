@@ -191,7 +191,7 @@ msgstr "It is impermanent, like dew on grass tips."
 
 msgctxt "3c084d2a1c3b42fe843c227f1268f0dd"
 msgid "དེ་␣ས་ ཀྱང་ བུ་མོ་ བློ་ མ་ བདེ ། །"
-msgstr ""
+msgstr "That makes the girl uneasy."
 
 msgctxt "6aa954a191034489a6897807e4d0d905"
 msgid "འགྲོགས་པ་␣འི་ གཉེན་ ལ་ བལྟས་ ཙ་ན ། །"
