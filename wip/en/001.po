@@ -183,7 +183,7 @@ msgstr "Great accomplished one, please listen."
 
 msgctxt "91ec7c3cc6c043fda98268b178bd716d"
 msgid "བདག་སྐྱེས་པ་␣འི་ ལུས་ ལ་ བལྟས་ ཙ་ན ། །"
-msgstr ""
+msgstr "When I look upon this body I was born into,"
 
 msgctxt "a723d8da1f954d618f4a0cc355be1d14"
 msgid "མི་རྟག་ རྩྭ་ཁ་␣འི་ ཟིལ་པ་ འདྲ ། །"
