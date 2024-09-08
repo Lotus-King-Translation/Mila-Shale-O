@@ -239,7 +239,7 @@ msgstr "At night, I ponder sleeplessly."
 
 msgctxt "0773009bfcbf40f6a4de384003183db8"
 msgid "སྔོན་ཆད་ བསོད་ནམས་ བསགས་པ་␣འི་ མཐུ་␣ས ། །"
-msgstr ""
+msgstr "Through the power of merit accumulated in the past,"
 
 msgctxt "d40405ecfffe4001a9f5c0edaf9024fb"
 msgid "དུས་ ལན་ གཅིག་ མི་ལུས་ ཐོབ་པ་ འདི ། །"
