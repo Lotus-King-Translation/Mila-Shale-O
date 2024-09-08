@@ -199,7 +199,7 @@ msgstr "When I look at my close relatives,"
 
 msgctxt "1fac9c5feac04d9fb5fbc3e27364b078"
 msgid "མི་རྟག་ ཚོང་དུས་ མགྲོན་པོ་ འདྲ ། །"
-msgstr ""
+msgstr "They are impermanent, like visitors in a market."
 
 msgctxt "9fc1afde860e4f609d0fb0b6576892a2"
 msgid "དེ་␣ས་ ཀྱང་ བུ་མོ་ བློ་ མ་ བདེ ། །"
