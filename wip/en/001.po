@@ -288,6 +288,7 @@ msgstr "Now, great Jetsun, I pray for your protection,"
 msgctxt "8e20f65563914cb7864d33081a71da29"
 msgid "བཀའ་དྲིན་ ལྷ་ཆོས་ གནང་ དུ་ གསོལ ། །  ཞེས་ ཞུས་པ་␣ས །"
 msgstr ""
+"With your kindness, please grant me the sublime Dharma. As [she] requested."
 
 msgctxt "cefe2fba3f014f3e8404a8c9f551fd53"
 msgid "རྗེ་བཙུན་ གྱིས་ མོས་ ཆོས་ རང་ ཁོ་ན་ ནུས་ སམ་ མི་ ནུས །"
