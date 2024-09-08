@@ -243,7 +243,7 @@ msgstr "Through the power of merit accumulated in the past,"
 
 msgctxt "d40405ecfffe4001a9f5c0edaf9024fb"
 msgid "དུས་ ལན་ གཅིག་ མི་ལུས་ ཐོབ་པ་ འདི ། །"
-msgstr ""
+msgstr "This human body [I have] obtained just once,"
 
 msgctxt "563960b33ca34dfd9aeee314f1893787"
 msgid "ལོ་ དང་ ཟླ་བ་␣ས་ རྒྱབ་ ནས་ དེད ། །"
