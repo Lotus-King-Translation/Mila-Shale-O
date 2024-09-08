@@ -235,7 +235,7 @@ msgstr "By day, I contemplate with my mind."
 
 msgctxt "48c047f0f35644adbf48bd4f4076406e"
 msgid "མཚན་མོ་ གཉིད་ མེད་ བསམ་མནོ་ བཏང༌ ། །"
-msgstr ""
+msgstr "At night, I ponder sleeplessly."
 
 msgctxt "0773009bfcbf40f6a4de384003183db8"
 msgid "སྔོན་ཆད་ བསོད་ནམས་ བསགས་པ་␣འི་ མཐུ་␣ས ། །"
