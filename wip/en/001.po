@@ -227,7 +227,7 @@ msgstr "It is like a king's prison of evil deeds."
 
 msgctxt "f3ef1bf3cfcf459fafb258f6eea1d755"
 msgid "དེ་␣ས་ ཀྱང་ བུ་མོ་ བློ་ མ་ བདེ ། །"
-msgstr ""
+msgstr "That also makes the girl uneasy."
 
 msgctxt "cd55720e5931444598905e8b72fafc82"
 msgid "ཉིན་པ་␣ར་ བློ་ ཡིས་ རྟོག་དཔྱོད་ བཏང་ ། །"
