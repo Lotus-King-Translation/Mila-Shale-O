@@ -360,6 +360,7 @@ msgstr "In the Jambu continent of the south of Mount Meru,"
 msgctxt "edecb2d297764974b62c5d4f524d6b30"
 msgid "སྡིག་སྒྲིབ་ བག་ཆགས་ ཀུན་ འཁྲུད་པ་␣འི ། །"
 msgstr ""
+"That which cleanses all degradations and obscurations and their latencies,"
 
 msgctxt "1e572369eeea40d8bdd77941dc4964ba"
 msgid "ཡན་ལག་ བརྒྱད་ ལྡན་ ཁྲུས་ ཀྱི་ རྫིང༌ ། །"
