@@ -247,7 +247,7 @@ msgstr "This human body [I have] obtained just once,"
 
 msgctxt "563960b33ca34dfd9aeee314f1893787"
 msgid "ལོ་ དང་ ཟླ་བ་␣ས་ རྒྱབ་ ནས་ དེད ། །"
-msgstr ""
+msgstr "Years and months chase me from behind,"
 
 msgctxt "7bb4c4ef82ca40a1a29dbbef8fd66def"
 msgid "ཞག་ དང་ ཟ་མ་␣ས་ མདུན་ ནས་ ཁྲིད ། །"
