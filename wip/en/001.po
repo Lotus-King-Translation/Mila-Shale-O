@@ -255,7 +255,7 @@ msgstr "Led from the front by days and meals,"
 
 msgctxt "ab52e9fb418643ccb0d03e63b1481485"
 msgid "སྐད་ཅིག་ རེས་ ཀྱང་ འཆི་ ལ་ཉེ །"
-msgstr ""
+msgstr "Each moment brings us nearer to death."
 
 msgctxt "0e093c9f7c484c9b974d8f0e10d171f7"
 msgid "། ལུས་ སྡོང་ རུལ་ འདྲ་ སྟེ་ འགྱེལ་ དང་ མཉམ ། །"
