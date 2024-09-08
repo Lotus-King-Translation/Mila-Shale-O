@@ -207,7 +207,7 @@ msgstr "That also makes the girl uneasy."
 
 msgctxt "e0ca5448115b45249ff391601c2539ac"
 msgid "བསོགས་པ་␣འི་ ནོར་ ལ་ བལྟས་ ཙ་ན་␣༑ །"
-msgstr ""
+msgstr "When I look at accumulated wealth,"
 
 msgctxt "5d2aa98dcf6a4aa5929f466d3d8381e5"
 msgid "མི་རྟག་ སྦྲང་མ་␣འི་ སྦྲང་རྩི་ འདྲ ། །"
