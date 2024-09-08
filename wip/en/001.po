@@ -292,7 +292,7 @@ msgstr ""
 
 msgctxt "cefe2fba3f014f3e8404a8c9f551fd53"
 msgid "རྗེ་བཙུན་ གྱིས་ མོས་ ཆོས་ རང་ ཁོ་ན་ ནུས་ སམ་ མི་ ནུས །"
-msgstr ""
+msgstr "The Jetsun to know whether she is capable in the Dharma or not,"
 
 msgctxt "2616b869764f4cc999c0163cffca6c0f"
 msgid ""
