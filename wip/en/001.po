@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "69ece965263a4d7d9a526947f338b253"
 msgid "དཔལ་ འཁོར་ལོ་␣ས་ སྒྱུར་ རྒྱལ་ སྤྲུལ་པ་␣འི་ སྐུ ། །"
-msgstr ""
+msgstr "The emanation body of the glorious wheel-turning king,"
 
 msgctxt "c6c2bc4ee27a42d3b72d5800fc1afcd1"
 msgid "དྲིན་ཅན་ མར་པ་␣འི་ ཞབས་ ལ་ འདུད ། །"
