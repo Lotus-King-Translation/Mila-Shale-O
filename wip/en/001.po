@@ -259,7 +259,7 @@ msgstr "Each moment brings us nearer to death."
 
 msgctxt "0e093c9f7c484c9b974d8f0e10d171f7"
 msgid "། ལུས་ སྡོང་ རུལ་ འདྲ་ སྟེ་ འགྱེལ་ དང་ མཉམ ། །"
-msgstr ""
+msgstr "The body, like a rotting tree trunk, is about to fall."
 
 msgctxt "a43aa169dc3c469ea71a2d57ffab6e7f"
 msgid "དབུགས་ ན་བུན་ འདྲ་ སྟེ་ ཡལ་ ལ་ ཁད ། །"
