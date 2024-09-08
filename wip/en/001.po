@@ -343,7 +343,7 @@ msgstr "With radiant luster and fragrance,"
 
 msgctxt "5eb5a64566b542bcbcdb79715cf4c3e0"
 msgid "ལྷ་ ཡི་ མེ་ཏོག་ ངོ་མཚར་ ཅན ། །"
-msgstr ""
+msgstr "The wondrous divine flowers,"
 
 msgctxt "f5e7d2e61afb407bbeecc2820e962028"
 msgid "དེ་ སྦྲང་མ་ ཕལ་ གྱིས་ མི་ རྙེད་ གདའ ། །"
