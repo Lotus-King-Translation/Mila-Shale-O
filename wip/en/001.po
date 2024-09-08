@@ -223,7 +223,7 @@ msgstr "When I look at my birthplace,"
 
 msgctxt "2746981f720a4ef69fb89098466f4c31"
 msgid "སྡིག་སྤྱོད་ རྒྱལ་པོ་␣འི་ བཙོན་ར་ འདྲ ། །"
-msgstr ""
+msgstr "It is like a king's prison of evil deeds."
 
 msgctxt "f3ef1bf3cfcf459fafb258f6eea1d755"
 msgid "དེ་␣ས་ ཀྱང་ བུ་མོ་ བློ་ མ་ བདེ ། །"
