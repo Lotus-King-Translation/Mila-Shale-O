@@ -335,7 +335,7 @@ msgstr "Up there in the god realm of Tushita,"
 
 msgctxt "0d4bc1a11f044dd0bf9d7e870d9d6e0c"
 msgid "ཡོངས་འདུ་ ཚལ་ གྱི་ ཕོ་བྲང་ ན ། །"
-msgstr ""
+msgstr "In the palace of the all-encompassing garden,"
 
 msgctxt "9506162026e445b4aaa9b32846be1318"
 msgid "བཀྲག་མདངས་ དྲི་བསུང་ ལྡན་པ་ ཡི ། །"
