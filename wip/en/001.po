@@ -318,6 +318,8 @@ msgid ""
 "དེ་བ་␣ས་ ད་ལྟ་ གཞོན་ དུས་ ནས་ འཇིག་རྟེན་ བྱས་པ་ དྲག་ གསུངས་ ནས་ མོ་␣འི་ ཞུས་"
 " ལན་ མགུར་ དུ་ གསུངས་པ །"
 msgstr ""
+"Instead, it is better to engage in worldly affairs while you are still "
+"young,\" he said. She replied in this song:"
 
 msgctxt "69ece965263a4d7d9a526947f338b253"
 msgid "དཔལ་ འཁོར་ལོ་␣ས་ སྒྱུར་ རྒྱལ་ སྤྲུལ་པ་␣འི་ སྐུ ། །"
