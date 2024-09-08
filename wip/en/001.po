@@ -327,7 +327,7 @@ msgstr "The emanation body of the glorious wheel-turning king,"
 
 msgctxt "c6c2bc4ee27a42d3b72d5800fc1afcd1"
 msgid "དྲིན་ཅན་ མར་པ་␣འི་ ཞབས་ ལ་ འདུད ། །"
-msgstr ""
+msgstr "To the feet of the gracious Marpa, I bow."
 
 msgctxt "f8958595bd41406e9fb7b1a856b3d879"
 msgid "ཡ་ ཀི་ དགའ་ལྡན་ ལྷ་ཡུལ་ གྱི ། །"
