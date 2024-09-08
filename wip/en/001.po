@@ -271,7 +271,7 @@ msgstr "Thinking about this, my mind becomes uneasy,"
 
 msgctxt "c704e7c675f9456f86cac1fa804bf092"
 msgid "ཡིད་ ཡང་ཡང་ འགྲུས་པ་␣ས་ གཉིད་ མ་ ཁུགས ། །"
-msgstr ""
+msgstr "Persistent rumination makes me sleepless."
 
 msgctxt "2e3e10c3be8b4259bafa9a356ae57e41"
 msgid "ཕ་ རྗེ་བཙུན་ ཆེན་པོ་␣འི་ ཞབས་དྲུང་ དུ ། །"
