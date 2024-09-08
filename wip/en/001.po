@@ -283,7 +283,7 @@ msgstr "I have come to entrust my mind to the sublime Dharma."
 
 msgctxt "838d15ad16f345ca875bbd990c427d82"
 msgid "ད་ རྗེ་བཙུན་ ཆེན་པོ་␣ས་ བསྐྱབ་ ཏུ་ གསོལ ། །"
-msgstr ""
+msgstr "Now, great Jetsun, I pray for your protection,"
 
 msgctxt "8e20f65563914cb7864d33081a71da29"
 msgid "བཀའ་དྲིན་ ལྷ་ཆོས་ གནང་ དུ་ གསོལ ། །  ཞེས་ ཞུས་པ་␣ས །"
