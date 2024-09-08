@@ -215,7 +215,7 @@ msgstr "It is impermanent, like bees' honey."
 
 msgctxt "a4b2a33c06dd4b4db36dd9dbb7392d21"
 msgid "དེ་␣ས་ ཀྱང་ བུ་མོ་ བློ་ མ་ བདེ ། །"
-msgstr ""
+msgstr "That also makes the girl uneasy."
 
 msgctxt "b70948dc77164cd4a4ed0c20a51d73f1"
 msgid "སྐྱེས་པ་␣འི་ ཡུལ་ ལ་ བལྟས་ ཙ་ན ། །"
