@@ -305,6 +305,7 @@ msgstr ""
 msgctxt "a6000d85cb2a4ea8b74ea62e78aa148a"
 msgid "ཁྱེད་ ཕྱུག་པོ་␣འི་ བུ་མོ་␣ས་ ཆོས་ ནུས་ དོགས་ ཀྱང་ མེད །"
 msgstr ""
+"A rich man's daughter would never concerned about practicing the Dharma."
 
 msgctxt "9945c7b2004c4c75b0fc6ab0a791c379"
 msgid "བརྒྱ་ལ་ ནུས་ རུང་ ཆོས་ མགོ་ཐོན་པ་ ཡང་ དཀའ །"
