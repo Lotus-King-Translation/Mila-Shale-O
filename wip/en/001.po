@@ -175,7 +175,7 @@ msgstr ""
 
 msgctxt "283ed75dbf1a4fbb8131f9550a54e330"
 msgid "ཨེ་མ་ རྣལ་འབྱོར་ རས་ཆེན་པ ། །"
-msgstr "EMA! Great Repa Yogi,"
+msgstr "EMA! Yogi Repachen,"
 
 msgctxt "8171706bbd5b413c95fe54666596bb31"
 msgid "གྲུབ་ཐོབ་ ཆེན་པོ་ སྙན་ གསོན་ དང༌ ། །"
