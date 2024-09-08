@@ -187,7 +187,7 @@ msgstr "When I look upon this body I was born into,"
 
 msgctxt "a723d8da1f954d618f4a0cc355be1d14"
 msgid "མི་རྟག་ རྩྭ་ཁ་␣འི་ ཟིལ་པ་ འདྲ ། །"
-msgstr ""
+msgstr "It is impermanent, like dew on grass tips."
 
 msgctxt "3c084d2a1c3b42fe843c227f1268f0dd"
 msgid "དེ་␣ས་ ཀྱང་ བུ་མོ་ བློ་ མ་ བདེ ། །"
