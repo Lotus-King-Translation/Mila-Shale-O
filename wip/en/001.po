@@ -275,7 +275,7 @@ msgstr "Persistent rumination makes me sleepless."
 
 msgctxt "2e3e10c3be8b4259bafa9a356ae57e41"
 msgid "ཕ་ རྗེ་བཙུན་ ཆེན་པོ་␣འི་ ཞབས་དྲུང་ དུ ། །"
-msgstr "At the feet of the father, the great Jetsun,"
+msgstr "To the feet of the great father Jetsun,"
 
 msgctxt "5b6332bbde334860a90824231b6857d5"
 msgid "ཡིད་ དམ་པ་␣འི་ ཆོས་ ལ་ གཏད་ ནས་ འོངས ། །"
