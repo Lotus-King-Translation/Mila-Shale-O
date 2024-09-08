@@ -339,7 +339,7 @@ msgstr "In the palace of the all-encompassing garden,"
 
 msgctxt "9506162026e445b4aaa9b32846be1318"
 msgid "བཀྲག་མདངས་ དྲི་བསུང་ ལྡན་པ་ ཡི ། །"
-msgstr ""
+msgstr "With radiant luster and fragrance,"
 
 msgctxt "5eb5a64566b542bcbcdb79715cf4c3e0"
 msgid "ལྷ་ ཡི་ མེ་ཏོག་ ངོ་མཚར་ ཅན ། །"
