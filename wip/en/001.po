@@ -355,7 +355,7 @@ msgstr "Even if hundreds of them are found, they cannot extract the essence."
 
 msgctxt "54bb40f0e5ef4ac5a0c18d0b6552dedc"
 msgid "འཛམ་གླིང་ རི་རྒྱལ་ ལྷོ་ཕྱོགས་ ན ། །"
-msgstr ""
+msgstr "In the south of Mount Meru, the ruler of the Jambu continent,"
 
 msgctxt "edecb2d297764974b62c5d4f524d6b30"
 msgid "སྡིག་སྒྲིབ་ བག་ཆགས་ ཀུན་ འཁྲུད་པ་␣འི ། །"
