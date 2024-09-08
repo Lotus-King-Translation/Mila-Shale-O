@@ -203,7 +203,7 @@ msgstr "They are impermanent, like visitors in a market."
 
 msgctxt "9fc1afde860e4f609d0fb0b6576892a2"
 msgid "དེ་␣ས་ ཀྱང་ བུ་མོ་ བློ་ མ་ བདེ ། །"
-msgstr ""
+msgstr "That also makes the girl uneasy."
 
 msgctxt "e0ca5448115b45249ff391601c2539ac"
 msgid "བསོགས་པ་␣འི་ ནོར་ ལ་ བལྟས་ ཙ་ན་␣༑ །"
