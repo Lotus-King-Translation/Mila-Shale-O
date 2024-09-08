@@ -263,7 +263,7 @@ msgstr "The body, like a rotting tree trunk, is about to fall."
 
 msgctxt "a43aa169dc3c469ea71a2d57ffab6e7f"
 msgid "དབུགས་ ན་བུན་ འདྲ་ སྟེ་ ཡལ་ ལ་ ཁད ། །"
-msgstr ""
+msgstr "My breath, like mist, is about to disappear."
 
 msgctxt "a29dfdb9e1354c1bb95666666c378cf2"
 msgid "སེམས་ བསམ་མནོ་ བཏང་བ་␣ས་ བློ་ མ་ བདེ ། །"
