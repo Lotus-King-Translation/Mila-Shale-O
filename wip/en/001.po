@@ -279,7 +279,7 @@ msgstr "To the feet of the great father Jetsun,"
 
 msgctxt "5b6332bbde334860a90824231b6857d5"
 msgid "ཡིད་ དམ་པ་␣འི་ ཆོས་ ལ་ གཏད་ ནས་ འོངས ། །"
-msgstr ""
+msgstr "I have come to entrust my mind to the sublime Dharma."
 
 msgctxt "838d15ad16f345ca875bbd990c427d82"
 msgid "ད་ རྗེ་བཙུན་ ཆེན་པོ་␣ས་ བསྐྱབ་ ཏུ་ གསོལ ། །"
