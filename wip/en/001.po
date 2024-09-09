@@ -351,7 +351,7 @@ msgstr "These are not found by ordinary bees."
 
 msgctxt "ceaffe7f9bcb44ae94a5a6c4e5b0cda5"
 msgid "བརྒྱ་ལ་ རྙེད་ ཀྱང་ བཅུད་ མི་ ལོང་ ། །"
-msgstr "Even if hundreds of them are found, they cannot extract the essence."
+msgstr "Though many may find it, they cannot extract the essence."
 
 msgctxt "54bb40f0e5ef4ac5a0c18d0b6552dedc"
 msgid "འཛམ་གླིང་ རི་རྒྱལ་ ལྷོ་ཕྱོགས་ ན ། །"
