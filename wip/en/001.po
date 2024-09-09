@@ -424,7 +424,7 @@ msgstr "In this endless ocean of samsara,"
 
 msgctxt "03ee905a36274ea88a414479689258eb"
 msgid "གདེངས་ མེད་ ཉམ་ཐག་ འགྲོ་བ་ རྣམས ། །"
-msgstr ""
+msgstr "All those who lack assurance and weak beings,"
 
 msgctxt "2ade29c0d50241d68d01645b813f1e03"
 msgid "ངན་སོང་ གསུམ་ གྱི་ གནས་ སུ་ འཁྱམ ། །"
