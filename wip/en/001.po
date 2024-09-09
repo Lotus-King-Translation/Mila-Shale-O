@@ -457,7 +457,7 @@ msgstr "The path leading from happiness to happiness,"
 
 msgctxt "03da52b733ad40f2898d5848f4542322"
 msgid "དམ་ཆོས་ ལམ་ དུ་ འཇུག་པ་ མེད ། །"
-msgstr "They do not engage the path of holy Dharma."
+msgstr "They do not engage in the path of holy Dharma."
 
 msgctxt "281c67bfd5de4b828dffabedd2a3f07e"
 msgid "བརྒྱལཆོས་ སྒོར་ ཞུགས་ ན་ ཡང༌ ། །"
