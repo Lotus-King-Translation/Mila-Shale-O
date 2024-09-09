@@ -416,7 +416,7 @@ msgstr "Those without fortune do not meet him."
 
 msgctxt "0e9ec51de577446db814e9618a06bc77"
 msgid "བརྒྱ་ལ་ མཇལ་ ཡང་ དད་པ་ མེད ། །"
-msgstr ""
+msgstr "Though many may meet him, they lack confidence."
 
 msgctxt "cd1a7d5ef0c14a90851c97773fb32de3"
 msgid "མཐའ་མེད་ འཁོར་བ་␣འི་ རྒྱ་མཚོ་ འདི་␣ར ། །"
