@@ -432,7 +432,7 @@ msgstr "Wander in the realms of the three bad migrations."
 
 msgctxt "7c10523b2d004c54b40f372457537bed"
 msgid "གལ་ཏེ་ དལ་འབྱོར་ ཐོབ་ སྲིད་ ན་␣འང་ ། །"
-msgstr ""
+msgstr "Even if they obtain a precious human body of freedom and connection,"
 
 msgctxt "11469811380d402a971be469a83c0f74"
 msgid "འཕྲོ་ མཐུད་ བསོད་ནམས་ གསོག་ མི་ ནུས ། །"
