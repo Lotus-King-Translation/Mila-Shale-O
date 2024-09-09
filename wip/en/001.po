@@ -453,7 +453,7 @@ msgstr ""
 
 msgctxt "c6996f4f34774d2ba6c8111f322a5ab8"
 msgid "བདེ་ ནས་ བདེ་བ་␣ར་ འགྲོ་བ་␣འི་ ལམ ། །"
-msgstr ""
+msgstr "The path leading from happiness to happiness,"
 
 msgctxt "03da52b733ad40f2898d5848f4542322"
 msgid "དམ་ཆོས་ ལམ་ དུ་ འཇུག་པ་ མེད ། །"
