@@ -436,7 +436,7 @@ msgstr "Even if they obtain a precious human body of freedom and connection,"
 
 msgctxt "11469811380d402a971be469a83c0f74"
 msgid "འཕྲོ་ མཐུད་ བསོད་ནམས་ གསོག་ མི་ ནུས ། །"
-msgstr ""
+msgstr "They cannot accumulate further merit."
 
 msgctxt "f29a2a301a2d41b48dcc03819e49d11e"
 msgid "བརྒྱ་ལ་ བསགས་ ཀྱང་ རློམཔསཁྱེར ། །"
