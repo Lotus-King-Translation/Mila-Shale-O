@@ -372,7 +372,7 @@ msgstr "This is beyond the reach of common birds,"
 
 msgctxt "89c050aaaf8a43a78627dd89fcd85232"
 msgid "བརྒྱ་ལ་ རྙེད་ ཀྱང་ དེ་␣ར་ མི་ གནས ། །"
-msgstr "Even if hundreds of them are found, they do not stay there."
+msgstr "Though many may find it, they do not stay there."
 
 msgctxt "92c1e5d1d8cb424690acba080bc23561"
 msgid "རྡོ་རྗེ་ གདན་ གྱི་ བྱང་ཕྱོགས་ ན ། །"
