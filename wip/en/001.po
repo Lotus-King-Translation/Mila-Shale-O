@@ -428,7 +428,7 @@ msgstr "All those who lack assurance and weak beings,"
 
 msgctxt "2ade29c0d50241d68d01645b813f1e03"
 msgid "ངན་སོང་ གསུམ་ གྱི་ གནས་ སུ་ འཁྱམ ། །"
-msgstr ""
+msgstr "Wander in the realms of the three bad migrations."
 
 msgctxt "7c10523b2d004c54b40f372457537bed"
 msgid "གལ་ཏེ་ དལ་འབྱོར་ ཐོབ་ སྲིད་ ན་␣འང་ ། །"
