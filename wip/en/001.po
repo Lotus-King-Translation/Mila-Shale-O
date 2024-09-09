@@ -408,7 +408,7 @@ msgstr "The protector of weak beings,"
 
 msgctxt "ec09469177214fa8bad71acad373868b"
 msgid "རང་བྱུང་ ཝ་ཏི་ བཟང་པོ་ བཞུགས ། །"
-msgstr ""
+msgstr "The self-arisen excellent Vati resides."
 
 msgctxt "eb1ce51493894184880d11577ad0ed4e"
 msgid "དེ་ སྐལ་མེད་ རྣམས་ དང་ མི་ མཇལ་ གདའ ། །"
