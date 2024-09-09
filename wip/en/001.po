@@ -477,7 +477,7 @@ msgstr "All appearances are golden."
 
 msgctxt "1f89b4b3b1eb488884dc667bfcb6e5a5"
 msgid "ཁྱོད་ ཀྱི་ སྙིང་ རྡིག་ ང་ མི་ འདོད ། །"
-msgstr ""
+msgstr "I do not desire your inner riches."
 
 msgctxt "b3593be0060e45febfb339061ad21a8b"
 msgid "གླུ་ དཔེ་ ལྔ་ དོན་ དང་ དྲུག་པོ་ དེ་␣ས ། །"
