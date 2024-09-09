@@ -384,7 +384,7 @@ msgstr "To dispel all gathering illnesses,"
 
 msgctxt "0fb41c010bfe46d0941d91dd93081864"
 msgid "ཙནྡན་ སྨན་ གྱི་ སྡོང་པོ་ དེ ། །"
-msgstr ""
+msgstr "Is a sandalwood medicinal tree,"
 
 msgctxt "7118535a072f44f3b8036c1b35233c81"
 msgid "མི་ཚད་ ནད་ཅན་ གྱིས་ མི་ རྙེད་ གདའ ། །"
