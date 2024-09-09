@@ -449,6 +449,7 @@ msgstr "Like stars in the daytime."
 msgctxt "3e7cad00f9a241acab43247b8be2a595"
 msgid "དལ་འབྱོར་ མི་ལུས་ ཐོབ་ ནས་ ཀྱང་ ། །"
 msgstr ""
+"Even after obtaining this precious human body of freedom and connection,"
 
 msgctxt "c6996f4f34774d2ba6c8111f322a5ab8"
 msgid "བདེ་ ནས་ བདེ་བ་␣ར་ འགྲོ་བ་␣འི་ ལམ ། །"
