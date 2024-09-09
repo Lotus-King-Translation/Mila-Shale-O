@@ -481,7 +481,7 @@ msgstr "I do not desire your inner riches."
 
 msgctxt "b3593be0060e45febfb339061ad21a8b"
 msgid "གླུ་ དཔེ་ ལྔ་ དོན་ དང་ དྲུག་པོ་ དེ་␣ས ། །"
-msgstr ""
+msgstr "A song with these five examples and six meanings,"
 
 msgctxt "ff9e93f94a524e6f969bdbafe39b3cbf"
 msgid "དད་ ཅན་ ཉ་མ་␣འི་ གླུ་ ལན་ མཛོད ། །"
