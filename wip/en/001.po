@@ -404,7 +404,7 @@ msgstr "At the border between Nepal and Tibet,"
 
 msgctxt "cbfae18433e8406eb2dc0b793e35a7c9"
 msgid "འགྲོ་བ་ ཉམ་ཐག་ རྣམས་ ཀྱི་ མགོན་␣༑ །"
-msgstr ""
+msgstr "The protector of weak beings,"
 
 msgctxt "ec09469177214fa8bad71acad373868b"
 msgid "རང་བྱུང་ ཝ་ཏི་ བཟང་པོ་ བཞུགས ། །"
