@@ -420,7 +420,7 @@ msgstr "Though many may meet him, they lack confidence."
 
 msgctxt "cd1a7d5ef0c14a90851c97773fb32de3"
 msgid "མཐའ་མེད་ འཁོར་བ་␣འི་ རྒྱ་མཚོ་ འདི་␣ར ། །"
-msgstr ""
+msgstr "In this endless ocean of samsara,"
 
 msgctxt "03ee905a36274ea88a414479689258eb"
 msgid "གདེངས་ མེད་ ཉམ་ཐག་ འགྲོ་བ་ རྣམས ། །"
