@@ -465,7 +465,7 @@ msgstr "Though many may enter the door of Dharma,"
 
 msgctxt "a796471896144094b5b589e45ca9bdec"
 msgid "དམ་ཚིག་ ཚུལ་བཞིན་ བསྲུང་བ་ ཉུང༌ ། །"
-msgstr ""
+msgstr "Few protect their sacred commitments properly."
 
 msgctxt "087f8151ddc140dbb9b38fd1637297a5"
 msgid "ཕ་ རྗེ་བཙུན་ གཅིག་ གི་ བཀའ་དྲིན་ ལ་␣ས ། །"
