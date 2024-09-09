@@ -440,7 +440,7 @@ msgstr "They cannot accumulate further merit."
 
 msgctxt "f29a2a301a2d41b48dcc03819e49d11e"
 msgid "བརྒྱ་ལ་ བསགས་ ཀྱང་ རློམཔསཁྱེར ། །"
-msgstr ""
+msgstr "Though many may accumulate, it is carried away by conceit."
 
 msgctxt "9f3aaaff53b34a5cb312842b379dd6f7"
 msgid "ཉིན་ མོ་␣འི་ སྐར་མ་ ལྟ་བུ་ ཡི ། །"
