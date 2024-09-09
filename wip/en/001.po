@@ -473,7 +473,7 @@ msgstr "Through the kindness of the father Jetsun alone,"
 
 msgctxt "e11dab9624a3484d9395d95d46055b76"
 msgid "སྣང་བ་ ཐམས་ཅད་ གསེར་ དུ་ཡོད ། །"
-msgstr ""
+msgstr "All appearances are golden."
 
 msgctxt "1f89b4b3b1eb488884dc667bfcb6e5a5"
 msgid "ཁྱོད་ ཀྱི་ སྙིང་ རྡིག་ ང་ མི་ འདོད ། །"
