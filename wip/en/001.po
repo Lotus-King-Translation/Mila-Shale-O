@@ -392,7 +392,7 @@ msgstr "That cannot be found by ordinary sick people."
 
 msgctxt "90e81565e32d42c1bc7761df886611f1"
 msgid "བརྒྱ་ལ་ རྙེད་ ཀྱང་ ལེན་ མི་ ཤེས་␣༑"
-msgstr ""
+msgstr "Even if hundreds of them are found, they do not know how to use it."
 
 msgctxt "8816fe5653f04ff2862f432f005913a3"
 msgid "བྱང་ཕྱོགས་ ཁ་བ་ ཅན་ གྱི་ ཡུལ ། །"
