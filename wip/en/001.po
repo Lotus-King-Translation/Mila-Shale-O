@@ -368,7 +368,7 @@ msgstr "It is the bathing pool endowed with the eight qualities."
 
 msgctxt "3d85ba03a2234ab8996e745b7db42bd1"
 msgid "དེ་ འདབ་ཆགས་ ཕལ་ གྱིས་ མི་ རྙེད་ གདའ ། །"
-msgstr ""
+msgstr "This is beyond the reach of common birds,"
 
 msgctxt "89c050aaaf8a43a78627dd89fcd85232"
 msgid "བརྒྱ་ལ་ རྙེད་ ཀྱང་ དེ་␣ར་ མི་ གནས ། །"
