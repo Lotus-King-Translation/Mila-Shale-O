@@ -396,11 +396,11 @@ msgstr "Even if hundreds of them are found, they do not know how to use it."
 
 msgctxt "8816fe5653f04ff2862f432f005913a3"
 msgid "བྱང་ཕྱོགས་ ཁ་བ་ ཅན་ གྱི་ ཡུལ ། །"
-msgstr ""
+msgstr "In the north of the Snowy Land,"
 
 msgctxt "dd86b376b1c8453a8e6a3819be501727"
 msgid "བལ་ བོད་ གཉིས་ ཀྱི་ སོ་མཚམས་ ན ། །"
-msgstr ""
+msgstr "At the border between Nepal and Tibet,"
 
 msgctxt "cbfae18433e8406eb2dc0b793e35a7c9"
 msgid "འགྲོ་བ་ ཉམ་ཐག་ རྣམས་ ཀྱི་ མགོན་␣༑ །"
