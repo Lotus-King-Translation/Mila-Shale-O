@@ -380,7 +380,7 @@ msgstr "To the north of Bodhgaya,"
 
 msgctxt "e9f7c24810574e4a8923ebde56ec3ac9"
 msgid "འདུ་བ་␣འི་ ནད་ རྣམས་ སེལ་ བྱེད་པ་␣འི ། །"
-msgstr "To dispel all gathering illnesses,"
+msgstr "To dispel all the gatherings of illnesses,"
 
 msgctxt "0fb41c010bfe46d0941d91dd93081864"
 msgid "ཙནྡན་ སྨན་ གྱི་ སྡོང་པོ་ དེ ། །"
