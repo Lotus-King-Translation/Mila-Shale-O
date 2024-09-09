@@ -408,11 +408,11 @@ msgstr "The protector of weak beings,"
 
 msgctxt "ec09469177214fa8bad71acad373868b"
 msgid "རང་བྱུང་ ཝ་ཏི་ བཟང་པོ་ བཞུགས ། །"
-msgstr "The self-arisen excellent Vati resides."
+msgstr "The self-arisen excellent Vati resides,"
 
 msgctxt "eb1ce51493894184880d11577ad0ed4e"
 msgid "དེ་ སྐལ་མེད་ རྣམས་ དང་ མི་ མཇལ་ གདའ ། །"
-msgstr ""
+msgstr "Those without fortune do not meet him."
 
 msgctxt "0e9ec51de577446db814e9618a06bc77"
 msgid "བརྒྱ་ལ་ མཇལ་ ཡང་ དད་པ་ མེད ། །"
