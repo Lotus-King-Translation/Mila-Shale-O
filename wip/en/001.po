@@ -461,7 +461,7 @@ msgstr "They do not engage in the path of holy Dharma."
 
 msgctxt "281c67bfd5de4b828dffabedd2a3f07e"
 msgid "བརྒྱལཆོས་ སྒོར་ ཞུགས་ ན་ ཡང༌ ། །"
-msgstr ""
+msgstr "Though many may enter the door of Dharma,"
 
 msgctxt "a796471896144094b5b589e45ca9bdec"
 msgid "དམ་ཚིག་ ཚུལ་བཞིན་ བསྲུང་བ་ ཉུང༌ ། །"
