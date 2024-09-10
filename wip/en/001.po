@@ -563,6 +563,8 @@ msgctxt "da31c985510b4233aba159b40182a42d"
 msgid ""
 "བདག་ འཁོར་བ་␣འི་ ཉེས་དམིགས་ དྲན་ ཏེ་ ཞེ་ ཐག་པ་ ནས་ ཆོས་ བྱེད་པ་ མ་གཏོགས །"
 msgstr ""
+"I, by remembering the faults of samsara, except for practicing Dharma "
+"wholeheartedly, "
 
 msgctxt "98a2dba5433f4053b74f876fe1139ede"
 msgid "འཇིག་རྟེན་ འདི་␣འི་ ལོ་ འདོད་ རྩ་བ་ ནས་ མེད །"
