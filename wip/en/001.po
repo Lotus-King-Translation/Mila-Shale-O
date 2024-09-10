@@ -590,7 +590,7 @@ msgstr "Great Lord Repa, please listen,"
 
 msgctxt "89335bc891544317a5071cd8b566cfff"
 msgid "བདག་མོ་␣ས་པ་␣འི་ ཞུ་བ་ འབུལ་བ་ འདི ། །"
-msgstr ""
+msgstr "To the request offered by this girl,"
 
 msgctxt "e497072a9b5241f5ad25381f1bd54958"
 msgid "རྫུན་ ཁ་ཚིག་ ཡིན་ མིན་ ཐུགས་ ཀྱིས་ མཁྱེན ། །"
