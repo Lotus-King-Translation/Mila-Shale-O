@@ -762,7 +762,7 @@ msgstr "Each of the meaningful constructions,"
 
 msgctxt "c8c2fe06fc7b4c59961e3e4e215006ef"
 msgid "འཁོར་བ་␣འི་ བཙོན་ དོང་ ས་མཁར་ དེ ། །"
-msgstr ""
+msgstr "But that earthen castle, samsara's hole of imprisonment,"
 
 msgctxt "83fdf346f3194c1fa26039dbc24e4850"
 msgid "དང་པོ་ སེམས་ ལ་ སྡུག་བསྔལ་ བསྐུར །༑ །"
