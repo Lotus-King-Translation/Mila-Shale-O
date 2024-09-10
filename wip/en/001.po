@@ -517,7 +517,7 @@ msgstr "Restore the breaches in your elevated earthen fortress."
 
 msgctxt "4e239d1eb47843639b732d0d51f5740e"
 msgid "བཤོས་ ཞིག་ རེམ་པ་ མཐའ་ ནས་ ཐུལ ། །"
-msgstr ""
+msgstr "Mend the torn edges of your clothes."
 
 msgctxt "dce9ceecd07a47b9babcaaa441c330b8"
 msgid "ལྟོས་པ་␣འི་ ཕྱུགས་ ལུག་ བུ་ བཞིན་ སྐྱོངས ། །"
