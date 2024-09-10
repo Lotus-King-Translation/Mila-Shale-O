@@ -626,7 +626,7 @@ msgstr "It vanishes unnoticed with each day and meal."
 
 msgctxt "f9fe70594b6d4025ba0d8eb33a3743a6"
 msgid "གང་ དུ་ གནས་ ཀྱང་ མི་ འཆི་བ་␣འི ། །"
-msgstr "Wherever one stays, a place"
+msgstr "Wherever one stays, [a place where] one doesn't die"
 
 msgctxt "5447086d533541249f21585beffe36f6"
 msgid "ས་ཕྱོགས་ གང་ ན་␣འང་ མེད་པ་␣ར་ གོ་␣༑ །"
