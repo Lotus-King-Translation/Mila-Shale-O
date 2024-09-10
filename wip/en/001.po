@@ -646,7 +646,7 @@ msgstr "When I think of the sufferings of the bad migrations,"
 
 msgctxt "37e27dc04b1b41e9b3619061c05d55b6"
 msgid "སྡུག་བསྔལ་ མྱོང་ སྙམ་ ཤིན་ཏུ་ འཇིགས ། །"
-msgstr "I am terrified at the thought of experiencing such suffering."
+msgstr "Terrified at the thought of experiencing such suffering."
 
 msgctxt "92f868d027764ebfb1ce6c6b64a6464c"
 msgid "འཁོར་བ་ གཞན་ གྱི་ ཚུལ་ ལ་ བསམས ། །"
