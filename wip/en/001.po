@@ -533,7 +533,7 @@ msgstr "While embracing the poor and suffering with compassionate love below."
 
 msgctxt "c13f395c2350491696c3fdf4b10d5cb1"
 msgid "བར་ དུ་ གྱོས་ སྒྱུག་ ཞབས་ཏོག་ གྱིས ། །"
-msgstr ""
+msgstr "In between, serve your relatives and in-laws."
 
 msgctxt "791388c59d2f443e98b0b5efca9afe6a"
 msgid "ཡུལ་མི་ ཁྱིམ་ མཚེས་ ཀུན་ དང་ བསྟུན ། །"
