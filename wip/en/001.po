@@ -694,7 +694,7 @@ msgstr "At first, [he] is like a sweetly smiling son of a god,"
 
 msgctxt "44442e7f780f4c52ae7382d828db7234"
 msgid "བར་ དུ་ བདུད་པོ་ ངོ་ ནག་པོ ། །"
-msgstr ""
+msgstr "In the middle, a black-faced demon,"
 
 msgctxt "98b350b4b258400a9b3c3d60d5da7f59"
 msgid "ཐ་མ་␣ར་ གླང་ བུ་ བརྡུང་ སྙིང་ཅན ། །"
