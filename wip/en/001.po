@@ -557,7 +557,7 @@ msgstr "As said."
 
 msgctxt "97d8ed4139a942f48cafe6494c08185b"
 msgid "བུ་མོ་ དེ་␣ས་ རྗེ་བཙུན་ ལ་ ཕྱག་ ཕུལ་ ནས །"
-msgstr ""
+msgstr "The girl offered prostrations to Jetsun and said,"
 
 msgctxt "da31c985510b4233aba159b40182a42d"
 msgid ""
