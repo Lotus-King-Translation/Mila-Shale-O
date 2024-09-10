@@ -489,7 +489,7 @@ msgstr "Replied with the song endowed with the sun of confidence."
 
 msgctxt "9c438507235b4beeb9764aba70167f46"
 msgid "ཁྱོད་ ད་ལྟར་ གྱི་ དད་པ་ གློ་བུར་ ཡིན ། །"
-msgstr ""
+msgstr "Your current confidence is adventitious,"
 
 msgctxt "7550fdd5f9ef4b8cbf91966eda01e1ee"
 msgid "རྟག་ ཏུ་ འགྱུར་མེད་ འོང་བ་ དཀའ ། །"
