@@ -674,7 +674,7 @@ msgstr "Laying the foundation for the three bad migrations,"
 
 msgctxt "7385f278ded84e5fa60392b6a6031ada"
 msgid "མཐོ་རིས་ ཐར་པ་␣འི་ སྡོང་པོ་ སྒྱེལ ། །"
-msgstr ""
+msgstr "The trunk of higher realms and liberation falls down."
 
 msgctxt "28056f274e1f4516b6889fdda6b42019"
 msgid "ཕ་མ་␣འི་ ཟས་ནོར་ ཁུར་ ནས་ སུ་␣༑ །"
