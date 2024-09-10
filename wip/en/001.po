@@ -525,7 +525,7 @@ msgstr "Tend to your dependent livestock like children."
 
 msgctxt "bb1534ba1d16494ebf810dc02cb2cfe9"
 msgid "ཡར་ ལ་ བླ་མ་ དཀོན་མཆོག་ མཆོད ། །"
-msgstr ""
+msgstr "Make offerings to the lamas and the Three Jewels above, "
 
 msgctxt "2bfd1c35eeb742669c3994f22cc60f8b"
 msgid "མར་ ལ་ སྡུག་ ཕོངས་ བྱམས་པ་␣ས་ སྐྱོངས ། །"
