@@ -662,7 +662,7 @@ msgstr "When engaging in samsaric activities,"
 
 msgctxt "554b12f9116f4ee19bdc14dc83463491"
 msgid "ཕ་མ་ དྲིན་ཅན་ རྒྱབ་ ཏུ་ བོར ། །"
-msgstr "Kind parents are kept backside,"
+msgstr "Kind parents are left backside,"
 
 msgctxt "997e57a81a294d608be6aac69298aece"
 msgid "རང་ གཉའ་ དྲིན་ མེད་ མི་ལ་ བསྐྱལ་␣༑ །"
