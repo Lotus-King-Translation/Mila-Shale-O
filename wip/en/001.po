@@ -650,7 +650,7 @@ msgstr "Terrified at the thought of experiencing such suffering."
 
 msgctxt "92f868d027764ebfb1ce6c6b64a6464c"
 msgid "འཁོར་བ་ གཞན་ གྱི་ ཚུལ་ ལ་ བསམས ། །"
-msgstr ""
+msgstr "Thinking of the other ways of samsara,"
 
 msgctxt "f54d81b0c4f54426b91b17240a09687b"
 msgid "ལས་ངན་ ཁྱིམ་ཐབ་ བྱེད་ དོ་ ཞེས ། །"
