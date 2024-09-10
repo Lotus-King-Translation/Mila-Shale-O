@@ -529,7 +529,7 @@ msgstr "Make offerings to the lamas and the Three Jewels above, "
 
 msgctxt "2bfd1c35eeb742669c3994f22cc60f8b"
 msgid "མར་ ལ་ སྡུག་ ཕོངས་ བྱམས་པ་␣ས་ སྐྱོངས ། །"
-msgstr ""
+msgstr "While embracing the poor and suffering with compassionate love below."
 
 msgctxt "c13f395c2350491696c3fdf4b10d5cb1"
 msgid "བར་ དུ་ གྱོས་ སྒྱུག་ ཞབས་ཏོག་ གྱིས ། །"
