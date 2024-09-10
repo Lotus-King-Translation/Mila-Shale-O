@@ -670,7 +670,7 @@ msgstr "Giving one's neck to ungrateful strangers,"
 
 msgctxt "3f9ee4aca37c4e4ca33369c60035b3ec"
 msgid "ངན་སོང་ གསུམ་ གྱི་ འགྲམ་ གཞི་ བཏིང༌ ། །"
-msgstr ""
+msgstr "Laying the foundation for the three bad migrations,"
 
 msgctxt "7385f278ded84e5fa60392b6a6031ada"
 msgid "མཐོ་རིས་ ཐར་པ་␣འི་ སྡོང་པོ་ སྒྱེལ ། །"
