@@ -586,7 +586,7 @@ msgstr "Bless me to fulfill my wishes,"
 
 msgctxt "329d814a5ddb49159f59f4614e787e9f"
 msgid "རྗེ་ རས་པ་ ཆེན་པོ་ སྙན་ གསོན་ དང༌ ། །"
-msgstr ""
+msgstr "Great Lord Repa, please listen."
 
 msgctxt "89335bc891544317a5071cd8b566cfff"
 msgid "བདག་མོ་␣ས་པ་␣འི་ ཞུ་བ་ འབུལ་བ་ འདི ། །"
