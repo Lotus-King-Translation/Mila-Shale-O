@@ -553,7 +553,7 @@ msgstr "I pray for your good fortune and long life."
 
 msgctxt "8d6759c998c74768b13c0778c14b0f41"
 msgid "ཞེས་ གསུངས་པ་␣ས །"
-msgstr "As he said."
+msgstr "As said."
 
 msgctxt "97d8ed4139a942f48cafe6494c08185b"
 msgid "བུ་མོ་ དེ་␣ས་ རྗེ་བཙུན་ ལ་ ཕྱག་ ཕུལ་ ནས །"
