@@ -678,7 +678,7 @@ msgstr "The trunk of higher realms and liberation falls down."
 
 msgctxt "28056f274e1f4516b6889fdda6b42019"
 msgid "ཕ་མ་␣འི་ ཟས་ནོར་ ཁུར་ ནས་ སུ་␣༑ །"
-msgstr ""
+msgstr "Taking the food and wealth of one's parents,"
 
 msgctxt "0064012eaee246e5bdd3d9fd186f03ea"
 msgid "དོན་མེད་ མི་ ཡི་ གཡོག་ ལ་ བརྩོན ། །"
