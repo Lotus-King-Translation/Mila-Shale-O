@@ -549,7 +549,7 @@ msgstr "In the future, aspire to meet the Dharma."
 
 msgctxt "8b102b52b5ad47b19c72c9f6a08880e0"
 msgid "བཀྲ་ཤིས་ ཚེ་རིང་ སྨོན་ལམ་ འདེབས ། །"
-msgstr ""
+msgstr "I pray for your good fortune and long life."
 
 msgctxt "8d6759c998c74768b13c0778c14b0f41"
 msgid "ཞེས་ གསུངས་པ་␣ས །"
