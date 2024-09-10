@@ -493,7 +493,7 @@ msgstr "Your current confidence is adventitious,"
 
 msgctxt "7550fdd5f9ef4b8cbf91966eda01e1ee"
 msgid "རྟག་ ཏུ་ འགྱུར་མེད་ འོང་བ་ དཀའ ། །"
-msgstr ""
+msgstr "It is difficult for it to remain unchanging forever."
 
 msgctxt "f2a09ca0068e47208ce011eee6239627"
 msgid "དེ་བ་␣ས་ བུ་མོ་ ལོག་པ་ འཐད ། །"
