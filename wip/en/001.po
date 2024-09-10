@@ -537,7 +537,7 @@ msgstr "In between, serve your relatives and in-laws."
 
 msgctxt "791388c59d2f443e98b0b5efca9afe6a"
 msgid "ཡུལ་མི་ ཁྱིམ་ མཚེས་ ཀུན་ དང་ བསྟུན ། །"
-msgstr ""
+msgstr "Comply with all villagers and neighbors,"
 
 msgctxt "464b8f0b50fa4bdd94654e07407197d7"
 msgid "རྒན་པོ་ ང་ ལ་ གསོལ་བ་ ཐོབ ། །"
