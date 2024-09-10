@@ -509,7 +509,7 @@ msgstr "Carry your chosen life-long companion like a deity."
 
 msgctxt "d249eb713c4846debe038202207a8dfc"
 msgid "ལན་ཆགས་ བུ་ ལ་ བྱི་དོར་ གྱིས ། །"
-msgstr ""
+msgstr "Take care of your karmic children with attention."
 
 msgctxt "def0ec5e36c14e9d94ca0eb1c5d0588b"
 msgid "ས་མཁར་ མཐོན་པོ་␣འི་ ཞིག་རལ་ གསོས ། །"
