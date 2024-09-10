@@ -714,7 +714,7 @@ msgstr "Keep company with Vajra-siblings."
 
 msgctxt "aa91f601f1a2486ea05e2b4748480f92"
 msgid "དེ་ནས་ ལུས་ ལ་ སྐྱེས་པ་␣འི་ བུ ། །"
-msgstr ""
+msgstr "Then, for children born to one's body,"
 
 msgctxt "b8b693c6602b4345b5b4f49cd53d77e6"
 msgid "བསོད་ནམས་ ལྡན་པ་ རེ་རེ་ ལ ། །"
