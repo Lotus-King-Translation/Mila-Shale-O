@@ -686,7 +686,7 @@ msgstr "Striving for meaningless service to others."
 
 msgctxt "698728bcb7014c899abad0217d2bf77c"
 msgid "འཁོར་བ་␣ར་ མཆོང་བ་␣འི་ གཉའ་ གྲོགས་ དེ ། །"
-msgstr ""
+msgstr "That companion who leaps into samsara,"
 
 msgctxt "103cb78f2ba644c38f06201263e5b0b6"
 msgid "དང་པོ་ ལྷ་བུ་ འཛུམ་བག་ ཅན་␣༑ །"
