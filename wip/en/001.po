@@ -501,7 +501,7 @@ msgstr "Therefore, girl, it would be wise for you to return."
 
 msgctxt "28ef09bb60ae4dcf92ba6dce1cb63fb6"
 msgid "ནམ་ ཕུག་ བློ་རྩེ་ ཆོས་ ལ་ གཏོད་␣༑ །"
-msgstr "Ultimately, direct your mind to the Dharma."
+msgstr "In the future, direct your mind to the Dharma."
 
 msgctxt "bbdcad4804804004b3114f655a3ad034"
 msgid "བསྐོས་པ་␣འི་ གཏན་གྲོགས་ ལྷ་ བཞིན་ ཁུར ། །"
