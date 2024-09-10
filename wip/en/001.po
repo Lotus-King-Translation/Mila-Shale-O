@@ -497,7 +497,7 @@ msgstr "It is difficult for it to remain unchanging forever."
 
 msgctxt "f2a09ca0068e47208ce011eee6239627"
 msgid "དེ་བ་␣ས་ བུ་མོ་ ལོག་པ་ འཐད ། །"
-msgstr ""
+msgstr "Therefore, girl, it would be wise for you to return."
 
 msgctxt "28ef09bb60ae4dcf92ba6dce1cb63fb6"
 msgid "ནམ་ ཕུག་ བློ་རྩེ་ ཆོས་ ལ་ གཏོད་␣༑ །"
