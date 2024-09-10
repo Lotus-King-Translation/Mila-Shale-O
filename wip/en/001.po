@@ -738,7 +738,7 @@ msgstr "In the middle, rob food from one's mouth,"
 
 msgctxt "ccf22c00c9764819b5c66cc32e91bbcc"
 msgid "ཐ་མ་␣ར་ ལག་ གི་ ནོར་ འཕྲོག་པོ ། །"
-msgstr ""
+msgstr "In the end, loot wealth from one's hands."
 
 msgctxt "68368675c4144255b7ea0bfd08944f2f"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས་␣༑ །"
