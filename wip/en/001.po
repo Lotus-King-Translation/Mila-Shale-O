@@ -690,7 +690,7 @@ msgstr "That companion who leaps into samsara,"
 
 msgctxt "103cb78f2ba644c38f06201263e5b0b6"
 msgid "དང་པོ་ ལྷ་བུ་ འཛུམ་བག་ ཅན་␣༑ །"
-msgstr ""
+msgstr "At first, [he] is like a sweetly smiling son of a god,"
 
 msgctxt "44442e7f780f4c52ae7382d828db7234"
 msgid "བར་ དུ་ བདུད་པོ་ ངོ་ ནག་པོ ། །"
