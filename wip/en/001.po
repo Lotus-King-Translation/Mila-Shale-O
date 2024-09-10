@@ -610,7 +610,7 @@ msgstr "I deeply reflect on the impermanence of death."
 
 msgctxt "e4c22ddc885f4a1f956de7605211f500"
 msgid "རང་ མ་ལ་ སྐྱེས་ ནས་ ད་བར་ ལ ། །"
-msgstr ""
+msgstr "From my birth until now,"
 
 msgctxt "9e009b3727bf40d1840f278c66ddda92"
 msgid "རྒན་གཞོན་ མང་པོ་ ཤི་བ་ མཐོང༌ ། །"
