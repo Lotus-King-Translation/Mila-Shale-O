@@ -654,7 +654,7 @@ msgstr "Thinking of the other ways of samsara,"
 
 msgctxt "f54d81b0c4f54426b91b17240a09687b"
 msgid "ལས་ངན་ ཁྱིམ་ཐབ་ བྱེད་ དོ་ ཞེས ། །"
-msgstr ""
+msgstr "Bad karma of performing household activities, As said."
 
 msgctxt "db445b7b0fe7457bb63e8a101183e1c3"
 msgid "འཁོར་བ་␣འི་ གཡོས་སྦྱོར་ བྱས་ ཙ་ན ། །"
