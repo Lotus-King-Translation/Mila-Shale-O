@@ -642,7 +642,7 @@ msgstr "And after death, I have no control over where I am reborn."
 
 msgctxt "ee01de3a29394cb499d50fe2d9315460"
 msgid "ངན་སོང་ སྡུག་བསྔལ་ བསམས་ ཙ་ན ། །"
-msgstr ""
+msgstr "When I think of the sufferings of the bad migrations,"
 
 msgctxt "37e27dc04b1b41e9b3619061c05d55b6"
 msgid "སྡུག་བསྔལ་ མྱོང་ སྙམ་ ཤིན་ཏུ་ འཇིགས ། །"
