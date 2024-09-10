@@ -682,7 +682,7 @@ msgstr "Taking the food and wealth of one's parents,"
 
 msgctxt "0064012eaee246e5bdd3d9fd186f03ea"
 msgid "དོན་མེད་ མི་ ཡི་ གཡོག་ ལ་ བརྩོན ། །"
-msgstr ""
+msgstr "Striving for meaningless service to others."
 
 msgctxt "698728bcb7014c899abad0217d2bf77c"
 msgid "འཁོར་བ་␣ར་ མཆོང་བ་␣འི་ གཉའ་ གྲོགས་ དེ ། །"
