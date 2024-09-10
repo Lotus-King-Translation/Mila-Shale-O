@@ -778,7 +778,7 @@ msgstr "In the end, cast you into the depths of despair,"
 
 msgctxt "3c3dc239296e486bb326821591a599ba"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས་␣༑ །"
-msgstr ""
+msgstr "Thinking of this, weariness arises from within."
 
 msgctxt "22f1277867384ab6b1e83698f88b8ad5"
 msgid "དེས་ན་ བུ་མོ་ ལྷ་ཆོས་ བྱེད ། །"
