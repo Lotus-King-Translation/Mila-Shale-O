@@ -505,7 +505,7 @@ msgstr "Ultimately, direct your mind to the Dharma."
 
 msgctxt "bbdcad4804804004b3114f655a3ad034"
 msgid "བསྐོས་པ་␣འི་ གཏན་གྲོགས་ ལྷ་ བཞིན་ ཁུར ། །"
-msgstr ""
+msgstr "Carry your chosen life-long companion like a deity."
 
 msgctxt "d249eb713c4846debe038202207a8dfc"
 msgid "ལན་ཆགས་ བུ་ ལ་ བྱི་དོར་ གྱིས ། །"
