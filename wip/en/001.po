@@ -602,7 +602,7 @@ msgstr "I am incredibly disheartened with myself."
 
 msgctxt "ea227ffd626945ef8997b394599640e4"
 msgid "ཅི་དྲག་ སེམས་ ཀྱི་ བསམ་མནོ་ ལ ། །"
-msgstr ""
+msgstr "Wondering what to do, in my thoughts,"
 
 msgctxt "c3ea278fa985459c82949ebef7688965"
 msgid "མི་རྟག་ འཆི་བ་ གཏིང་ ནས་ དྲན ། །"
