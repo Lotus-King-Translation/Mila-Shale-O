@@ -513,7 +513,7 @@ msgstr "Take care of your karmic children with attention."
 
 msgctxt "def0ec5e36c14e9d94ca0eb1c5d0588b"
 msgid "ས་མཁར་ མཐོན་པོ་␣འི་ ཞིག་རལ་ གསོས ། །"
-msgstr ""
+msgstr "Restore the breaches in your elevated earthen fortress."
 
 msgctxt "4e239d1eb47843639b732d0d51f5740e"
 msgid "བཤོས་ ཞིག་ རེམ་པ་ མཐའ་ ནས་ ཐུལ ། །"
