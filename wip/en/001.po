@@ -710,7 +710,7 @@ msgstr "Therefore, this girl shall practice divine Dharma."
 
 msgctxt "4382efefb7dc43168c5cab4dc77b9e67"
 msgid "གྲོགས་ སུ་ རྡོ་རྗེ་ སྤུན་ དང་ འགྲོགས ། །"
-msgstr ""
+msgstr "Keep company with Vajra-siblings."
 
 msgctxt "aa91f601f1a2486ea05e2b4748480f92"
 msgid "དེ་ནས་ ལུས་ ལ་ སྐྱེས་པ་␣འི་ བུ ། །"
