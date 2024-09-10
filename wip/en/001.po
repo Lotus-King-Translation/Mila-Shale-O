@@ -702,7 +702,7 @@ msgstr "In the end, a charging bull, likely to strike."
 
 msgctxt "461800f316a94d2db8b8a10b06cd5ccb"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས ། །"
-msgstr "Thinking of this, weariness arises from the inside."
+msgstr "Thinking of this, weariness arises from within."
 
 msgctxt "5811fc9326824cbea46bcfbe74291d4f"
 msgid "དེས་ན་ བུ་མོ་ ལྷ་ཆོས་ བྱེད ། །"
@@ -742,7 +742,7 @@ msgstr "In the end, loot wealth from one's hands."
 
 msgctxt "68368675c4144255b7ea0bfd08944f2f"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས་␣༑ །"
-msgstr ""
+msgstr "Thinking of this, weariness arises from within."
 
 msgctxt "5f1a38f7150e4b8d8fd161d2e4649e76"
 msgid "དེས་ན་ བུ་མོ་ ལྷ་ ཆོསབྱེད ། །"
