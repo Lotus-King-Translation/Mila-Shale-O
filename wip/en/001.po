@@ -618,11 +618,11 @@ msgstr "I have seen many old and young die."
 
 msgctxt "2aee7782a40045aab76931d21e5e9c8a"
 msgid "ཚེ་ མི་རྟག་ རྩྭ་ཁ་␣འི་ ཟིལ་པ་ འདྲ་␣༑ །"
-msgstr ""
+msgstr "Life is impermanent, like dew on grass tips."
 
 msgctxt "e2eb143519274daa987aaee80adcf0da"
 msgid "དེ་ཞག་ དང་ ཟ་མ་␣ས་ མ་ ཚོར་ འཛད ། །"
-msgstr ""
+msgstr "It vanishes unnoticed with each day and meal."
 
 msgctxt "f9fe70594b6d4025ba0d8eb33a3743a6"
 msgid "གང་ དུ་ གནས་ ཀྱང་ མི་ འཆི་བ་␣འི ། །"
