@@ -573,14 +573,16 @@ msgstr "I have absolutely no desire for this worldly life."
 msgctxt "33b1e01d3e0b4557a7eaac47462d3568"
 msgid "དེ་␣འི་ རྒྱུ་མཚན་ འདི་ལྟར་ ལགས་ ཞེས་ ཞུ་དོན་ གླུ་␣ར་ ཕུལ་བ །"
 msgstr ""
+"She said the reasons for this are as follows, and she offered her request in"
+" song:"
 
 msgctxt "12640c536f544a8c92ba29e81be25d40"
 msgid "དྲིན་ཅན་ རྗེ་བཙུན་ ཞབས་ ལ་ འདུད ། །"
-msgstr ""
+msgstr "I bow at the feet of the kind Jetsun."
 
 msgctxt "1715c62d3ec24882b33b15c3e913e078"
 msgid "འདོད་དོན་ གྲུབ་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༑ །"
-msgstr ""
+msgstr "Bless me to fulfill my wishes,"
 
 msgctxt "329d814a5ddb49159f59f4614e787e9f"
 msgid "རྗེ་ རས་པ་ ཆེན་པོ་ སྙན་ གསོན་ དང༌ ། །"
