@@ -774,7 +774,7 @@ msgstr "In the middle, bestow weariness on the body,"
 
 msgctxt "277a82b28e214d539b9d53442d4377ca"
 msgid "ཐ་མ་␣ར་ ཞིག་རལ་ ཕུང་ ལ་ བཏང༌ ། །"
-msgstr ""
+msgstr "In the end, cast you into the depths of despair,"
 
 msgctxt "3c3dc239296e486bb326821591a599ba"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས་␣༑ །"
