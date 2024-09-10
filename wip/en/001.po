@@ -726,11 +726,11 @@ msgstr "Some with a karmic link might occur."
 
 msgctxt "2c77b228a9fd449eba85e52f4dfd17ac"
 msgid "ཕལ་ཆེར་ ལན་ཆགས་ འདེད་ མཁན་ དེ ། །"
-msgstr ""
+msgstr "But most are karmic debt collectors who,"
 
 msgctxt "34f3b4e852b543f08bac0aa640124de0"
 msgid "དང་པོ་␣ར་ ལུས་ ཀྱི་ མདངས་འཕྲོག་པོ ། །"
-msgstr ""
+msgstr "At first, steal the luster of one's body,"
 
 msgctxt "5f6aabf66b044f269bac6e3aeae790a0"
 msgid "བར་ དུ་ ཁ་ ཡི་ ཟས་ འཕྲོག་པོ ། །"
