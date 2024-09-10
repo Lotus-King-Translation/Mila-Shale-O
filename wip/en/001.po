@@ -730,11 +730,11 @@ msgstr "But most are karmic debt collectors who,"
 
 msgctxt "34f3b4e852b543f08bac0aa640124de0"
 msgid "དང་པོ་␣ར་ ལུས་ ཀྱི་ མདངས་འཕྲོག་པོ ། །"
-msgstr "At first, steal the luster of one's body,"
+msgstr "At first, rob the luster of one's body,"
 
 msgctxt "5f6aabf66b044f269bac6e3aeae790a0"
 msgid "བར་ དུ་ ཁ་ ཡི་ ཟས་ འཕྲོག་པོ ། །"
-msgstr ""
+msgstr "In the middle, rob food from one's mouth,"
 
 msgctxt "ccf22c00c9764819b5c66cc32e91bbcc"
 msgid "ཐ་མ་␣ར་ ལག་ གི་ ནོར་ འཕྲོག་པོ ། །"
