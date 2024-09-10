@@ -698,7 +698,7 @@ msgstr "In the middle, a black-faced demon,"
 
 msgctxt "98b350b4b258400a9b3c3d60d5da7f59"
 msgid "ཐ་མ་␣ར་ གླང་ བུ་ བརྡུང་ སྙིང་ཅན ། །"
-msgstr "In the end, a charging bull is likely to strike."
+msgstr "In the end, a charging bull, likely to strike."
 
 msgctxt "461800f316a94d2db8b8a10b06cd5ccb"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས ། །"
