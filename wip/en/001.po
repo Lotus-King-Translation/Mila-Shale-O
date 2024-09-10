@@ -718,7 +718,7 @@ msgstr "Then, for children born to one's body,"
 
 msgctxt "b8b693c6602b4345b5b4f49cd53d77e6"
 msgid "བསོད་ནམས་ ལྡན་པ་ རེ་རེ་ ལ ། །"
-msgstr ""
+msgstr "Among those with merit,"
 
 msgctxt "52ad0cf3ca7b493387ec7ea287118b30"
 msgid "ལས་ཅན་ རེ་ཙམ་ བྱུང་བ་␣འང་ སྲིད ། །"
