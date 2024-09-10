@@ -568,7 +568,7 @@ msgstr ""
 
 msgctxt "98a2dba5433f4053b74f876fe1139ede"
 msgid "འཇིག་རྟེན་ འདི་␣འི་ ལོ་ འདོད་ རྩ་བ་ ནས་ མེད །"
-msgstr ""
+msgstr "I have absolutely no desire for this worldly life."
 
 msgctxt "33b1e01d3e0b4557a7eaac47462d3568"
 msgid "དེ་␣འི་ རྒྱུ་མཚན་ འདི་ལྟར་ ལགས་ ཞེས་ ཞུ་དོན་ གླུ་␣ར་ ཕུལ་བ །"
