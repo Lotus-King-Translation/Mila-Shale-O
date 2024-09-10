@@ -666,7 +666,7 @@ msgstr "Kind parents are left backside,"
 
 msgctxt "997e57a81a294d608be6aac69298aece"
 msgid "རང་ གཉའ་ དྲིན་ མེད་ མི་ལ་ བསྐྱལ་␣༑ །"
-msgstr ""
+msgstr "Entrusting one's neck to ungrateful strangers,"
 
 msgctxt "3f9ee4aca37c4e4ca33369c60035b3ec"
 msgid "ངན་སོང་ གསུམ་ གྱི་ འགྲམ་ གཞི་ བཏིང༌ ། །"
