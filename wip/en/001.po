@@ -545,7 +545,7 @@ msgstr "Pray to this old man."
 
 msgctxt "2a8cda4e856544c386962036bd72a465"
 msgid "ནམ་ཕུགས་ ཆོས་ དང་ མཇལ་བ་␣ར་ སྨོན ། །"
-msgstr ""
+msgstr "In the future, aspire to meet the Dharma."
 
 msgctxt "8b102b52b5ad47b19c72c9f6a08880e0"
 msgid "བཀྲ་ཤིས་ ཚེ་རིང་ སྨོན་ལམ་ འདེབས ། །"
