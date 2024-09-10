@@ -758,7 +758,7 @@ msgstr "Temples, guest houses, and so forth,"
 
 msgctxt "292c96dc33ca46ae806493df84cd6858"
 msgid "བརྩིགས་པ་ དོན་ཡོད་ རེ་རེ་ ཙམ ། །"
-msgstr ""
+msgstr "Each of the meaningful constructions,"
 
 msgctxt "c8c2fe06fc7b4c59961e3e4e215006ef"
 msgid "འཁོར་བ་␣འི་ བཙོན་ དོང་ ས་མཁར་ དེ ། །"
