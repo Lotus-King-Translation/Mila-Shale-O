@@ -750,7 +750,7 @@ msgstr "Therefore, this girl shall practice divine Dharma."
 
 msgctxt "bc3b01c0f76e4d248ad19f17d883e922"
 msgid "སྲས་ བུ་ རིག་པ་␣འི་ ཁྱེའུ་ ཆུང་ གསོ ། །"
-msgstr ""
+msgstr "I shall nurture the children of awareness."
 
 msgctxt "68675b5fcb16403082d943222bb9ea26"
 msgid "གཙུག་ལག་ཁང་ དང་ མགྲོན་ཁང་ སོགས་␣༑ །"
