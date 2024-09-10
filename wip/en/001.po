@@ -614,7 +614,7 @@ msgstr "From my birth until now,"
 
 msgctxt "9e009b3727bf40d1840f278c66ddda92"
 msgid "རྒན་གཞོན་ མང་པོ་ ཤི་བ་ མཐོང༌ ། །"
-msgstr ""
+msgstr "I have seen many old and young die."
 
 msgctxt "2aee7782a40045aab76931d21e5e9c8a"
 msgid "ཚེ་ མི་རྟག་ རྩྭ་ཁ་␣འི་ ཟིལ་པ་ འདྲ་␣༑ །"
