@@ -634,7 +634,7 @@ msgstr "Such a place does not exist anywhere, as I understand."
 
 msgctxt "84da2ac7114f4108acd7a6efd0b031c9"
 msgid "བདག་ ལ་ ངེས་པར་ འཆི་ དགོས་ ཤིང༌ ། །"
-msgstr ""
+msgstr "I must certainly die,"
 
 msgctxt "a7a4cd417e0a4484b863a831c0f980df"
 msgid "ཤི་ ནས་ གར་ སྐྱེ་ རང་དབང་ མེད ། །"
