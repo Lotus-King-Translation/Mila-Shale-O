@@ -854,7 +854,7 @@ msgstr ""
 
 msgctxt "bb60142ba4c64035bff6808990d27f80"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས ། །"
-msgstr ""
+msgstr "Thinking of this, weariness arises from within."
 
 msgctxt "bd3c0cb8bafc4add8a23f9fd20d2d3df"
 msgid "དེས་ན་ བུ་མོ་ ལྷ་ཆོས་ བྱེད ། །"
