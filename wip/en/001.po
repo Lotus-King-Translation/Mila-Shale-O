@@ -594,7 +594,7 @@ msgstr "To the request offered by this girl,"
 
 msgctxt "e497072a9b5241f5ad25381f1bd54958"
 msgid "རྫུན་ ཁ་ཚིག་ ཡིན་ མིན་ ཐུགས་ ཀྱིས་ མཁྱེན ། །"
-msgstr ""
+msgstr "Whether they are false words or not, you know them in your heart,"
 
 msgctxt "4c0a19a86c33469d9816a31dabbbfe5a"
 msgid "རང་ ལ་ རང་ཉིད་ ཡི་མུག་ ཆེ ། །"
