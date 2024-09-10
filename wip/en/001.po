@@ -658,7 +658,7 @@ msgstr "Bad karma of performing household activities, As said."
 
 msgctxt "db445b7b0fe7457bb63e8a101183e1c3"
 msgid "འཁོར་བ་␣འི་ གཡོས་སྦྱོར་ བྱས་ ཙ་ན ། །"
-msgstr ""
+msgstr "When engaging in samsaric activities,"
 
 msgctxt "554b12f9116f4ee19bdc14dc83463491"
 msgid "ཕ་མ་ དྲིན་ཅན་ རྒྱབ་ ཏུ་ བོར ། །"
