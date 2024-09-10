@@ -702,7 +702,7 @@ msgstr "In the end, a charging bull, likely to strike."
 
 msgctxt "461800f316a94d2db8b8a10b06cd5ccb"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས ། །"
-msgstr ""
+msgstr "Thinking of this, weariness arises from the inside."
 
 msgctxt "5811fc9326824cbea46bcfbe74291d4f"
 msgid "དེས་ན་ བུ་མོ་ ལྷ་ཆོས་ བྱེད ། །"
