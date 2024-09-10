@@ -722,7 +722,7 @@ msgstr "Among those with merit,"
 
 msgctxt "52ad0cf3ca7b493387ec7ea287118b30"
 msgid "ལས་ཅན་ རེ་ཙམ་ བྱུང་བ་␣འང་ སྲིད ། །"
-msgstr ""
+msgstr "Some with a karmic link might occur."
 
 msgctxt "2c77b228a9fd449eba85e52f4dfd17ac"
 msgid "ཕལ་ཆེར་ ལན་ཆགས་ འདེད་ མཁན་ དེ ། །"
