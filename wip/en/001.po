@@ -902,7 +902,7 @@ msgstr ""
 
 msgctxt "810fa57b034b49d99f0733cd21bc1e09"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས ། །"
-msgstr ""
+msgstr "Thinking of this, weariness arises from within."
 
 msgctxt "77d6b8e6f71241c7bc620886dd1d8b93"
 msgid "དེས་ན་ བུ་མོ་ ལྷ་ཆོས་ བྱེད ། །"
