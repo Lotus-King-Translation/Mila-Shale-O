@@ -521,7 +521,7 @@ msgstr "Mend the torn edges of your clothes."
 
 msgctxt "dce9ceecd07a47b9babcaaa441c330b8"
 msgid "ལྟོས་པ་␣འི་ ཕྱུགས་ ལུག་ བུ་ བཞིན་ སྐྱོངས ། །"
-msgstr ""
+msgstr "Tend to your dependent livestock like children."
 
 msgctxt "bb1534ba1d16494ebf810dc02cb2cfe9"
 msgid "ཡར་ ལ་ བླ་མ་ དཀོན་མཆོག་ མཆོད ། །"
