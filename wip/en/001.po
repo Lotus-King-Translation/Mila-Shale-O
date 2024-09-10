@@ -485,7 +485,7 @@ msgstr "A song with these five examples and six meanings,"
 
 msgctxt "ff9e93f94a524e6f969bdbafe39b3cbf"
 msgid "དད་ ཅན་ ཉ་མ་␣འི་ གླུ་ ལན་ མཛོད ། །"
-msgstr "The song of reply is endowed with the sun of confidence."
+msgstr "Replied with the song endowed with the sun of confidence."
 
 msgctxt "9c438507235b4beeb9764aba70167f46"
 msgid "ཁྱོད་ ད་ལྟར་ གྱི་ དད་པ་ གློ་བུར་ ཡིན ། །"
