@@ -606,7 +606,7 @@ msgstr "Wondering what to do, in my thoughts,"
 
 msgctxt "c3ea278fa985459c82949ebef7688965"
 msgid "མི་རྟག་ འཆི་བ་ གཏིང་ ནས་ དྲན ། །"
-msgstr ""
+msgstr "I deeply reflect on the impermanence of death."
 
 msgctxt "e4c22ddc885f4a1f956de7605211f500"
 msgid "རང་ མ་ལ་ སྐྱེས་ ནས་ ད་བར་ ལ ། །"
