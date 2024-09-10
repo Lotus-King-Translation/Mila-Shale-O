@@ -766,7 +766,7 @@ msgstr "But that earthen castle, samsara's hole of imprisonment,"
 
 msgctxt "83fdf346f3194c1fa26039dbc24e4850"
 msgid "དང་པོ་ སེམས་ ལ་ སྡུག་བསྔལ་ བསྐུར །༑ །"
-msgstr ""
+msgstr "At first, it lays suffering in the mind,"
 
 msgctxt "f932184a8adc49009dd5e387e4be5631"
 msgid "བར་ དུ་ ལུས་ ལ་ ངལ་དུབ་ བསྐུར ། །"
