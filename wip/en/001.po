@@ -827,7 +827,7 @@ msgstr "In the field, tame your uncultivated wild ground,"
 
 msgctxt "3eec4e20f04b4b4dacb95b2e450e872d"
 msgid "གལ་ཏེ་ སེམས་བསྐྱེད་ བསམ་པ་ ཡིས་␣༑ །"
-msgstr ""
+msgstr "If one thinks of generating the mind of awakening,"
 
 msgctxt "0672122ddf1d408a97bfdc2aba1b21e9"
 msgid "ཟིན་ ན་ བསོད་ནམས་ འོང་བ་␣འང་ སྲིད ། །"
