@@ -887,7 +887,7 @@ msgstr "The Omniscient Teacher, the Buddha,"
 
 msgctxt "2a55f82f8bb3489fbcaeac47dec4a4e3"
 msgid "སྡིག་ཅན་ ལ་སོགས་ ནག་ཕྱོགས་ ཀྱིས ། །"
-msgstr ""
+msgstr "By evil ones and those on the dark side,"
 
 msgctxt "5dcfa09533a7485a9491b859e4208dd1"
 msgid "སྐྱོན་ གྱི་ ཕུང་པོ་ དག་ ཏུ་ མཐོང༌ ། །"
