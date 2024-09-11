@@ -863,7 +863,7 @@ msgstr "Therefore, this girl shall practice divine Dharma."
 
 msgctxt "5651bc89e8b44d91b7a93a3ff9bf7533"
 msgid "ཕྱུགས་ ལུགས་ རིགས་ དྲུག་ སྙིང་རྗེ་␣ས་ སྐྱོང་ ༑ །"
-msgstr ""
+msgstr "Tend to the animals and the six realms of beings with compassion."
 
 msgctxt "80a34903ab9e478a9dfe15258a9cf370"
 msgid "རང་ སྐྱོན་ རང་ གིས་ མི་ ཟིན་པ་␣ར ། །"
