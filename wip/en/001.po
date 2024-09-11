@@ -790,7 +790,7 @@ msgstr "Build the indestructible fortress of meditative absorption,"
 
 msgctxt "94cd957d738b4b37a328a8b45ebabcdf"
 msgid "བདེ་གཤེགས་ གསུང་རབ་ སྐུ་གཟུགས་ དང༌ ། །"
-msgstr ""
+msgstr "The Sugatas, the excellent speeches, the images and"
 
 msgctxt "7e909a4205c14efb9185b7ec4e2556bb"
 msgid "དད་ ལྡན་ དགེ་ རྒྱུན་ མ་གཏོགས་པ་␣འི ། །"
