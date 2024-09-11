@@ -807,7 +807,7 @@ msgstr "First, one struggles with the soil on the empty plain,"
 
 msgctxt "d8472408c9ce43e7ba4153e24718bb56"
 msgid "བར་ དུ་ འབྱུང་བ་ ཆུ་ ལ་ འཛིང༌ ། །"
-msgstr ""
+msgstr "In the middle, one struggles with the water element,"
 
 msgctxt "44ccd413eec040848079abd2450301d6"
 msgid "ཐ་མ་␣ར་ མགོ་ནག་ མི་ལ་ འཛིང༌ ། །"
