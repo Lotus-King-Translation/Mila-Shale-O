@@ -839,7 +839,7 @@ msgstr "If not embraced, with the perception of wealth,"
 
 msgctxt "afe3a5770d4047298260e362c5f91ad9"
 msgid "ཕྱུགས་ ལུག་ བསྐྱང་བ་ སྡིག་པ་␣འི་ ལ་␣ས ༑ །"
-msgstr ""
+msgstr "Tending cattle and sheep becomes a sinful act."
 
 msgctxt "9835aa8846f9450e813592807717ea7b"
 msgid "དང་པོ་␣ར་ བརྣབ་སེམས་ འདོད་པ་␣ས་ ཕྲལ ། །"
