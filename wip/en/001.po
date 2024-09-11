@@ -782,7 +782,7 @@ msgstr "Thinking of this, weariness arises from within."
 
 msgctxt "22f1277867384ab6b1e83698f88b8ad5"
 msgid "དེས་ན་ བུ་མོ་ ལྷ་ཆོས་ བྱེད ། །"
-msgstr ""
+msgstr "Therefore, this girl shall practice divine Dharma."
 
 msgctxt "fc16417a7ba54b0c8022e8298fa5f791"
 msgid "འཇིག་ མེད་ བསམ་གཏན་ མཁར་བུ་ རྩིག  །"
