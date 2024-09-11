@@ -843,7 +843,7 @@ msgstr "Tending cattle and sheep becomes a negative action."
 
 msgctxt "9835aa8846f9450e813592807717ea7b"
 msgid "དང་པོ་␣ར་ བརྣབ་སེམས་ འདོད་པ་␣ས་ ཕྲལ ། །"
-msgstr ""
+msgstr "First, it separates you through greed and desire,"
 
 msgctxt "5f547ac0cd924437bcd5bed194b2978e"
 msgid "བར་ དུ་ ང་རྒྱལ་ ཕྲག་དོག་ འཕེལ ། །"
