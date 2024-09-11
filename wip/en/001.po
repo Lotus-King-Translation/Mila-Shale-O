@@ -823,7 +823,7 @@ msgstr "Therefore, this girl shall practice divine Dharma."
 
 msgctxt "10072a34e4f44fa6ba2415c81bc26493"
 msgid "ཞིང་ དུ་ རང་རྒྱུད་ ཐ་རྒོད་ འདུལ ། །"
-msgstr ""
+msgstr "In the field, tame your uncultivated wild ground,"
 
 msgctxt "3eec4e20f04b4b4dacb95b2e450e872d"
 msgid "གལ་ཏེ་ སེམས་བསྐྱེད་ བསམ་པ་ ཡིས་␣༑ །"
