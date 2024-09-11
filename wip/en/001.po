@@ -899,7 +899,7 @@ msgstr "Therefore, one cannot be harmony with everyone,"
 
 msgctxt "a05d1fbaf55443f7af1c125e468d85c9"
 msgid "མི་ སེམས་ བཟུང་བ་␣ས་ ཟིན་ དུས་ མེད ། །"
-msgstr ""
+msgstr "And there's no time to win people's hearts."
 
 msgctxt "810fa57b034b49d99f0733cd21bc1e09"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས ། །"
