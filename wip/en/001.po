@@ -786,7 +786,7 @@ msgstr "Therefore, this girl shall practice divine Dharma."
 
 msgctxt "fc16417a7ba54b0c8022e8298fa5f791"
 msgid "འཇིག་ མེད་ བསམ་གཏན་ མཁར་བུ་ རྩིག  །"
-msgstr ""
+msgstr "Build the indestructible fortress of meditative absorption,"
 
 msgctxt "94cd957d738b4b37a328a8b45ebabcdf"
 msgid "བདེ་གཤེགས་ གསུང་རབ་ སྐུ་གཟུགས་ དང༌ ། །"
