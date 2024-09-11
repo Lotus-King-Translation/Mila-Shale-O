@@ -811,7 +811,7 @@ msgstr "In the middle, one struggles with the water element,"
 
 msgctxt "44ccd413eec040848079abd2450301d6"
 msgid "ཐ་མ་␣ར་ མགོ་ནག་ མི་ལ་ འཛིང༌ ། །"
-msgstr ""
+msgstr "Finally, one struggles with black-headed humans."
 
 msgctxt "0022b0a4237248edb7a6915148c63523"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས ། །"
