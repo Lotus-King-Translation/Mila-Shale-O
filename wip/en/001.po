@@ -799,7 +799,7 @@ msgstr ""
 
 msgctxt "12b766ab94fc44e4a91b77e598332633"
 msgid "བཤོས་ཞིང་ ལ་␣ས་ རྣམས་ དོན་མེད་ ཡིན ། །"
-msgstr ""
+msgstr "All the works of food and fields are meaningless."
 
 msgctxt "2651c6f253204409b8fbe46f82bfe688"
 msgid "དང་པོ་␣ར་ ཐང་སྟོང་ ས་ ལ་ འཛིང༌ ། །"
