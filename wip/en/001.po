@@ -875,7 +875,7 @@ msgstr "One constantly looks at the faults of others."
 
 msgctxt "43a9156504ae4766afb10e2ac6380f40"
 msgid "ཀུན་ དང་ མཐུན་པ་ ག་ལ་ འབྱུང༌ ། །"
-msgstr ""
+msgstr "How can there be harmony with everyone?"
 
 msgctxt "27911cb5845a45318678cfa4c6f74cf9"
 msgid "ཉེས་པ་␣འི་ དྲི་མ་ དང་ བྲལ་བ་␣འི ། །"
