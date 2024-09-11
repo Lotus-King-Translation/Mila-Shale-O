@@ -891,7 +891,7 @@ msgstr "By evil ones and those on the dark side,"
 
 msgctxt "5dcfa09533a7485a9491b859e4208dd1"
 msgid "སྐྱོན་ གྱི་ ཕུང་པོ་ དག་ ཏུ་ མཐོང༌ ། །"
-msgstr ""
+msgstr "See [the Buddha] a mass of faults."
 
 msgctxt "873aff55898f4ad3a238ab96771d8104"
 msgid "དེ་ཕྱིར་ ཀུན་ དང་ མི་ མཐུན་ ཞིང་ ། །"
