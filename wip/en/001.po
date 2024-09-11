@@ -831,7 +831,7 @@ msgstr "If one thinks of generating the mind of awakening,"
 
 msgctxt "0672122ddf1d408a97bfdc2aba1b21e9"
 msgid "ཟིན་ ན་ བསོད་ནམས་ འོང་བ་␣འང་ སྲིད ། །"
-msgstr ""
+msgstr "If one holds, merit may arise."
 
 msgctxt "f401184d38754f68ba006ca79904cfdc"
 msgid "མ་ཟིན་ ནོར་ གྱི་ འདུ་ཤེས་ ཀྱིས ། །"
