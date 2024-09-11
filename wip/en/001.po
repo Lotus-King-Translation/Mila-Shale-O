@@ -847,7 +847,7 @@ msgstr "First, it separates you through greed and desire,"
 
 msgctxt "5f547ac0cd924437bcd5bed194b2978e"
 msgid "བར་ དུ་ ང་རྒྱལ་ ཕྲག་དོག་ འཕེལ ། །"
-msgstr ""
+msgstr "In the middle, it increases pride and jealousy,"
 
 msgctxt "81977c7c47804b75bfa0359a6305acb1"
 msgid "ཐ་མ་␣ར་ དགྲ་བོ་␣འི་ གཡབ་མོ་ བྱས་␣༑ །"
