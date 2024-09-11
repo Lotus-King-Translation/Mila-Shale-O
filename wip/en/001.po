@@ -879,7 +879,7 @@ msgstr "How can there be harmony with everyone?"
 
 msgctxt "27911cb5845a45318678cfa4c6f74cf9"
 msgid "ཉེས་པ་␣འི་ དྲི་མ་ དང་ བྲལ་བ་␣འི ། །"
-msgstr ""
+msgstr "The one who is free from the stains of fault,"
 
 msgctxt "79d3395aadf146f2831fdfd566c57ab5"
 msgid "ཀུན་མཁྱེན་ སྟོན་པ་ སངས་རྒྱས་ ལ་␣འང༌ ། །"
