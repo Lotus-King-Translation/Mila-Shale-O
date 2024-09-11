@@ -803,7 +803,7 @@ msgstr "All the works of food and fields are meaningless."
 
 msgctxt "2651c6f253204409b8fbe46f82bfe688"
 msgid "དང་པོ་␣ར་ ཐང་སྟོང་ ས་ ལ་ འཛིང༌ ། །"
-msgstr ""
+msgstr "First, one struggles with soil on the empty plain,"
 
 msgctxt "d8472408c9ce43e7ba4153e24718bb56"
 msgid "བར་ དུ་ འབྱུང་བ་ ཆུ་ ལ་ འཛིང༌ ། །"
