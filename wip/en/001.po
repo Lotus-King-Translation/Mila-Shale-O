@@ -835,7 +835,7 @@ msgstr "If one embraces it, merit may arise."
 
 msgctxt "f401184d38754f68ba006ca79904cfdc"
 msgid "མ་ཟིན་ ནོར་ གྱི་ འདུ་ཤེས་ ཀྱིས ། །"
-msgstr ""
+msgstr "If not embraced, with the perception of wealth,"
 
 msgctxt "afe3a5770d4047298260e362c5f91ad9"
 msgid "ཕྱུགས་ ལུག་ བསྐྱང་བ་ སྡིག་པ་␣འི་ ལ་␣ས ༑ །"
