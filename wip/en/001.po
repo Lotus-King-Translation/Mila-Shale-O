@@ -851,7 +851,7 @@ msgstr "In the middle, it increases pride and jealousy,"
 
 msgctxt "81977c7c47804b75bfa0359a6305acb1"
 msgid "ཐ་མ་␣ར་ དགྲ་བོ་␣འི་ གཡབ་མོ་ བྱས་␣༑ །"
-msgstr ""
+msgstr "Finally, it becomes a cause for enemies."
 
 msgctxt "bb60142ba4c64035bff6808990d27f80"
 msgid "བསམས་ ཤིང་ སྐྱོ་བ་ ནང་ ནས་ སྐྱེས ། །"
