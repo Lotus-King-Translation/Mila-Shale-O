@@ -795,6 +795,7 @@ msgstr "The Sugatas, the excellent speeches, the images and"
 msgctxt "7e909a4205c14efb9185b7ec4e2556bb"
 msgid "དད་ ལྡན་ དགེ་ རྒྱུན་ མ་གཏོགས་པ་␣འི ། །"
 msgstr ""
+"Except for the continuum of virtuous deeds of those endowed with confidence,"
 
 msgctxt "12b766ab94fc44e4a91b77e598332633"
 msgid "བཤོས་ཞིང་ ལ་␣ས་ རྣམས་ དོན་མེད་ ཡིན ། །"
