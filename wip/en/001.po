@@ -871,7 +871,7 @@ msgstr "Without recognizing one's own faults,"
 
 msgctxt "d656dc6d8cbb4c6b9a4a072ae9dc19b2"
 msgid "མི་ ཡི་ སྐྱོན་ ལ་ རྒྱུན་ དུ་ ལྟ ། །"
-msgstr ""
+msgstr "One constantly looks at the faults of others."
 
 msgctxt "43a9156504ae4766afb10e2ac6380f40"
 msgid "ཀུན་ དང་ མཐུན་པ་ ག་ལ་ འབྱུང༌ ། །"
