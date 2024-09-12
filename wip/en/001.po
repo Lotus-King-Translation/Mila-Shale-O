@@ -955,7 +955,7 @@ msgstr "As it is said by the buddhas."
 
 msgctxt "76466ae1b47c46269cc526821eea4a06"
 msgid "ཟེར་བ་ བདག་ གི་ རྣ་བ་␣ས་ ཐོས ། །"
-msgstr ""
+msgstr "This I have heard with my own ears."
 
 msgctxt "9e79a24ccbaf45f9bea20d12190dd884"
 msgid "དེ་ཕྱིར་ ཁྱེད་ ལ་ འབུལ་བ་ ལགས ། །"
