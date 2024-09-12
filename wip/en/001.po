@@ -971,7 +971,7 @@ msgstr "With kindness, please grant me the divine Dharma."
 
 msgctxt "f17228de7bec4065924480d74ad0bd32"
 msgid "ཞེས་ ཞུ་དོན་ གླུ་ རུ་ ཕུལ་བ་␣ས །"
-msgstr ""
+msgstr "As this request is offered in song."
 
 msgctxt "b61ddc2d5a1a46d0ba824fb7f1401a95"
 msgid ""
