@@ -923,7 +923,7 @@ msgstr "All appearances appear like gold,"
 
 msgctxt "ba875368b3464441820d311883b8c17e"
 msgid "མ་ ཤར་ ན་␣འང་ ཡོད་མེད་ མེད ། །"
-msgstr ""
+msgstr "Even if they do not, there is no existence or non-existence."
 
 msgctxt "80ba135bfc1746ea8503ec4d68167a6d"
 msgid "ངེད་ འཇིག་རྟེན་པ་ ཡི་ སྙིང་ རྡིག་ འདི ། །"
