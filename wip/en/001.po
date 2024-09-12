@@ -947,7 +947,7 @@ msgstr "In illusions like food and wealth,"
 
 msgctxt "31ff5bd596384a25816400e6eb2a1f84"
 msgid "དགེ་བ་␣ར་ སྤྱད་ ན་ བསོད་ནམས་ སུ ། །"
-msgstr ""
+msgstr "If they are used virtuously, They will become merit."
 
 msgctxt "c378b88ecabd4db19e58bb349129ae18"
 msgid "འགྲོ་ ཞེས་ སངས་རྒྱས་ རྣམས་ ཀྱིས་ གསུངས ། །"
