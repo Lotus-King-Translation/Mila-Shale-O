@@ -951,7 +951,7 @@ msgstr "If they are used virtuously, They will become merit."
 
 msgctxt "c378b88ecabd4db19e58bb349129ae18"
 msgid "འགྲོ་ ཞེས་ སངས་རྒྱས་ རྣམས་ ཀྱིས་ གསུངས ། །"
-msgstr ""
+msgstr "As it is said by the buddhas."
 
 msgctxt "76466ae1b47c46269cc526821eea4a06"
 msgid "ཟེར་བ་ བདག་ གི་ རྣ་བ་␣ས་ ཐོས ། །"
