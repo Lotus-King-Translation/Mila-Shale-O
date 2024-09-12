@@ -915,7 +915,7 @@ msgstr "Now, look at the true face of your mind."
 
 msgctxt "5b9e3d00c6624e96b86c8a444b330936"
 msgid "སངས་རྒྱས་ སྤྲུལ་པ་ ཁྱེད་ ཉིད་ ཀྱི ། །"
-msgstr ""
+msgstr "You, the emanation of the Buddha,"
 
 msgctxt "59046deb9de444af8828c4db5bb1aa40"
 msgid "སྣང་བ་ ཐམས་ཅད་ གསེར་ དུ་ འཆར ། །"
