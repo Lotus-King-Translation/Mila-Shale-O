@@ -931,7 +931,7 @@ msgstr "These worldly essential things of us,"
 
 msgctxt "633444e5339f4e1e9a05149b3d78db00"
 msgid "ཞེན་པ་ སྤོང་ ཕྱིར་ ཅིས་ཀྱང་ འབུལ ། །"
-msgstr ""
+msgstr "We offer it to abandon clinging."
 
 msgctxt "7c996d706c82407e97f1d2e1e127efe4"
 msgid "ཞེན་པ་ ཆེ་བ་␣འི་ དངོས་པོ་ འདི ། །"
