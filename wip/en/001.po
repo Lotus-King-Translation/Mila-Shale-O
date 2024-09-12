@@ -919,7 +919,7 @@ msgstr ""
 
 msgctxt "59046deb9de444af8828c4db5bb1aa40"
 msgid "སྣང་བ་ ཐམས་ཅད་ གསེར་ དུ་ འཆར ། །"
-msgstr ""
+msgstr "All appearances appear like gold,"
 
 msgctxt "ba875368b3464441820d311883b8c17e"
 msgid "མ་ ཤར་ ན་␣འང་ ཡོད་མེད་ མེད ། །"
