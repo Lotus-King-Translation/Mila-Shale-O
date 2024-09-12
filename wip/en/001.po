@@ -927,7 +927,7 @@ msgstr "Even if they do not, there is no existence or non-existence."
 
 msgctxt "80ba135bfc1746ea8503ec4d68167a6d"
 msgid "ངེད་ འཇིག་རྟེན་པ་ ཡི་ སྙིང་ རྡིག་ འདི ། །"
-msgstr ""
+msgstr "These worldly essential things of us,"
 
 msgctxt "633444e5339f4e1e9a05149b3d78db00"
 msgid "ཞེན་པ་ སྤོང་ ཕྱིར་ ཅིས་ཀྱང་ འབུལ ། །"
