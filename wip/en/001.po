@@ -939,7 +939,7 @@ msgstr "These things of great clinging,"
 
 msgctxt "8e269e252d5a438b9f8e9e2577bb6566"
 msgid "སྤོང་བ་␣ར་ རྒྱལ་བ་ རྣམས་ ཀྱིས་ གསུངས ། །"
-msgstr ""
+msgstr "All the victors taught [us] to abandon."
 
 msgctxt "bfbd4bade69244a39474c20840a3210e"
 msgid "སྒྱུ་མ་ ལྟ་བུ་␣འི་ ཟས་ནོར་ ལ ། །"
