@@ -943,7 +943,7 @@ msgstr "All the victors taught [us] to abandon."
 
 msgctxt "bfbd4bade69244a39474c20840a3210e"
 msgid "སྒྱུ་མ་ ལྟ་བུ་␣འི་ ཟས་ནོར་ ལ ། །"
-msgstr ""
+msgstr "In illusions like food and wealth,"
 
 msgctxt "31ff5bd596384a25816400e6eb2a1f84"
 msgid "དགེ་བ་␣ར་ སྤྱད་ ན་ བསོད་ནམས་ སུ ། །"
