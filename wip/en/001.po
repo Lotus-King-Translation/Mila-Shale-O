@@ -967,7 +967,7 @@ msgstr "Accept this offering of [my] adherence,"
 
 msgctxt "fc5f493caf64417083c9013b4dc40afd"
 msgid "བཀའ་དྲིན་ ལྷ་ཆོས་ གནང་ བར་ ཞུ ། །"
-msgstr ""
+msgstr "With kindness, please grant me the divine Dharma."
 
 msgctxt "f17228de7bec4065924480d74ad0bd32"
 msgid "ཞེས་ ཞུ་དོན་ གླུ་ རུ་ ཕུལ་བ་␣ས །"
