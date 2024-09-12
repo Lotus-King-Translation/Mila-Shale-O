@@ -986,6 +986,8 @@ msgid ""
 "ཁྱོད་ ཤི་ མ་ ཤི་ མེད་པ་␣ར་ སྙིང་ ནས་ ཆོས་ བྱེད་ ན་ ཆོས་སྒོ་␣ར་ འཇུག་པ་␣ས་ "
 "བླ་མ་ དང་ ཡི་དམ་ ལ་ མཆོད་པ་ ཤོམས་ ཤིག་ གསུངས་པ་␣ས །"
 msgstr ""
+"\"If you practice Dharma sincerely, disregarding life and death, you will "
+"enter the door of Dharma. Make offerings to the guru and yidam.\""
 
 msgctxt "ba03926de19a44699459751109b8a83c"
 msgid "མོས་ ཀྱང་ ཚོགས་མཆོད་ རྒྱ་ཆེན་པོ་ བཤམས །"
