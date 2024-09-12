@@ -935,7 +935,7 @@ msgstr "We offer it to abandon clinging."
 
 msgctxt "7c996d706c82407e97f1d2e1e127efe4"
 msgid "ཞེན་པ་ ཆེ་བ་␣འི་ དངོས་པོ་ འདི ། །"
-msgstr "These things of great attachment,"
+msgstr "These things of great clinging,"
 
 msgctxt "8e269e252d5a438b9f8e9e2577bb6566"
 msgid "སྤོང་བ་␣ར་ རྒྱལ་བ་ རྣམས་ ཀྱིས་ གསུངས ། །"
