@@ -959,7 +959,7 @@ msgstr "This I have heard with my own ears."
 
 msgctxt "9e79a24ccbaf45f9bea20d12190dd884"
 msgid "དེ་ཕྱིར་ ཁྱེད་ ལ་ འབུལ་བ་ ལགས ། །"
-msgstr ""
+msgstr "Therefore, I offer this to you."
 
 msgctxt "f02aa51935a1409b91c3ce8137e3f4a1"
 msgid "མོས་པ་␣འི་ རྟེན་ འདི་ བཞེས་ ནས་ ཀྱང༌ ། །"
