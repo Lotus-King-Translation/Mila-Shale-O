@@ -963,7 +963,7 @@ msgstr "Therefore, I offer this to you."
 
 msgctxt "f02aa51935a1409b91c3ce8137e3f4a1"
 msgid "མོས་པ་␣འི་ རྟེན་ འདི་ བཞེས་ ནས་ ཀྱང༌ ། །"
-msgstr ""
+msgstr "Accept this offering of [my] adherence,"
 
 msgctxt "fc5f493caf64417083c9013b4dc40afd"
 msgid "བཀའ་དྲིན་ ལྷ་ཆོས་ གནང་ བར་ ཞུ ། །"
