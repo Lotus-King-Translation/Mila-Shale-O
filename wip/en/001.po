@@ -1040,7 +1040,7 @@ msgstr "Keep these heart advice in mind until we meet again.\""
 
 msgctxt "8de4cb6ba8b749e4aab7ea0a891f5d21"
 msgid "ཞལ་གདམས་ ཀྱི་ མགུར་ འདི་ གསུངས་ སོ ། །"
-msgstr ""
+msgstr "He then sang this song of oral instructions:"
 
 msgctxt "545689f6bfad4fb69a5cd59e3a206c04"
 msgid "མཚན་ལྡན་ བླ་མ་ ཐུགས་རྗེ་ ཆེ ། །"
