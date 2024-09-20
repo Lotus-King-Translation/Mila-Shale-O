@@ -1204,7 +1204,7 @@ msgstr "And meditate without change."
 
 msgctxt "027d5ec2589b460ebd4bebf9d29c0cc7"
 msgid "གདམས་ངག་ སྣོད་ དུ་ རུང་བ་ ལ ། །"
-msgstr ""
+msgstr "To become a suitable vessel for instructions,"
 
 msgctxt "b4f99c45f94c425bbdc047781cc6ffda"
 msgid "ཀུན་གཞི་␣འི་ དད་པ་ བརྟན་པོ་ འཚལ ། །"
