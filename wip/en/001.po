@@ -1044,11 +1044,11 @@ msgstr "He then sang this song of oral instructions:"
 
 msgctxt "545689f6bfad4fb69a5cd59e3a206c04"
 msgid "མཚན་ལྡན་ བླ་མ་ ཐུགས་རྗེ་ ཆེ ། །"
-msgstr ""
+msgstr "Compassionate guru with perfect qualities,"
 
 msgctxt "a8cea43e99064f6984cd081473a5d338"
 msgid "དཀོན་མཆོག་ གསུམ་པོ་ སྐྱབས་གནས་ བཟང་ ། །"
-msgstr ""
+msgstr "The excellent refuge of the Three Jewels,"
 
 msgctxt "9f6b942e08ea463bb6cbc2ce71fde7f6"
 msgid "མཁའ་འགྲོ་ ཆོས་སྐྱོང་ མཐུ་རྩལ་ ཆེ ། །"
