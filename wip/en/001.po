@@ -1216,7 +1216,7 @@ msgstr "Look inward at one's own mind,"
 
 msgctxt "d5fa03ea213d4c1098e4463b21e55369"
 msgid "ཐ་སྙད་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
-msgstr ""
+msgstr "And meditate beyond conventions."
 
 msgctxt "4ac54ada001a4194aed085949cab1b88"
 msgid "སྣང་བ་ དཔེ་ཆ་␣ར་ འཆར་བ་ ལ ། །"
