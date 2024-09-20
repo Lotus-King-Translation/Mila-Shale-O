@@ -1212,7 +1212,7 @@ msgstr "One needs to have stable confidence in the all-ground."
 
 msgctxt "a4b27e31ece543ad8a02577f322032c7"
 msgid "རང་སེམས་ འདི་ ལ་ ཚུར་ ལྟོས་ ལ ། །"
-msgstr ""
+msgstr "Look inward at one's own mind,"
 
 msgctxt "d5fa03ea213d4c1098e4463b21e55369"
 msgid "ཐ་སྙད་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
