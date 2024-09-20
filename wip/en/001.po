@@ -1104,7 +1104,7 @@ msgstr "I will explain how to view it."
 
 msgctxt "0a2946ec222d477a88e27e24f6efe8da"
 msgid "ཡིད་ མ་ ཡེངས་ ཉོན་ ཅིག་ ས་ལེ་ འོད ། །"
-msgstr ""
+msgstr "Listen without distraction, Sale O."
 
 msgctxt "80d008e57e414bba8e7cbf7d345fed96"
 msgid "དང་པོ་␣ར་ ཆོས་སྒོ་␣ར་ ཞུགས་པ་ ནས ། །"
