@@ -1192,7 +1192,7 @@ msgstr "To directly perceive your own mind,"
 
 msgctxt "e1fb8837c3114b4d8b002eef28f51ff5"
 msgid "བླ་མ་␣འི་ གསུང་ བཞིན་ སྒྲུབ་པ་ འཚལ ། །"
-msgstr ""
+msgstr "One must practice according to the guru's speech."
 
 msgctxt "dc05aff0de954ec19341c2c5d6c7ca9d"
 msgid "ས་གཞི་ འདི་ ལ་ དཔེ་ ལོང་ ལ ། །"
