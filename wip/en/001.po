@@ -1013,7 +1013,7 @@ msgstr "After conferring instructions, set her to meditate."
 
 msgctxt "d050bbd6a00842be9c23a2a5d699ef2f"
 msgid "དྲོད་ རྟགས་ ཀྱི་ ཡོན་ཏན་ མྱུར་ དུ་ སྐྱེས །"
-msgstr ""
+msgstr "She quickly developed signs of [spiritual] warmth and qualities."
 
 msgctxt "35979253b272472d81daaefb39bbf06e"
 msgid "རི་ ཐུབ་པ་ བྱུང་བ་ དང་ རྗེ་བཙུན་ གྱི་ ཞལ་ ནས །"
