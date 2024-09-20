@@ -1084,7 +1084,7 @@ msgstr "And look into the stainless expanse of sky."
 
 msgctxt "9256fe9460444895845ac73ac2aebd23"
 msgid "གྲུབ་ཐོབ་ གོང་མ་␣ས་ བྱིན་ བརླབས་པ་␣འི ། །"
-msgstr ""
+msgstr "The places blessed by the eminent accomplished masters,"
 
 msgctxt "3b8c3461d3fc45db94100cf8057c266e"
 msgid "དབེན་གནས་ རི་ ལ་ སྒོམ་ དུ་ སོངས ། །"
