@@ -1208,7 +1208,7 @@ msgstr "To become a suitable vessel for instructions,"
 
 msgctxt "b4f99c45f94c425bbdc047781cc6ffda"
 msgid "ཀུན་གཞི་␣འི་ དད་པ་ བརྟན་པོ་ འཚལ ། །"
-msgstr ""
+msgstr "One needs to have stable confidence in the all-ground."
 
 msgctxt "a4b27e31ece543ad8a02577f322032c7"
 msgid "རང་སེམས་ འདི་ ལ་ ཚུར་ ལྟོས་ ལ ། །"
