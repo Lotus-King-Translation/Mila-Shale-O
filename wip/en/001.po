@@ -1021,7 +1021,7 @@ msgstr "When she became able to stay in the mountains, the Jetsun said,"
 
 msgctxt "de966f8a2d16421b8eb729310042c2e5"
 msgid "ཁྱོད་ ལ་ སྙིང་རུས་ དང་ དད་པ་ ཡང་ དགའ་མོ་ འདུག  །"
-msgstr ""
+msgstr "\"You have admirable willpower and confidence."
 
 msgctxt "914f463cd97d403ead987b3d71d234be"
 msgid "ཉམས་རྟོགས་ ཀྱིས་ ཀྱང་ རི་ ཐུབ་པ་ འདུག་པ་␣ས །"
