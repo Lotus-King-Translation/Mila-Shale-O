@@ -1156,7 +1156,7 @@ msgstr "And meditate without center and fringe."
 
 msgctxt "e4c1bab091354295af79a83a320fbe98"
 msgid "གནས་ལུགས་ དོན་ ལ་ ལྟ་བ་ ལ ། །"
-msgstr ""
+msgstr "To view the true nature of actuality,"
 
 msgctxt "f4abda48f27f494ab83347e48328babf"
 msgid "ཐབས་ དང་ ཤེས་རབ་ ཟུང་འཇུག་ འཚལ ། །"
