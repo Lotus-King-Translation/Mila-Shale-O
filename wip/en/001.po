@@ -1112,7 +1112,7 @@ msgstr "From when you first entered the Dharma gate,"
 
 msgctxt "3e19f59d3830492aa2fe07b475fbba9c"
 msgid "དད་པ་ འགྱུར་མེད་ ངོ་མཚར་ ཆེ ། །"
-msgstr ""
+msgstr "Your unwavering confidence has been incredible."
 
 msgctxt "3821385b68774296888f0e7a47974764"
 msgid "ད་ རི་བོ་ ཡ་གི་ ལ་ དཔེ་ ལོང་ འང་ ལ ། །"
