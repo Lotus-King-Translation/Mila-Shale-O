@@ -1080,7 +1080,7 @@ msgstr "To the mirror of [your] mind, polished free from dust,"
 
 msgctxt "a4d6f461ac4b4d3fbcb313d7c6d94fd0"
 msgid "དྲི་མེད་ ནམ་མཁ་␣འི་ དབྱིངས་ ལ་ ལྟོས་␣༑ །"
-msgstr ""
+msgstr "And look into the stainless expanse of sky."
 
 msgctxt "9256fe9460444895845ac73ac2aebd23"
 msgid "གྲུབ་ཐོབ་ གོང་མ་␣ས་ བྱིན་ བརླབས་པ་␣འི ། །"
