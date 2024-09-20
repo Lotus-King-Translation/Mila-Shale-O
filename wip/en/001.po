@@ -1176,7 +1176,7 @@ msgstr "To recognize the six classes of beings as your parents,"
 
 msgctxt "c061ea94a3bd4ae2b3d014e9ff1af411"
 msgid "སྙིང་རྗེ་␣ས་ ཀུན་ ལ་ ཁྱབ་པ་ འཚལ་␣༑ །"
-msgstr ""
+msgstr "One must have all-pervasive compassion."
 
 msgctxt "3a9f4834357c428da615facd28cdabb9"
 msgid "རྒྱ་མཚོ་ མ་གི་ ལ་ དཔེ་ ལོང་ ལ ། །"
