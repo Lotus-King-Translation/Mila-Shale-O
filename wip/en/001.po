@@ -1076,7 +1076,7 @@ msgstr "The confident practitioner Sale O,"
 
 msgctxt "ec434dec8ffa4b4b848c6ac7a5e4e650"
 msgid "སེམས་ ཀྱི་ མེ་ལོང་ གཡའ་ ཕྱིས་ ལ ། །"
-msgstr ""
+msgstr "To the mirror of [your] mind, polished free from dust,"
 
 msgctxt "a4d6f461ac4b4d3fbcb313d7c6d94fd0"
 msgid "དྲི་མེད་ ནམ་མཁ་␣འི་ དབྱིངས་ ལ་ ལྟོས་␣༑ །"
