@@ -1148,7 +1148,7 @@ msgstr "One must have unceasing devotion."
 
 msgctxt "f56e29e1ef6842628baaea74c10f0982"
 msgid "ནམ་མཁའ་ འདི་ ལ་ དཔེ་ ལོང་ ལ ། །"
-msgstr ""
+msgstr "Take this sky as an example,"
 
 msgctxt "af4650a03da34d12a07bbec700c011e0"
 msgid "མཐའ་དབུས་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད་␣༑ །"
