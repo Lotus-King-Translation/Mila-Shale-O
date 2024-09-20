@@ -1017,7 +1017,7 @@ msgstr "She quickly developed signs of [spiritual] warmth and qualities."
 
 msgctxt "35979253b272472d81daaefb39bbf06e"
 msgid "རི་ ཐུབ་པ་ བྱུང་བ་ དང་ རྗེ་བཙུན་ གྱི་ ཞལ་ ནས །"
-msgstr ""
+msgstr "When she became able to stay in the mountains, the Jetsun said,"
 
 msgctxt "de966f8a2d16421b8eb729310042c2e5"
 msgid "ཁྱོད་ ལ་ སྙིང་རུས་ དང་ དད་པ་ ཡང་ དགའ་མོ་ འདུག  །"
