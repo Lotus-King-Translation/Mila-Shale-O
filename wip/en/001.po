@@ -1124,7 +1124,7 @@ msgstr "And meditate without wavering."
 
 msgctxt "a6ee1e2d8e7c4b6fbb05152e6e2a0ee9"
 msgid "སངས་རྒྱས་ ཡོན་ཏན་ སྐྱེ་བ་ ལ ། །"
-msgstr ""
+msgstr "To develop the qualities of a Buddha,"
 
 msgctxt "4db21deec8fd4d30aac3a39514e54af4"
 msgid "སྐྱིད་སྡུག་ ཐེག་པ་␣འི་ ཞེ་ བཅད་ འཚལ ། །"
