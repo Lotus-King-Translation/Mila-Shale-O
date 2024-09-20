@@ -1001,7 +1001,7 @@ msgstr ""
 
 msgctxt "50739878145542b4b41481b804f10f29"
 msgid "སྔགས་ལུགས་ ཀྱི་ དབང་ བསྐར་ ཏེ །"
-msgstr ""
+msgstr "Bestowed empowerment according to the tantra tradition,"
 
 msgctxt "54d8aae5c68342268cd461abad6d35a3"
 msgid "བཏགས་␣༑"
