@@ -1152,7 +1152,7 @@ msgstr "Take this sky as an example,"
 
 msgctxt "af4650a03da34d12a07bbec700c011e0"
 msgid "མཐའ་དབུས་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད་␣༑ །"
-msgstr ""
+msgstr "And meditate without centre and fringe."
 
 msgctxt "e4c1bab091354295af79a83a320fbe98"
 msgid "གནས་ལུགས་ དོན་ ལ་ ལྟ་བ་ ལ ། །"
