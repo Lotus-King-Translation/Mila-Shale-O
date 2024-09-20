@@ -1096,7 +1096,7 @@ msgstr "[To know] the purpose of mountain retreats,"
 
 msgctxt "7973ee51a76b4b2e83993ca348277975"
 msgid "དབང་ སྒྱུར་ སེམས་ ཀྱི་ གཤིས་ ལ་ ལྟོས ། །"
-msgstr ""
+msgstr "Look at the nature of the controlling mind."
 
 msgctxt "a42de906ff26477a9be900adace85c9e"
 msgid "དེ་ ཡི་ ལྟ་ ལུགས་ ཁོ་བོ་␣ས་ བཤད ། །"
