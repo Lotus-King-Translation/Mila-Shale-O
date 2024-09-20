@@ -1220,7 +1220,7 @@ msgstr "And meditate beyond conventions."
 
 msgctxt "4ac54ada001a4194aed085949cab1b88"
 msgid "སྣང་བ་ དཔེ་ཆ་␣ར་ འཆར་བ་ ལ ། །"
-msgstr ""
+msgstr "For appearances to manifest in books,"
 
 msgctxt "1447a5cdeea44ca294c84de2e6fcf8cf"
 msgid "སློབ་གཉེར་ རང་ གི་ སེམས་ ལ་ འཚལ་␣༑ །"
