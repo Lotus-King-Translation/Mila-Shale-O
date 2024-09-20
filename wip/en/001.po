@@ -1128,7 +1128,7 @@ msgstr "To develop the qualities of a Buddha,"
 
 msgctxt "4db21deec8fd4d30aac3a39514e54af4"
 msgid "སྐྱིད་སྡུག་ ཐེག་པ་␣འི་ ཞེ་ བཅད་ འཚལ ། །"
-msgstr ""
+msgstr "One needs to cut the thought's vehicles of happiness and suffering."
 
 msgctxt "5a095233662e4e46ab6379e69b22cb62"
 msgid "ཆུ་བོ་ མ་གི་ ལ་ དཔེ་ ལོང་ ལ ། །"
