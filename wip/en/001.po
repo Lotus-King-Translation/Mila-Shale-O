@@ -1092,7 +1092,7 @@ msgstr "Go meditate in the་secluded place of mountains,"
 
 msgctxt "f17326e6e9ae48c59bb428809c393311"
 msgid "རི་ཁྲོད་ འགྲིམས་པ་␣འི་ དགོས་པ་ ལ ། །"
-msgstr "The purpose of mountain retreats,"
+msgstr "[To know] the purpose of mountain retreats,"
 
 msgctxt "7973ee51a76b4b2e83993ca348277975"
 msgid "དབང་ སྒྱུར་ སེམས་ ཀྱི་ གཤིས་ ལ་ ལྟོས ། །"
