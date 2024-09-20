@@ -1056,7 +1056,7 @@ msgstr "Powerful dakinis and Dharma protectors,"
 
 msgctxt "82dcfda7e5064916a7a103137a83f498"
 msgid "གོང་ དུ་ སྨོས་པ་ རྣམས་ ལ་ འདུད ། །"
-msgstr ""
+msgstr "I bow to all mentioned above."
 
 msgctxt "869ec43cfe0049d7a96146b44602ff18"
 msgid "གླུ་ སྙན་པ་␣འི་ སྡེབ་སྦྱོར་ མི་ ཤེས་ ཏེ ། །"
