@@ -1180,7 +1180,7 @@ msgstr "One must have all-pervasive compassion."
 
 msgctxt "3a9f4834357c428da615facd28cdabb9"
 msgid "རྒྱ་མཚོ་ མ་གི་ ལ་ དཔེ་ ལོང་ ལ ། །"
-msgstr ""
+msgstr "Take that ocean down below as an example,"
 
 msgctxt "8a4926c64e364133a3be9a5a7a7579b8"
 msgid "བྱིང་རྨུགས་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
