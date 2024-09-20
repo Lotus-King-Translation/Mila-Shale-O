@@ -1168,7 +1168,7 @@ msgstr "Take the sun and moon as examples,"
 
 msgctxt "e143942f374b488591756d5331381597"
 msgid "། གསལ་ འགྲིབ་ མེདཔའི་ སྒོམ་ ཞིག་ མཛོད ། །"
-msgstr ""
+msgstr "And meditate clearly without decline."
 
 msgctxt "b7d087e17ea94b72ab0dded40342a33a"
 msgid "རིགས་ དྲུག་ ཕ་མ་␣ར་ ཤེས་པ་ ལ ། །"
