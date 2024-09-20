@@ -1196,7 +1196,7 @@ msgstr "One must practice according to the guru's speech."
 
 msgctxt "dc05aff0de954ec19341c2c5d6c7ca9d"
 msgid "ས་གཞི་ འདི་ ལ་ དཔེ་ ལོང་ ལ ། །"
-msgstr ""
+msgstr "Take this earth as an example,"
 
 msgctxt "4f4977f937b546b190344a390b503be9"
 msgid "འགྱུར་བ་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
