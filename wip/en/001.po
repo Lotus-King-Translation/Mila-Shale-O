@@ -1036,7 +1036,7 @@ msgstr "Now go and practice solitary meditation."
 msgctxt "14e9a7a504444cb291d0cd83ffa9b028"
 msgid ""
 "ང་ དང་ མ་ ཕྲད་ ཀྱི་ བར་ དུ་ སྙིང་གཏམ་ འདི་ རྣམས་ ཡིད་ ལ་ ཟུངས་ ཤིག་ གསུང་ །"
-msgstr ""
+msgstr "Keep these heart advice in mind until we meet again.\""
 
 msgctxt "8de4cb6ba8b749e4aab7ea0a891f5d21"
 msgid "ཞལ་གདམས་ ཀྱི་ མགུར་ འདི་ གསུངས་ སོ ། །"
