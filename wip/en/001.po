@@ -1108,7 +1108,7 @@ msgstr "Listen without distraction, Sale O."
 
 msgctxt "80d008e57e414bba8e7cbf7d345fed96"
 msgid "དང་པོ་␣ར་ ཆོས་སྒོ་␣ར་ ཞུགས་པ་ ནས ། །"
-msgstr ""
+msgstr "From when you first entered the Dharma gate,"
 
 msgctxt "3e19f59d3830492aa2fe07b475fbba9c"
 msgid "དད་པ་ འགྱུར་མེད་ ངོ་མཚར་ ཆེ ། །"
