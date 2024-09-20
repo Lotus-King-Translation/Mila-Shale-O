@@ -1136,7 +1136,7 @@ msgstr "Take the river down below as an example,"
 
 msgctxt "c376c148090940a4aae0a62850deef0b"
 msgid "རྒྱུན་ ཆད་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
-msgstr ""
+msgstr "And meditate without interruption."
 
 msgctxt "794c445ec3e949d5a0f6b3b8e1999cc2"
 msgid "བླ་མ་␣འི་ བྱིན་རླབས་ འཇུག་པ་ ལ་␣༑ །"
