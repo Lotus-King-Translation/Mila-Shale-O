@@ -1228,7 +1228,7 @@ msgstr "One must study in the mind."
 
 msgctxt "b3e79eb7b48d48a5a3c3158ad3649aa2"
 msgid "དུས་ དང་ རྣམ་པ་ ཐམས་ཅད་ དུ །"
-msgstr ""
+msgstr "At all times and in all ways,"
 
 msgctxt "fb4123aa5544463097b7b687170111a0"
 msgid "མི་ཟད་ སྦྱིན་པ་␣འི་ རྒྱགས་ཕྱེ་ སྒྲུབས ། །"
