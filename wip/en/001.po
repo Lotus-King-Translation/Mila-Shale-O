@@ -1140,7 +1140,7 @@ msgstr "And meditate without ceasing."
 
 msgctxt "794c445ec3e949d5a0f6b3b8e1999cc2"
 msgid "བླ་མ་␣འི་ བྱིན་རླབས་ འཇུག་པ་ ལ་␣༑ །"
-msgstr ""
+msgstr "To receive the guru's blessings,"
 
 msgctxt "95eee89149e74ed897e4a0c453695197"
 msgid "མོས་གུས་ རྒྱུན་ ཆད་ མེད་པ་ འཚལ ། །"
