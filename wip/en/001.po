@@ -1100,7 +1100,7 @@ msgstr "Look at the nature of the controlling mind."
 
 msgctxt "a42de906ff26477a9be900adace85c9e"
 msgid "དེ་ ཡི་ ལྟ་ ལུགས་ ཁོ་བོ་␣ས་ བཤད ། །"
-msgstr ""
+msgstr "I will explain how to view it."
 
 msgctxt "0a2946ec222d477a88e27e24f6efe8da"
 msgid "ཡིད་ མ་ ཡེངས་ ཉོན་ ཅིག་ ས་ལེ་ འོད ། །"
