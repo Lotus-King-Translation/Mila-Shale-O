@@ -1200,7 +1200,7 @@ msgstr "Take this earth as an example,"
 
 msgctxt "4f4977f937b546b190344a390b503be9"
 msgid "འགྱུར་བ་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
-msgstr ""
+msgstr "And meditate without change."
 
 msgctxt "027d5ec2589b460ebd4bebf9d29c0cc7"
 msgid "གདམས་ངག་ སྣོད་ དུ་ རུང་བ་ ལ ། །"
