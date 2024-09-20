@@ -1052,7 +1052,7 @@ msgstr "The excellent refuge of the Three Jewels,"
 
 msgctxt "9f6b942e08ea463bb6cbc2ce71fde7f6"
 msgid "མཁའ་འགྲོ་ ཆོས་སྐྱོང་ མཐུ་རྩལ་ ཆེ ། །"
-msgstr ""
+msgstr "Powerful dakinis and Dharma protectors,"
 
 msgctxt "82dcfda7e5064916a7a103137a83f498"
 msgid "གོང་ དུ་ སྨོས་པ་ རྣམས་ ལ་ འདུད ། །"
