@@ -1184,7 +1184,7 @@ msgstr "Take that ocean down below as an example,"
 
 msgctxt "8a4926c64e364133a3be9a5a7a7579b8"
 msgid "བྱིང་རྨུགས་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
-msgstr ""
+msgstr "And meditate without sinking or fogginess."
 
 msgctxt "ffe8131f1d4d4bdf8684894c4bc00708"
 msgid "རང་སེམས་ མངོན་སུམ་ མཐོང་བ་ ལ ། །"
