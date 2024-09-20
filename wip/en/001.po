@@ -1164,7 +1164,7 @@ msgstr "One must seek the union of method and wisdom."
 
 msgctxt "df738cd67c724326b78e58dfe1e1af78"
 msgid "ཉི་ཟླ་ གཉིས་ ལ་ དཔེ་ ལོང་ ལ་␣༑"
-msgstr ""
+msgstr "Take the sun and moon as examples,"
 
 msgctxt "e143942f374b488591756d5331381597"
 msgid "། གསལ་ འགྲིབ་ མེདཔའི་ སྒོམ་ ཞིག་ མཛོད ། །"
