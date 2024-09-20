@@ -1236,7 +1236,7 @@ msgstr "Gather the foods of inexhaustible generosity."
 
 msgctxt "740a2f1bd9fc4bc28ea0b3abe8376af2"
 msgid "ཚུལ་ཁྲིམས་ མཛེས་པ་␣འི་ རྒྱན་ ལ་ གཟོབས་␣༑ །"
-msgstr ""
+msgstr "Adorn yourself with the beautiful ornament of moral discipline."
 
 msgctxt "cc7ef85ff8114ddca1b86b14debd239f"
 msgid "བཟོད་པ་␣འི་ གཡང་ལུག་ སྤྲུགས་ ལ་ གྱོན ། །"
