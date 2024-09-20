@@ -1088,7 +1088,7 @@ msgstr ""
 
 msgctxt "3b8c3461d3fc45db94100cf8057c266e"
 msgid "དབེན་གནས་ རི་ ལ་ སྒོམ་ དུ་ སོངས ། །"
-msgstr ""
+msgstr "Go meditate in the་secluded place of mountains,"
 
 msgctxt "f17326e6e9ae48c59bb428809c393311"
 msgid "རི་ཁྲོད་ འགྲིམས་པ་␣འི་ དགོས་པ་ ལ ། །"
