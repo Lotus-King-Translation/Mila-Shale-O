@@ -1060,7 +1060,7 @@ msgstr "I bow to all mentioned above."
 
 msgctxt "869ec43cfe0049d7a96146b44602ff18"
 msgid "གླུ་ སྙན་པ་␣འི་ སྡེབ་སྦྱོར་ མི་ ཤེས་ ཏེ ། །"
-msgstr ""
+msgstr "I lack the composition of melodious songs,"
 
 msgctxt "ab8134b38d7345d7babd425a9a829429"
 msgid "ཚིག་ འདི་ ལ་ བརྒྱུད་པ་␣འི་ བྱིན་རླབས་ ཡོད ། །"
