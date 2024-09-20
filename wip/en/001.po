@@ -1188,7 +1188,7 @@ msgstr "And meditate without sinking or fogginess."
 
 msgctxt "ffe8131f1d4d4bdf8684894c4bc00708"
 msgid "རང་སེམས་ མངོན་སུམ་ མཐོང་བ་ ལ ། །"
-msgstr ""
+msgstr "To directly perceive your own mind,"
 
 msgctxt "e1fb8837c3114b4d8b002eef28f51ff5"
 msgid "བླ་མ་␣འི་ གསུང་ བཞིན་ སྒྲུབ་པ་ འཚལ ། །"
