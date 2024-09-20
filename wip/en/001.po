@@ -1224,7 +1224,7 @@ msgstr "For appearances to manifest in books,"
 
 msgctxt "1447a5cdeea44ca294c84de2e6fcf8cf"
 msgid "སློབ་གཉེར་ རང་ གི་ སེམས་ ལ་ འཚལ་␣༑ །"
-msgstr ""
+msgstr "One must study in the mind."
 
 msgctxt "b3e79eb7b48d48a5a3c3158ad3649aa2"
 msgid "དུས་ དང་ རྣམ་པ་ ཐམས་ཅད་ དུ །"
