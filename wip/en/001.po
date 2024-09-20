@@ -991,7 +991,7 @@ msgstr ""
 
 msgctxt "ba03926de19a44699459751109b8a83c"
 msgid "མོས་ ཀྱང་ ཚོགས་མཆོད་ རྒྱ་ཆེན་པོ་ བཤམས །"
-msgstr ""
+msgstr "She then arranged a great feast offering."
 
 msgctxt "8d12a7a7ca8d410da66634e031e2e630"
 msgid "རྗེ་བཙུན་ གྱིས་ མོ་ལ་ མདོ་ ལུགས་ ཀྱི་ དགེ་བསྙེན་མ་␣འི་ སྡོམ་པ་ གནང་ །"
