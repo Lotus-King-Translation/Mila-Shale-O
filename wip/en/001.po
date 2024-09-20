@@ -1132,7 +1132,7 @@ msgstr "One needs to cut the thought's vehicles of happiness and suffering."
 
 msgctxt "5a095233662e4e46ab6379e69b22cb62"
 msgid "ཆུ་བོ་ མ་གི་ ལ་ དཔེ་ ལོང་ ལ ། །"
-msgstr "Take the river down below as an example,"
+msgstr "Take that river down below as an example,"
 
 msgctxt "c376c148090940a4aae0a62850deef0b"
 msgid "རྒྱུན་ ཆད་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
