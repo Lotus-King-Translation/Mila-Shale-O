@@ -1072,7 +1072,7 @@ msgstr "The intent of the conquerors dwells in this meaning."
 
 msgctxt "e7d15029a32a41c4afc5456ab7aabe20"
 msgid "དད་ ལྡན་ སྒོམ་ མ་ ས་ལེ་ འོད ། །"
-msgstr ""
+msgstr "The confident practitioner Sale O,"
 
 msgctxt "ec434dec8ffa4b4b848c6ac7a5e4e650"
 msgid "སེམས་ ཀྱི་ མེ་ལོང་ གཡའ་ ཕྱིས་ ལ ། །"
