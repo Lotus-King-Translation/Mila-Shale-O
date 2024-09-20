@@ -1009,7 +1009,7 @@ msgstr "[Gave her] the name [Sale O]."
 
 msgctxt "cf5bfebd71fd4815806bbefde8adb83a"
 msgid "གདམས་ངག་ རྣམས་ ཕོག་ སྟེ་ སྒོམ་ དུ་ བཅུག་པ་␣ས །"
-msgstr ""
+msgstr "After conferring instructions, set her to meditate."
 
 msgctxt "d050bbd6a00842be9c23a2a5d699ef2f"
 msgid "དྲོད་ རྟགས་ ཀྱི་ ཡོན་ཏན་ མྱུར་ དུ་ སྐྱེས །"
