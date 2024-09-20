@@ -1116,7 +1116,7 @@ msgstr "Your unwavering confidence has been incredible."
 
 msgctxt "3821385b68774296888f0e7a47974764"
 msgid "ད་ རི་བོ་ ཡ་གི་ ལ་ དཔེ་ ལོང་ འང་ ལ ། །"
-msgstr ""
+msgstr "Now, take the mountain over there as an example,"
 
 msgctxt "77b0195303844eb384b55dc0abc90d70"
 msgid "གཡོ་འགུལ་ མེད་པ་␣འི་ སྒོམ་ ཞིག་ མཛོད ། །"
