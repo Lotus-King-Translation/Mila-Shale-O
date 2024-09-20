@@ -1144,7 +1144,7 @@ msgstr "To receive the guru's blessings,"
 
 msgctxt "95eee89149e74ed897e4a0c453695197"
 msgid "མོས་གུས་ རྒྱུན་ ཆད་ མེད་པ་ འཚལ ། །"
-msgstr ""
+msgstr "One must have unceasing devotion."
 
 msgctxt "f56e29e1ef6842628baaea74c10f0982"
 msgid "ནམ་མཁའ་ འདི་ ལ་ དཔེ་ ལོང་ ལ ། །"
