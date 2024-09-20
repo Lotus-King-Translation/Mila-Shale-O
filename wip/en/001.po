@@ -1172,7 +1172,7 @@ msgstr "And meditate clearly without decline."
 
 msgctxt "b7d087e17ea94b72ab0dded40342a33a"
 msgid "རིགས་ དྲུག་ ཕ་མ་␣ར་ ཤེས་པ་ ལ ། །"
-msgstr ""
+msgstr "To recognize the six classes of beings as your parents,"
 
 msgctxt "c061ea94a3bd4ae2b3d014e9ff1af411"
 msgid "སྙིང་རྗེ་␣ས་ ཀུན་ ལ་ ཁྱབ་པ་ འཚལ་␣༑ །"
