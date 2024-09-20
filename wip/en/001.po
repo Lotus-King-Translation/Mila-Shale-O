@@ -1160,7 +1160,7 @@ msgstr "To view the true nature of actuality,"
 
 msgctxt "f4abda48f27f494ab83347e48328babf"
 msgid "ཐབས་ དང་ ཤེས་རབ་ ཟུང་འཇུག་ འཚལ ། །"
-msgstr ""
+msgstr "One must seek the union of method and wisdom."
 
 msgctxt "df738cd67c724326b78e58dfe1e1af78"
 msgid "ཉི་ཟླ་ གཉིས་ ལ་ དཔེ་ ལོང་ ལ་␣༑"
