@@ -1232,7 +1232,7 @@ msgstr "At all times and in all ways,"
 
 msgctxt "fb4123aa5544463097b7b687170111a0"
 msgid "མི་ཟད་ སྦྱིན་པ་␣འི་ རྒྱགས་ཕྱེ་ སྒྲུབས ། །"
-msgstr ""
+msgstr "Gather the provisions of inexhaustible generosity."
 
 msgctxt "740a2f1bd9fc4bc28ea0b3abe8376af2"
 msgid "ཚུལ་ཁྲིམས་ མཛེས་པ་␣འི་ རྒྱན་ ལ་ གཟོབས་␣༑ །"
