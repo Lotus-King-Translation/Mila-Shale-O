@@ -1026,10 +1026,12 @@ msgstr "\"You have admirable willpower and confidence."
 msgctxt "914f463cd97d403ead987b3d71d234be"
 msgid "ཉམས་རྟོགས་ ཀྱིས་ ཀྱང་ རི་ ཐུབ་པ་ འདུག་པ་␣ས །"
 msgstr ""
+"Your realization of the experience has the potential for you to stay in the "
+"mountains."
 
 msgctxt "a2849f5d47ae480e866cbd807d16fd31"
 msgid "ད་ གཅིག་པུ་␣ར་ རིལ་ སྒོམ་ དུ་ སོངས །"
-msgstr ""
+msgstr "Now go and practice solitary meditation."
 
 msgctxt "14e9a7a504444cb291d0cd83ffa9b028"
 msgid ""
