@@ -1248,7 +1248,7 @@ msgstr "Mount the magical horse of diligence."
 
 msgctxt "9bebac2e41a647a3a64068b08b4a8b11"
 msgid "བསམ་གཏན་ འཕགས་པ་␣འི་ གྲོང་ དུ་ སྙོགས ། །"
-msgstr ""
+msgstr "To reach the noble city of meditative absorption."
 
 msgctxt "21e529269e9b422192d70b25c00c701f"
 msgid "ཤེས་རབ་ ནོར་ གྱིས་ ཕྱུག་པ་␣ར་ མཛོད ། །"
