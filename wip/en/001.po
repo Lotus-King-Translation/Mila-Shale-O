@@ -1268,7 +1268,7 @@ msgstr "Do you understand the meaning, the faithful one?"
 
 msgctxt "5dafaaf2c8b9439b8dc816259fe380c6"
 msgid "ཞེས་ གསུངས་པ་␣ས །"
-msgstr ""
+msgstr "Having said this,"
 
 msgctxt "68f0696ffa2a4757b5a90b58fdd7167c"
 msgid "མོ་ ལྷག་པར་ དད་ ནས །"
