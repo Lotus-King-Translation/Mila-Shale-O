@@ -1276,7 +1276,7 @@ msgstr "She became even more confident,"
 
 msgctxt "64a8cb8b4d224a38be2ac19896ed7b64"
 msgid "ཚོགས་ དང་ མཆོད་པ་ བརྒྱ་ ཆེན་པོ་ བཤམས །"
-msgstr ""
+msgstr "Arranged a hundred great feast and offerings,"
 
 msgctxt "212ca1ca56694db4a2170f618d995aa5"
 msgid "རྗེ་བཙུན་ ལ་ ཡང་ མཉེས་པ་␣འི་ མཆོད་པ་ ཕུལ་ ནས །"
