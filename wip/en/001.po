@@ -1290,7 +1290,7 @@ msgstr ""
 
 msgctxt "8a9e23e1242d4552b03472f24fb6430a"
 msgid "གཉའ་ནང་ སྣང་ཡུལ་ གྱི་ རི་ ལ་ སྒོམ་ དུ་ སོང་ ངོ༌ ། །"
-msgstr ""
+msgstr "And went to meditate in the mountains of Nyanang Nangyul."
 
 msgctxt "78d5c3d5d65e4602ade70d60fb1bb8c7"
 msgid "རྗེ་བཙུན་ ཆེན་པོ་ ཡང་ བྲིན་ གྱི་ བྲག་དམར་ ལ་ བྱོན་ ནས །"
