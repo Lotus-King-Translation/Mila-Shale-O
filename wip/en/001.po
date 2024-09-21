@@ -1256,7 +1256,7 @@ msgstr "Become rich with the wealth of wisdom."
 
 msgctxt "056e82e1a5594a568ec647a2ba324878"
 msgid "བླ་མ་␣འི་ དྲིན་ལན་ མ་ བརྗེད་པ་␣ར ། །"
-msgstr ""
+msgstr "Without forgetting the kindness of the guru,"
 
 msgctxt "64226c0029914696939a750d92752850"
 msgid "ཉམས་ དང་ རྟོགས་པ་ བརྒྱ་ འབུལ་ གྱིས ། །"
