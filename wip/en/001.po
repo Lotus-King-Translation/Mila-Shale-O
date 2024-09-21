@@ -1285,6 +1285,8 @@ msgstr "And made pleasing offerings to the Jetsun."
 msgctxt "24dc1e3d38ff4164a89bcfbd3ef8d842"
 msgid "རྗེ་བཙུན་ གྱི་ བཀའ་ བཞིན་ ཚེ་ འདི་␣འི་ བྱ་བ་ ཐམས་ཅད་ བཏང་ སྟེ །"
 msgstr ""
+"Following the Jetsun's instructions, she gave up all worldly activities of "
+"this life,"
 
 msgctxt "8a9e23e1242d4552b03472f24fb6430a"
 msgid "གཉའ་ནང་ སྣང་ཡུལ་ གྱི་ རི་ ལ་ སྒོམ་ དུ་ སོང་ ངོ༌ ། །"
