@@ -1272,7 +1272,7 @@ msgstr "Having said this,"
 
 msgctxt "68f0696ffa2a4757b5a90b58fdd7167c"
 msgid "མོ་ ལྷག་པར་ དད་ ནས །"
-msgstr ""
+msgstr "She became even more confident,"
 
 msgctxt "64a8cb8b4d224a38be2ac19896ed7b64"
 msgid "ཚོགས་ དང་ མཆོད་པ་ བརྒྱ་ ཆེན་པོ་ བཤམས །"
