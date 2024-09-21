@@ -1294,7 +1294,7 @@ msgstr "And went to meditate in the mountains of Nyanang Nangyul."
 
 msgctxt "78d5c3d5d65e4602ade70d60fb1bb8c7"
 msgid "རྗེ་བཙུན་ ཆེན་པོ་ ཡང་ བྲིན་ གྱི་ བྲག་དམར་ ལ་ བྱོན་ ནས །"
-msgstr ""
+msgstr "The great Jetsun then went to the Red Rock of Drin."
 
 msgctxt "ac07020a72d24454b521fbb4f520e220"
 msgid ""
