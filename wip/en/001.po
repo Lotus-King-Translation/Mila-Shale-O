@@ -1264,7 +1264,7 @@ msgstr "Make a hundred offerings of practice and realization."
 
 msgctxt "a53855dc84924f229bb34e3adfd7dbff"
 msgid "དོན་ མཇལ་བ་␣ར་ གདའ་ འམ་ དད་ ཅན་ མ ། །"
-msgstr ""
+msgstr "Do you understand the meaning, the faithful one?"
 
 msgctxt "5dafaaf2c8b9439b8dc816259fe380c6"
 msgid "ཞེས་ གསུངས་པ་␣ས །"
