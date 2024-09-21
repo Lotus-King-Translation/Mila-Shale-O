@@ -1244,7 +1244,7 @@ msgstr "Shake out and wear the sheepskin of patience."
 
 msgctxt "3b54f3ec34054a5ab87df7b673671032"
 msgid "བརྩོན་འགྲུས་ རྫུ་འཕྲུལ་ རྟ་ལ་ ཞོན ། །"
-msgstr "Mount the magical horse of diligence."
+msgstr "Mount the magical horse of diligence,"
 
 msgctxt "9bebac2e41a647a3a64068b08b4a8b11"
 msgid "བསམ་གཏན་ འཕགས་པ་␣འི་ གྲོང་ དུ་ སྙོགས ། །"
