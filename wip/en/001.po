@@ -1252,7 +1252,7 @@ msgstr "To reach the noble city of meditative absorption."
 
 msgctxt "21e529269e9b422192d70b25c00c701f"
 msgid "ཤེས་རབ་ ནོར་ གྱིས་ ཕྱུག་པ་␣ར་ མཛོད ། །"
-msgstr ""
+msgstr "Become rich with the wealth of wisdom."
 
 msgctxt "056e82e1a5594a568ec647a2ba324878"
 msgid "བླ་མ་␣འི་ དྲིན་ལན་ མ་ བརྗེད་པ་␣ར ། །"
