@@ -1301,6 +1301,8 @@ msgid ""
 "གསལ་ འགྲིབ་ མེད་པ་␣འི་ འོད་གསལ་ གྱི་ ངང་ ནས་ ཐུགས་ བརྩེ་བ་ ཆེན་པོ་␣ས་ རས་ "
 "ཆུང་པ་ ལ་ གཟིགས་པ་␣ས །"
 msgstr ""
+"From the state of clear light, without decline, he looked upon Rechungpa "
+"with great compassion."
 
 msgctxt "b896a88bdd2a4d8e9e014f855540782b"
 msgid ""
