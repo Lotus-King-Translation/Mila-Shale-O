@@ -1363,7 +1363,7 @@ msgstr "Without moving [her] body, "
 
 msgctxt "286665e36034489d8ff4f39c89cb7a30"
 msgid "ངག་ མི་སྨྲ་ བར་ ཀུན་ ཁྱད་ དུ་ གསོད་པ་ འདྲ་བ་ ཞིག་ འདུག  །"
-msgstr ""
+msgstr "Without speaking, as if everything is being disregarded."
 
 msgctxt "029d4900b02c4466b5c5e610e29abce3"
 msgid ""
