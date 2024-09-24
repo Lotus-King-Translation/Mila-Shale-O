@@ -1280,7 +1280,7 @@ msgstr "Arranged a hundred great feast and offerings,"
 
 msgctxt "212ca1ca56694db4a2170f618d995aa5"
 msgid "རྗེ་བཙུན་ ལ་ ཡང་ མཉེས་པ་␣འི་ མཆོད་པ་ ཕུལ་ ནས །"
-msgstr "And made pleasing offerings to the Jetsun."
+msgstr "And made pleasing offerings to Jetsun."
 
 msgctxt "24dc1e3d38ff4164a89bcfbd3ef8d842"
 msgid "རྗེ་བཙུན་ གྱི་ བཀའ་ བཞིན་ ཚེ་ འདི་␣འི་ བྱ་བ་ ཐམས་ཅད་ བཏང་ སྟེ །"
