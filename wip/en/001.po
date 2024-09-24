@@ -1429,7 +1429,7 @@ msgstr ""
 
 msgctxt "4f98862fce714f3591bd526685488132"
 msgid "འགལ་རྐྱེན་ བར་ཆད་ མ་བྱུང་བ་␣ས ། །"
-msgstr "Without encountering adverse conditions or obstacles,"
+msgstr "As there are no adverse conditions or obstacles,"
 
 msgctxt "3f6fc4a150c54bfdb9fd9a8213a8c1c0"
 msgid "ད་རེས་ དྲི་རྨེད་ མེད་ ཀྱང་ ལེགས་␣༑ །"
