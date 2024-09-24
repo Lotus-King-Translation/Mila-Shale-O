@@ -1387,6 +1387,8 @@ msgid ""
 "ལུང་པ་␣འི་ མདོ་␣ར་ མཇལ་ ཏེ་ ཕྱག་ དང་ སྙུན་ དྲི་ ཕུལ་ ནས་ ཅི་ཡང་ མི་ "
 "ཟེར་བ་␣ར་ འདུག་པ་ ལ །"
 msgstr ""
+"They met in the lower part of the valley. After offering prostrations and "
+"inquiring about his health, she remained silent."
 
 msgctxt "57d89486669d458e818edf4d29c03467"
 msgid "རྗེ་བཙུན་ གྱིས་ མོ་␣འི་ ཉམས་སད་པ་␣འི་ ཕྱིར་ མགུར་ འདི་ གསུངས་ སོ ། །"
