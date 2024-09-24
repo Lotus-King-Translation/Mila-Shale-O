@@ -1330,6 +1330,8 @@ msgid ""
 "ཞབས་ ས་ ལ་ རེག་པ་␣འི་ ཐོག་མ་ སྒྲུབ་ཕུག་ རས་ཆེན་ དུ་ གྲགས་པ་␣འི་ བྲག་ ལོགས་ "
 "ལ་ མཛད་པ་␣ས་ ཞབས་རྗེས་ ཤིག་ ཀྱང་ བྱུང་ །"
 msgstr ""
+"The first place his feet touched the ground became known as Drubphug Rachen,"
+" where a footprint remains embedded on the face of a rock."
 
 msgctxt "0980de08027f4850b00e53a6f375df06"
 msgid "དེ་␣ར་ ཡང་ འོད་གསལ་ གྱི་ ངང་ ལ་ རས་ ཆུང་པ་ ལ་ གཟིགས་པ་␣ས །"
