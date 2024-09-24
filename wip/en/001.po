@@ -1465,7 +1465,7 @@ msgstr "Marmots practice cessation meditation."
 
 msgctxt "39e5258fcd2a47cb82b7d1d40dc5f261"
 msgid "དཀའ་ཐུབ་ ཡུན་རིང་ བྲམ་ཟེ་␣ས་ བྱེད ། །"
-msgstr ""
+msgstr "Brahmins have practiced asceticism for a long time."
 
 msgctxt "b1547f8f033b4c9d968ac7928974f072"
 msgid "ཁ་བཤད་ འདོན་པ་ ནེ་ཙོ་␣ས་ ཤེས ། །"
