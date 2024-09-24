@@ -1380,7 +1380,7 @@ msgstr "She also saw Jetsun coming while in the state of clear light."
 
 msgctxt "8cac891cda774dee8c3c0ff5d68121e0"
 msgid "བསུ་བ་ ལ་ འོངས་པ་ དང༌ །"
-msgstr ""
+msgstr "She came to receive him."
 
 msgctxt "ee7f7b20ceea4d5cae2c550f3c5853c7"
 msgid ""
