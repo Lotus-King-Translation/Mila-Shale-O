@@ -1437,7 +1437,7 @@ msgstr "At this time, it is perfectly acceptable to refrain from questioning."
 
 msgctxt "52388096c7df4251baf49db3b7b40957"
 msgid "ཟས་དུག་ ཅན་ ལྟ་བུ་␣ས་ འགྲངས་པ་ ཡི ། །"
-msgstr ""
+msgstr "Satiated by food that is like poison,"
 
 msgctxt "010e910fb2a94d05bc395a59bb2f0581"
 msgid "ཆོས་ འབད་པ་␣ས་ བསྒོམས་ ཀྱང་ གྲོལ་ མི་ སྲིད ། །"
