@@ -1359,7 +1359,7 @@ msgstr "She was still in her first mountain retreat,"
 
 msgctxt "1ba33ee927b247f692a641eda156394d"
 msgid "ལུས་ མི་ གཡོ །"
-msgstr ""
+msgstr "Without moving [her] body, "
 
 msgctxt "286665e36034489d8ff4f39c89cb7a30"
 msgid "ངག་ མི་སྨྲ་ བར་ ཀུན་ ཁྱད་ དུ་ གསོད་པ་ འདྲ་བ་ ཞིག་ འདུག  །"
