@@ -1445,7 +1445,7 @@ msgstr "No matter how hard one practices dharma, liberation is impossible."
 
 msgctxt "11a9481ac1ca4b6485825c929b624fc5"
 msgid "བྲག་ཕུག་ ཡུན་རིང་ གླ་བ་␣ས་ བཟུང་ ། །"
-msgstr ""
+msgstr "The rock cave has been rented for a long time."
 
 msgctxt "d43d7884122e44b882452033b600b45c"
 msgid "བྱ་ ནག་ རྡོ་རྗེ་␣འི་ བཟླས་པ་ མང་ ། །"
