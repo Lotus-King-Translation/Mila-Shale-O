@@ -1453,7 +1453,7 @@ msgstr "There are many black-bird Dorje who recite,"
 
 msgctxt "16ddd302241a448eb32fb6ab54e0ba0a"
 msgid "སྲོག་ རྩོལ་ གྱུར་ མོ་ ལྟོ་ དཀ་␣ར་ བཟང་ ། །"
-msgstr ""
+msgstr "The white-bellied Gyurmo are good in vitality and exertion."
 
 msgctxt "8903b83bb56046e3b7b64178a2dccf62"
 msgid "བཅུད་ལེན་ དོམ་ བུ་ ཐུགས་ དཀ་␣ར་ མཁས ། །"
