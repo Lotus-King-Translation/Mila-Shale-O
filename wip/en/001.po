@@ -996,7 +996,7 @@ msgstr "She then arranged a great feast offering."
 msgctxt "8d12a7a7ca8d410da66634e031e2e630"
 msgid "རྗེ་བཙུན་ གྱིས་ མོ་ལ་ མདོ་ ལུགས་ ཀྱི་ དགེ་བསྙེན་མ་␣འི་ སྡོམ་པ་ གནང་ །"
 msgstr ""
-"The Jetsun gave her the laywoman practitioner vows according to the sutra "
+"Jetsun gave her the laywoman practitioner vows according to the sutra "
 "tradition,"
 
 msgctxt "50739878145542b4b41481b804f10f29"
