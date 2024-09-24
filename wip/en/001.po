@@ -1461,7 +1461,7 @@ msgstr "White-chested bears are skilled in essence extraction."
 
 msgctxt "518cab99d80c4bfeaeee7e28e38abf37"
 msgid "འགོག་པ་␣འི་ སྙོམས་འཇུག་ ཕྱི་བ་␣ས་ སྒོམ ། །"
-msgstr ""
+msgstr "Marmots practice cessation meditation."
 
 msgctxt "39e5258fcd2a47cb82b7d1d40dc5f261"
 msgid "དཀའ་ཐུབ་ ཡུན་རིང་ བྲམ་ཟེ་␣ས་ བྱེད ། །"
