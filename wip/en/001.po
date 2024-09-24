@@ -1449,7 +1449,7 @@ msgstr "The rock cave has been rented for a long time."
 
 msgctxt "d43d7884122e44b882452033b600b45c"
 msgid "བྱ་ ནག་ རྡོ་རྗེ་␣འི་ བཟླས་པ་ མང་ ། །"
-msgstr ""
+msgstr "There are many black-bird Dorje who recite,"
 
 msgctxt "16ddd302241a448eb32fb6ab54e0ba0a"
 msgid "སྲོག་ རྩོལ་ གྱུར་ མོ་ ལྟོ་ དཀ་␣ར་ བཟང་ ། །"
