@@ -1404,7 +1404,7 @@ msgstr "Taking the Dharma in the continuum [of mind], Shale-O."
 
 msgctxt "00bbb0494c3e4c77b730320d9357a006"
 msgid "ཐོག་མ་␣ར་ མོས་གུས་ ཀྱི་ བླ་མ་ བསྟེན ། །"
-msgstr ""
+msgstr "First, rely on the guru with devotion."
 
 msgctxt "68585a82fa784ca38691458ad2a7637e"
 msgid "བྱིན་ བརླབས་ དབང་ གིས་ རྒྱུད་ སྨིན་ བྱས་␣༑ །"
