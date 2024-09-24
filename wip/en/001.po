@@ -1457,7 +1457,7 @@ msgstr "The white-bellied Gyurmo are good in vitality and exertion."
 
 msgctxt "8903b83bb56046e3b7b64178a2dccf62"
 msgid "བཅུད་ལེན་ དོམ་ བུ་ ཐུགས་ དཀ་␣ར་ མཁས ། །"
-msgstr ""
+msgstr "White-chested bears are skilled in essence extraction."
 
 msgctxt "518cab99d80c4bfeaeee7e28e38abf37"
 msgid "འགོག་པ་␣འི་ སྙོམས་འཇུག་ ཕྱི་བ་␣ས་ སྒོམ ། །"
