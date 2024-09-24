@@ -1408,7 +1408,7 @@ msgstr "First, rely on the guru with devotion."
 
 msgctxt "68585a82fa784ca38691458ad2a7637e"
 msgid "བྱིན་ བརླབས་ དབང་ གིས་ རྒྱུད་ སྨིན་ བྱས་␣༑ །"
-msgstr ""
+msgstr "Through blessings and empowerments, ripen your continuum of mind."
 
 msgctxt "ed608aba095e49dea7bcaa566e32c73d"
 msgid "ཐབས་ལམ་ བདུད་རྩི་␣འི་ རོ་མཆོག་ བསྟེན ། །"
