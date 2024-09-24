@@ -1307,7 +1307,7 @@ msgstr ""
 msgctxt "b896a88bdd2a4d8e9e014f855540782b"
 msgid ""
 "ཤེལ་ གྱི་ མཆོད་རྟེན་ འོད་ འཚེར་བ་ ཞིག་ ཏུ་ ཁྲོང་ ངེ་ འོང་ ཞིག་ ཡོད་པ་ ལ་␣ས །"
-msgstr ""
+msgstr "A shimmering light comes straight from a crystal stupa, "
 
 msgctxt "8afd879eddc84188b02a71f680eb0aaa"
 msgid ""
