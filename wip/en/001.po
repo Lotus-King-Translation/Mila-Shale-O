@@ -1343,7 +1343,7 @@ msgstr "He knew that although there was no obstacle to his body or life,"
 
 msgctxt "221c164de84f47b89ce738dd09d3ebd5"
 msgid "སེམས་ ལ་ ཆོས་ མིན་ གྱི་ བར་ཆད་ བྱུང་བ་ མཁྱེན་ ནས །"
-msgstr ""
+msgstr "An obstacle of non-Dharma had arisen in his mind."
 
 msgctxt "1266d95014e545bcb376add2df82c4a9"
 msgid ""
