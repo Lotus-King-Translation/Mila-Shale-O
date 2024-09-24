@@ -1469,7 +1469,7 @@ msgstr "Brahmins have practiced asceticism for a long time."
 
 msgctxt "b1547f8f033b4c9d968ac7928974f072"
 msgid "ཁ་བཤད་ འདོན་པ་ ནེ་ཙོ་␣ས་ ཤེས ། །"
-msgstr "Parrot knows how to recite speech."
+msgstr "Parrots know how to recite speech."
 
 msgctxt "84dd505c94fb4555a1c7148b2e39c58e"
 msgid "ལ་␣ར་ གྲོལ་ ཆ་ སེམས་ ལ་མ་ ཤར་ ན ། །"
