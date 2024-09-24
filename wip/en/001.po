@@ -1005,7 +1005,7 @@ msgstr "Bestowed empowerment according to the tantra tradition,"
 
 msgctxt "54d8aae5c68342268cd461abad6d35a3"
 msgid "བཏགས་␣༑"
-msgstr "[Gave her] the name [Sale O]."
+msgstr "[Gave her] the name [Shale-O]."
 
 msgctxt "cf5bfebd71fd4815806bbefde8adb83a"
 msgid "གདམས་ངག་ རྣམས་ ཕོག་ སྟེ་ སྒོམ་ དུ་ བཅུག་པ་␣ས །"
