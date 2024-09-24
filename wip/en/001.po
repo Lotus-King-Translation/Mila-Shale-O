@@ -1319,7 +1319,7 @@ msgstr ""
 
 msgctxt "539c3a19b0714f11a4f60ef331e15e5f"
 msgid "ང་␣འི་ བུ་ རས་ ཆུང་པ་ ལ་བ་␣ར་ ཆད་ གཅིག་ བྱུང་ ངམ་ དགོངས་ ནས །"
-msgstr ""
+msgstr "The [Jetsun] thought, \"Has some obstacle befallen my son Rechungpa?\""
 
 msgctxt "8f29b699fcda4983b2033750a4c052ae"
 msgid "བྲག་དམར་ སྤོ་མཐོ་ ནས་ ལ་ ཕྱི་␣འི་ བར་ ལ་ འཕུར་ བྱོན་པ་␣འི་ ངོ་ ༑"
