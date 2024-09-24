@@ -1339,7 +1339,7 @@ msgstr "There again, in the state of clear light, he looked upon Rechungpa."
 
 msgctxt "232e40d15ca54691b86a6db581b6e473"
 msgid "ལུས་སྲོག་ ལ་བ་␣ར་ ཆད་ མ་ བྱུང་ རུང་ །"
-msgstr ""
+msgstr "He knew that although there was no obstacle to his body or life,"
 
 msgctxt "221c164de84f47b89ce738dd09d3ebd5"
 msgid "སེམས་ ལ་ ཆོས་ མིན་ གྱི་ བར་ཆད་ བྱུང་བ་ མཁྱེན་ ནས །"
