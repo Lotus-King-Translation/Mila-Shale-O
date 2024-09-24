@@ -1314,6 +1314,8 @@ msgid ""
 "རས་ ཆུང་པ་␣ས་ མུ་སྟེགས་པ་ ལ་ ངན་སྔགས་ བསླབས་པ་␣འི་ སྟོབས་ ཀྱིས་ ནམ་ཞིག་ "
 "རླུང་དམར་ ཞིག་ ཏུ་ འཚུབ་ ཁྱིལ་ སོང་བ་ དང་ །"
 msgstr ""
+"Due to the power of evil mantras that Rechungpa learned from Tirthika "
+"followers, a red wind swirls at one point."
 
 msgctxt "539c3a19b0714f11a4f60ef331e15e5f"
 msgid "ང་␣འི་ བུ་ རས་ ཆུང་པ་ ལ་བ་␣ར་ ཆད་ གཅིག་ བྱུང་ ངམ་ དགོངས་ ནས །"
