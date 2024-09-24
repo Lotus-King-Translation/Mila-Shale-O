@@ -91,7 +91,7 @@ msgctxt "fc5f53d5caf348b48bc2a7d56178c100"
 msgid ""
 "རྗེ་བཙུན་ གྱི་ ཞལ་ ནས །  ཁྱེད་ རང་ གི་ ཉེ་འཁོར་ གྱི་ ལྡོམ་བུ་བ་ ཞིག་ ཡིན་ "
 "གསུངས་པ་␣ས །"
-msgstr "The Jetsun said, \"I am an alms-beggar yogi from your vicinity.\""
+msgstr "Jetsun said, \"I am an alms-beggar yogi from your vicinity.\""
 
 msgctxt "0f09748f25c64dc18745461d6ac57565"
 msgid ""
