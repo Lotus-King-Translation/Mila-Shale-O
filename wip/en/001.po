@@ -1355,7 +1355,7 @@ msgstr ""
 
 msgctxt "c32d7023f93344408ea0d353e4055de1"
 msgid "དང་པོ་␣འི་ རི་ཁྲོད་ ན་ འདུག་ སྟེ །"
-msgstr "She was still in her first mountain retreat."
+msgstr "She was still in her first mountain retreat,"
 
 msgctxt "1ba33ee927b247f692a641eda156394d"
 msgid "ལུས་ མི་ གཡོ །"
