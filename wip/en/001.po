@@ -56,7 +56,7 @@ msgstr ""
 
 msgctxt "43d80108e376451bb50da82f1ec22962"
 msgid "རྗེ་བཙུན་ དེ་ ཀར་ བཞུགས་པ་ དང་ །"
-msgstr "The Jetsun remained there and"
+msgstr "Jetsun remained there and"
 
 msgctxt "b14a3185d1a84b37aaf98292e3178386"
 msgid "དེ་ ནུབ་ བུ་མོ་ དེ་ ལ་ རྨི་ལམ་ བཟང་པོ་ བྱུང་བ་ དྲན་ ཏེ །"
