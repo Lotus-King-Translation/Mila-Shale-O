@@ -1424,7 +1424,8 @@ msgstr "Without tightness and looseness in meditation,"
 
 msgctxt "80e7ccd4b07f4207829dfb48d8770595"
 msgid "ལམ་ གོང་མ་␣འི་ དྲོད་ རྟགས་ ནང་ ནས་ ཤར ། །"
-msgstr "The signs of progress on the higher paths arise from within."
+msgstr ""
+"The signs of [spiritual] warmth on the higher paths arise from within."
 
 msgctxt "4f98862fce714f3591bd526685488132"
 msgid "འགལ་རྐྱེན་ བར་ཆད་ མ་བྱུང་བ་␣ས ། །"
