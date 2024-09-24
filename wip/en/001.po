@@ -1433,7 +1433,7 @@ msgstr "As there are no adverse conditions or obstacles,"
 
 msgctxt "3f6fc4a150c54bfdb9fd9a8213a8c1c0"
 msgid "ད་རེས་ དྲི་རྨེད་ མེད་ ཀྱང་ ལེགས་␣༑ །"
-msgstr ""
+msgstr "It is perfectly acceptable to refrain from questioning."
 
 msgctxt "52388096c7df4251baf49db3b7b40957"
 msgid "ཟས་དུག་ ཅན་ ལྟ་བུ་␣ས་ འགྲངས་པ་ ཡི ། །"
