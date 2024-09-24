@@ -1335,7 +1335,7 @@ msgstr ""
 
 msgctxt "0980de08027f4850b00e53a6f375df06"
 msgid "དེ་␣ར་ ཡང་ འོད་གསལ་ གྱི་ ངང་ ལ་ རས་ ཆུང་པ་ ལ་ གཟིགས་པ་␣ས །"
-msgstr ""
+msgstr "There again, in the state of clear light, he looked upon Rechungpa."
 
 msgctxt "232e40d15ca54691b86a6db581b6e473"
 msgid "ལུས་སྲོག་ ལ་བ་␣ར་ ཆད་ མ་ བྱུང་ རུང་ །"
