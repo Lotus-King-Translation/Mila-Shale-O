@@ -1392,7 +1392,7 @@ msgstr ""
 
 msgctxt "57d89486669d458e818edf4d29c03467"
 msgid "རྗེ་བཙུན་ གྱིས་ མོ་␣འི་ ཉམས་སད་པ་␣འི་ ཕྱིར་ མགུར་ འདི་ གསུངས་ སོ ། །"
-msgstr ""
+msgstr "To test her experience, Jetsun sang this song:"
 
 msgctxt "28851cb8fb0e44e9bbb905b5bfb93829"
 msgid "གནས་རི་ ཁྲོད་ དབེན་པ་ བསྟེན་པ་ ཡི ། །"
