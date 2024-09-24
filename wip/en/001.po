@@ -1396,7 +1396,7 @@ msgstr "To test her awaken experience, Jetsun sang this song:"
 
 msgctxt "28851cb8fb0e44e9bbb905b5bfb93829"
 msgid "གནས་རི་ ཁྲོད་ དབེན་པ་ བསྟེན་པ་ ཡི ། །"
-msgstr ""
+msgstr "Staying in the solitary mountain hermitage,"
 
 msgctxt "c60e3372e48243ee934a1def3ef5b2ad"
 msgid "ཆོས་ རྒྱུད་ ལ་ འགེལ་བ་␣འི་ ས་ལེ་ འོད ། །"
