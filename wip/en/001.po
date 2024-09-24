@@ -1428,7 +1428,7 @@ msgstr "The signs of progress on the higher paths arise from within."
 
 msgctxt "4f98862fce714f3591bd526685488132"
 msgid "འགལ་རྐྱེན་ བར་ཆད་ མ་བྱུང་བ་␣ས ། །"
-msgstr ""
+msgstr "Without encountering adverse conditions or obstacles,"
 
 msgctxt "3f6fc4a150c54bfdb9fd9a8213a8c1c0"
 msgid "ད་རེས་ དྲི་རྨེད་ མེད་ ཀྱང་ ལེགས་␣༑ །"
