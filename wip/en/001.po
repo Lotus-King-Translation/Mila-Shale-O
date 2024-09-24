@@ -1376,7 +1376,7 @@ msgstr ""
 
 msgctxt "c354040c61b34e2b88174d7375dbb1b3"
 msgid "མོས་ ཀྱང་ འོད་གསལ་ གྱི་ ངང་ ནས་ རྗེ་བཙུན་ འབྱོན་པ་ མཐོང་ སྟེ །"
-msgstr ""
+msgstr "She also saw Jetsun coming while in the state of clear light."
 
 msgctxt "8cac891cda774dee8c3c0ff5d68121e0"
 msgid "བསུ་བ་ ལ་ འོངས་པ་ དང༌ །"
