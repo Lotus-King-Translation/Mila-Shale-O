@@ -1441,7 +1441,7 @@ msgstr "Satiated by food that is like poison,"
 
 msgctxt "010e910fb2a94d05bc395a59bb2f0581"
 msgid "ཆོས་ འབད་པ་␣ས་ བསྒོམས་ ཀྱང་ གྲོལ་ མི་ སྲིད ། །"
-msgstr ""
+msgstr "No matter how hard one practices dharma, liberation is impossible."
 
 msgctxt "11a9481ac1ca4b6485825c929b624fc5"
 msgid "བྲག་ཕུག་ ཡུན་རིང་ གླ་བ་␣ས་ བཟུང་ ། །"
