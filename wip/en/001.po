@@ -1416,7 +1416,7 @@ msgstr "Rely on the supreme taste of the nectar of the path of method."
 
 msgctxt "bd61fe553f9a4ae59cd60bcc2d3ee0e3"
 msgid "དམ་པ་␣འི་ ཆོས་ ལ་ ངེས་ཤེས་ སྐྱེས ། །"
-msgstr ""
+msgstr "Develop certainty in the holy dharma."
 
 msgctxt "c090322384ad4de3859a1df44eb83914"
 msgid "སྒོམ་ ལ་ ཐང་ལྷོད་ མ་ ཤོར་བ་␣ས ༑ །"
