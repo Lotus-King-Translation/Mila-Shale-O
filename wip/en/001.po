@@ -1400,7 +1400,7 @@ msgstr "Staying in the solitary mountain hermitage,"
 
 msgctxt "c60e3372e48243ee934a1def3ef5b2ad"
 msgid "ཆོས་ རྒྱུད་ ལ་ འགེལ་བ་␣འི་ ས་ལེ་ འོད ། །"
-msgstr ""
+msgstr "Taking the Dharma in the continuum [of mind], Shale-O."
 
 msgctxt "00bbb0494c3e4c77b730320d9357a006"
 msgid "ཐོག་མ་␣ར་ མོས་གུས་ ཀྱི་ བླ་མ་ བསྟེན ། །"
