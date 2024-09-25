@@ -1589,7 +1589,7 @@ msgstr "The fruit that liberates my continuum of mind,"
 
 msgctxt "1676f16b7ee340a18f0355b319f103f5"
 msgid "ཞབས་པད་ སྤྱི་བོ་␣ས་ ལེན་ མཛད་པ ། །"
-msgstr ""
+msgstr "I receive your lotus feet on my crown."
 
 msgctxt "a5a2d40101244917a34aec617658efd3"
 msgid "གུང་ ཐང་ རས་ཆེན་ ཐུགས་རྗེ་ ཅན ། །"
