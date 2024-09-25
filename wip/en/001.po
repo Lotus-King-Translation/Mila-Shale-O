@@ -1585,7 +1585,7 @@ msgstr "The pure fruits have ripened individually."
 
 msgctxt "6cac8f70edb646e7aa16d7f45efab670"
 msgid "འབྲས་བུ་␣ས་ བདག་ རྒྱུད་ གྲོལ་ འགྱུར་བ་␣འི ། །"
-msgstr ""
+msgstr "The fruit that liberates my continuum of mind,"
 
 msgctxt "1676f16b7ee340a18f0355b319f103f5"
 msgid "ཞབས་པད་ སྤྱི་བོ་␣ས་ ལེན་ མཛད་པ ། །"
