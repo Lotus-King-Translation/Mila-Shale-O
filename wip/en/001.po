@@ -1617,7 +1617,7 @@ msgstr "May all of us, your disciples,"
 
 msgctxt "95c58b935e7b4ab48d52795f4491482b"
 msgid "རྟོག་དཔྱོད་ ཁ་ལོ་ ཆོས་ ལ་ བསྒྱུར ། །"
-msgstr ""
+msgstr "Transform our discursive thoughts into dharma."
 
 msgctxt "edd42eaf1184461d9159d0093a72e3ce"
 msgid "ཕྱིན་ ཅི་ མ་ ལོག་ལམ་ ལ་ བཀོད ། །"
