@@ -1621,7 +1621,7 @@ msgstr "Transform our discursive thoughts into dharma."
 
 msgctxt "edd42eaf1184461d9159d0093a72e3ce"
 msgid "ཕྱིན་ ཅི་ མ་ ལོག་ལམ་ ལ་ བཀོད ། །"
-msgstr ""
+msgstr "Place us on the unmistaken path."
 
 msgctxt "2094f1c804524473aee7c81eb3d2e16f"
 msgid "རྒྱུད་ མ་ སྨིན་ དབང་ གིས་ སྨིན་ མཛད་ ཅིང་ ། །"
