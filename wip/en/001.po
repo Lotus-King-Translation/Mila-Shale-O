@@ -1593,7 +1593,7 @@ msgstr "I receive your lotus feet on my crown."
 
 msgctxt "a5a2d40101244917a34aec617658efd3"
 msgid "གུང་ ཐང་ རས་ཆེན་ ཐུགས་རྗེ་ ཅན ། །"
-msgstr ""
+msgstr "Compassionate Gungthang Rechen,"
 
 msgctxt "ba18322980254f50a6a096ef464d0d51"
 msgid "སྙན་པ་␣འི་ བ་དན་ ཕྱོགས་ བཅུར་ གཡོ ། །"
