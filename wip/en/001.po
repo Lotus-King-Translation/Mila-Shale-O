@@ -1481,7 +1481,7 @@ msgstr "The path to liberation cannot be found through desire."
 
 msgctxt "2770ea05ec2f49638017a136d5437f2b"
 msgid "སེམས་ རྫིང་ ཆུ་ བཞིན་ དུ་ བསྐྱིལ་བ་ དེ ། །"
-msgstr ""
+msgstr "The mind settles like a pond water,"
 
 msgctxt "e46faaed08eb4b4386d041aca6cf5da1"
 msgid "རྟོག་པ་␣འི་ འཕྲོ་ འདུ་ བཀག་པ་ ཙམ ། །"
