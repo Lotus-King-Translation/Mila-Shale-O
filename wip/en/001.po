@@ -1505,7 +1505,7 @@ msgstr "By placing the Tsandali at the center of mind,"
 
 msgctxt "0d7f284e94364dad8bf9d251632081fc"
 msgid "བར་དོ་␣ར་ རིག་པ་␣འི་ ངོས་འཛིན་ དགོས ། །"
-msgstr ""
+msgstr "One needs to recognize rigpa in the bardo."
 
 msgctxt "9e3bdd8311be4f8ba92c5ab4056c5754"
 msgid "གཉུག་ མ་ དོན་ གྱི་ ཙཎྜ་ ལཱིས ། །"
