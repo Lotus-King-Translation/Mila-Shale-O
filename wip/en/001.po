@@ -1497,7 +1497,7 @@ msgstr "By meditating on the Tsandali of symbolic attributes,"
 
 msgctxt "1617ccff0f5d4bab93ac05c543b19ad2"
 msgid "ཤེས་རབ་ ཕྱོགས་མེད་ བརྡོལ་བ་ དགོས ། །"
-msgstr ""
+msgstr "Wisdom without bias needs to rise,"
 
 msgctxt "79c8a42a067844358ebf6be07955b31c"
 msgid "སེམས་ ཁ་␣ར་ འཇོག་པ་␣འི་ ཙཎྜ་ ལཱིས ། །"
