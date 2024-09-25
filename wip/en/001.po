@@ -1649,7 +1649,7 @@ msgstr "The magical emanations of the wavering mind,"
 
 msgctxt "7d6444092e71418da6cb3ef6a30e1848"
 msgid "རྒྱ་མཚོ་␣འི་ རླབས་ བཞིན་ རང་ས་␣ར་ ཐིམ ། །"
-msgstr ""
+msgstr "Dissolve naturally like ocean waves."
 
 msgctxt "7d6d6dba0a08463282954aeca4aed960"
 msgid "འཇིག་རྟེན་ ལམ་ གྱི་ གོལ་ས་ རྣམས ། །"
