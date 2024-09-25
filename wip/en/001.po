@@ -1633,7 +1633,7 @@ msgstr "And liberate those who are not yet free through skillful means."
 
 msgctxt "8a510f096db04180b70803314ce476a5"
 msgid "ཕྱི་ སྣ་ཚོགས་ འཆར་བ་␣འི་ སྣང་བ་ འདི ། །"
-msgstr ""
+msgstr "The appearance of these diverse external manifestations,"
 
 msgctxt "d38c7a13fa5e4552a63042dfcfec7a14"
 msgid "སྒྱུ་མ་ ལྟ་བུ་␣ར་ ངོ་ སྤྲད་པ་␣ས ། །"
