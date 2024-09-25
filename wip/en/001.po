@@ -1613,7 +1613,7 @@ msgstr "Father Lama, through your kindness,"
 
 msgctxt "d9880632ed4242efb06c1097a59538ef"
 msgid "བདག་ སོགས་ གདུལ་བྱ་␣ར་ གྱུར་པ་ ཀུན ། །"
-msgstr ""
+msgstr "May all of us, your disciples,"
 
 msgctxt "95c58b935e7b4ab48d52795f4491482b"
 msgid "རྟོག་དཔྱོད་ ཁ་ལོ་ ཆོས་ ལ་ བསྒྱུར ། །"
