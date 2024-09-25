@@ -1661,7 +1661,7 @@ msgstr "Through the power of connected propelling,"
 
 msgctxt "3838632c0edb4f51823c94913e82823f"
 msgid "སྒྲོ་འདོགས་ མ་ ལུས་ ཐད་ཀ་␣ར་ བཅད །"
-msgstr ""
+msgstr "All exaggerations were cut directly."
 
 msgctxt "568933c0815441058cf2d2476f3142d5"
 msgid "ནོར་ རྒྱུད་ ལ་ སྐྱེས་པ་ ཡི ། །"
