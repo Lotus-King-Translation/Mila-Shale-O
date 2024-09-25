@@ -1609,7 +1609,7 @@ msgstr "I pray with faith and devotion."
 
 msgctxt "57a64572db0d4b4cadcbcd31469ccd72"
 msgid "ཕ་ བླ་མ་ ཁྱེད་ ཀྱི་ བཀའ་དྲིན་ གྱིས ། །"
-msgstr ""
+msgstr "Father Lama, through your kindness,"
 
 msgctxt "d9880632ed4242efb06c1097a59538ef"
 msgid "བདག་ སོགས་ གདུལ་བྱ་␣ར་ གྱུར་པ་ ཀུན ། །"
