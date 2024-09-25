@@ -1517,7 +1517,7 @@ msgstr "One needs to realize the meaning beyond birth and cessation."
 
 msgctxt "a0ca57906fea47b99fc5c154e0a96a27"
 msgid "ཐིག་ལེ་ ནཱ་ ད་␣འི་ ཙནྡྲ་ ལཱིས ། །"
-msgstr ""
+msgstr "Through the Tsandali of bindu and nada,"
 
 msgctxt "e373e8e447884fbda401f11821587f1c"
 msgid "དངོས་པོ་␣འི་ འཛིན་པ་ བྲལ་བ་ དགོས ། །"
