@@ -1637,7 +1637,7 @@ msgstr "The appearance of these diverse external manifestations,"
 
 msgctxt "d38c7a13fa5e4552a63042dfcfec7a14"
 msgid "སྒྱུ་མ་ ལྟ་བུ་␣ར་ ངོ་ སྤྲད་པ་␣ས ། །"
-msgstr ""
+msgstr "[You] introduced it as an illusion,"
 
 msgctxt "6bafaefc64a841b5ba5826f3a0335c8d"
 msgid "རིག་པ་ ཆོས་ཉིད་ མ་ དང་ མཇལ ། །"
