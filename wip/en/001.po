@@ -1657,7 +1657,7 @@ msgstr "All the pitfalls of worldly paths,"
 
 msgctxt "7d014dee43434efa8020937cc02d9304"
 msgid "སྦྱོར་བ་ འཕེན་པ་ སྟོབས་ ཅན་ གྱིས ། །"
-msgstr ""
+msgstr "Through the power of connected propelling,"
 
 msgctxt "3838632c0edb4f51823c94913e82823f"
 msgid "སྒྲོ་འདོགས་ མ་ ལུས་ ཐད་ཀ་␣ར་ བཅད །"
