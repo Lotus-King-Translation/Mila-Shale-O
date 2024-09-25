@@ -1501,7 +1501,7 @@ msgstr "Wisdom without bias needs to rise,"
 
 msgctxt "79c8a42a067844358ebf6be07955b31c"
 msgid "སེམས་ ཁ་␣ར་ འཇོག་པ་␣འི་ ཙཎྜ་ ལཱིས ། །"
-msgstr ""
+msgstr "By placing the Tsandali at the center of mind,"
 
 msgctxt "0d7f284e94364dad8bf9d251632081fc"
 msgid "བར་དོ་␣ར་ རིག་པ་␣འི་ ངོས་འཛིན་ དགོས ། །"
