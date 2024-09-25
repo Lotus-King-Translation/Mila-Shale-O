@@ -1545,7 +1545,7 @@ msgstr "Have you realized it, Shale-O?"
 
 msgctxt "ac20b2be01d0458d93f835f8011aea6f"
 msgid "ཅེས་ གསུངས་པ་␣ས །"
-msgstr ""
+msgstr "As [he] said."
 
 msgctxt "f39b8d5ef474433d9fd85f12c26a5b3f"
 msgid "ས་ལེ་ འོད་ ཀྱིས་ རྟོགས་པ་ ཕུལ་བ །"
