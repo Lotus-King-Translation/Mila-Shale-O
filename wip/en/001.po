@@ -1597,7 +1597,7 @@ msgstr "Compassionate Gungthang Rechen,"
 
 msgctxt "ba18322980254f50a6a096ef464d0d51"
 msgid "སྙན་པ་␣འི་ བ་དན་ ཕྱོགས་ བཅུར་ གཡོ ། །"
-msgstr ""
+msgstr "The banners of your fame wave in the ten directions."
 
 msgctxt "a14e6c1d00a846b8973072bf4bc542a0"
 msgid "གཙུག་ གི་ ནོར་བུ་ རིན་ཆེན་ ལ ། །"
