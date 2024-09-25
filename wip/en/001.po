@@ -1537,7 +1537,7 @@ msgstr "The knot of dualistic grasping will be released on its own."
 
 msgctxt "f81296ecf8244bf9b16b5d553cadf315"
 msgid "ངོ་བོ་ ཕྱག་རྒྱ་ ཆེན་པོ་␣འི་ དོན ། །"
-msgstr ""
+msgstr "The essence, the meaning of Mahamudra,"
 
 msgctxt "18dad7803c2f4ee387f03ec50ce0ef6b"
 msgid "རྟོགས་པ་␣ར་ ལྡན་ ནམ་ ས་ལེ་ འོད་␣༑ །"
