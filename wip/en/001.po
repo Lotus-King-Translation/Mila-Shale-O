@@ -1489,7 +1489,7 @@ msgstr "Is merely blocking the emanating and gathering of thoughts."
 
 msgctxt "31bf2c5b4ac3433a840d30c0c1a02aa6"
 msgid "འཁོར་བ་␣འི་ རྒྱ་མཚོ་ དེ་␣ས་ མི་ སྒྲོལ ། །"
-msgstr ""
+msgstr "This will not liberate one from the ocean of samsara."
 
 msgctxt "b0dc9fe95cb441ef96cdcba019b49da6"
 msgid "ཕྱག་མཚན་ སྒོམ་པ་␣འི་ ཙཎྜ་ ལཱིས ། །"
