@@ -1533,7 +1533,7 @@ msgstr "Is unaltered, naturally arisen, and primordially pure."
 
 msgctxt "2afb056883de43cd8c25f937b3a506ba"
 msgid "གཉིས་ འཛིན་ མདུད་པ་ རང་ས་␣ར་ གྲོལ ། །"
-msgstr ""
+msgstr "The knot of dualistic grasping will be released on its own."
 
 msgctxt "f81296ecf8244bf9b16b5d553cadf315"
 msgid "ངོ་བོ་ ཕྱག་རྒྱ་ ཆེན་པོ་␣འི་ དོན ། །"
