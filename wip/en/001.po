@@ -1625,7 +1625,7 @@ msgstr "Place us on the unmistaken path."
 
 msgctxt "2094f1c804524473aee7c81eb3d2e16f"
 msgid "རྒྱུད་ མ་ སྨིན་ དབང་ གིས་ སྨིན་ མཛད་ ཅིང་ ། །"
-msgstr ""
+msgstr "Ripen the unripened mental continuum,"
 
 msgctxt "0ed6e8f6df8a483898b5b004520fed34"
 msgid "མ་ གྲོལ་ ཐབས་ ཀྱི་ གྲོལ་བ་␣ར་ མཛད ། །"
