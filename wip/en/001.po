@@ -1641,7 +1641,7 @@ msgstr "[You] introduced it as an illusion,"
 
 msgctxt "6bafaefc64a841b5ba5826f3a0335c8d"
 msgid "རིག་པ་ ཆོས་ཉིད་ མ་ དང་ མཇལ ། །"
-msgstr "Thus [I have met] the intelligence of the mother dharmata."
+msgstr "Thus [I have] met the intelligence, the mother dharmata."
 
 msgctxt "d2a0d9ed9c0b4c24ba7d308f2c96061c"
 msgid "འགྱུ་བ་ སེམས་ ཀྱི་ ཆོ་འཕྲུལ་ ཏེ ། །"
