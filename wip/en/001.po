@@ -1509,7 +1509,7 @@ msgstr "One needs to recognize rigpa in the bardo."
 
 msgctxt "9e3bdd8311be4f8ba92c5ab4056c5754"
 msgid "གཉུག་ མ་ དོན་ གྱི་ ཙཎྜ་ ལཱིས ། །"
-msgstr ""
+msgstr "The ultimate Tsandali of the innate meaning,"
 
 msgctxt "f2fbddb5961644e4bff9260f70b16143"
 msgid "སྐྱེ་འགག་ མེད་པ་␣འི་ དོན་ རྟོགས་ དགོས ། །"
