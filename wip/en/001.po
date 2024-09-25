@@ -1477,7 +1477,7 @@ msgstr "But if the aspect of liberation does not rise in the mind,"
 
 msgctxt "42fb39b1ebe2475b94cdfb99c276307e"
 msgid "འདོད་པ་␣ས་ ཐར་ལམ་ བཙལ་ མི་ རྙེད ། །"
-msgstr ""
+msgstr "The path to liberation cannot be found through desire."
 
 msgctxt "2770ea05ec2f49638017a136d5437f2b"
 msgid "སེམས་ རྫིང་ ཆུ་ བཞིན་ དུ་ བསྐྱིལ་བ་ དེ ། །"
