@@ -1573,7 +1573,7 @@ msgstr "The intent of the tantra sections has arisen in the mind."
 
 msgctxt "b56db70d737749fdaf7bbcb38f0e7dfa"
 msgid "སྒྲ་སྒྱུར་ མར་པ་ ལོ་ ཙྪ་ ཡི ། །"
-msgstr ""
+msgstr "The translator Marpa Lotsawa's"
 
 msgctxt "d94291ee7ef849efb3befc7a41192877"
 msgid "ཐུགས་རྗེ་␣འི་ ལོ་ཏོག་ ཕྱོགས་ བཅུར་ རྒྱས ། །"
