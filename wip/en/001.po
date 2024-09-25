@@ -1645,7 +1645,7 @@ msgstr "Thus [I have] met the intelligence, the mother dharmata."
 
 msgctxt "d2a0d9ed9c0b4c24ba7d308f2c96061c"
 msgid "འགྱུ་བ་ སེམས་ ཀྱི་ ཆོ་འཕྲུལ་ ཏེ ། །"
-msgstr ""
+msgstr "The magical emanations of the wavering mind,"
 
 msgctxt "7d6444092e71418da6cb3ef6a30e1848"
 msgid "རྒྱ་མཚོ་␣འི་ རླབས་ བཞིན་ རང་ས་␣ར་ ཐིམ ། །"
