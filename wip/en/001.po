@@ -1553,7 +1553,7 @@ msgstr "Shale-O offered her realization:"
 
 msgctxt "744a280647a9434da1436cb70852bb70"
 msgid "རྡོ་རྗེ་ འཆང་ གི་ བརྒྱུད་པ་ འཛིན ། །"
-msgstr ""
+msgstr "The holder of the lineage of Vajradhara,"
 
 msgctxt "35b0d583377d4ddcba65449f0205f417"
 msgid "སྡེ་ བཞི་ མཁའ་འགྲོ་␣འི་ ལུང་བསྟན་ ཐོབ ། །"
