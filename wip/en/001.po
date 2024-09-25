@@ -1569,7 +1569,7 @@ msgstr "Through the compassion of Tilopa and Naropa,"
 
 msgctxt "a2be6c29c5104cc682da07f53cfeb3e9"
 msgid "རྒྱུད་སྡེ་␣འི་ དགོངས་པ་ ཐུགས་ ལ་ ཤར ། །"
-msgstr ""
+msgstr "The intent of the tantra sections has arisen in the mind."
 
 msgctxt "b56db70d737749fdaf7bbcb38f0e7dfa"
 msgid "སྒྲ་སྒྱུར་ མར་པ་ ལོ་ ཙྪ་ ཡི ། །"
