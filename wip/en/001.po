@@ -1653,7 +1653,7 @@ msgstr "Dissolve naturally like ocean waves."
 
 msgctxt "7d6d6dba0a08463282954aeca4aed960"
 msgid "འཇིག་རྟེན་ ལམ་ གྱི་ གོལ་ས་ རྣམས ། །"
-msgstr ""
+msgstr "The pitfalls of worldly paths,"
 
 msgctxt "7d014dee43434efa8020937cc02d9304"
 msgid "སྦྱོར་བ་ འཕེན་པ་ སྟོབས་ ཅན་ གྱིས ། །"
