@@ -1525,7 +1525,7 @@ msgstr "One needs to be free from grasping at things."
 
 msgctxt "a209f062d1b542c1bff52a95cacb48a5"
 msgid "རྩོད་བྲལ་ དབུ་མ་ དྷུ་ ཏཱིའི་ རྩ ། །"
-msgstr "The central channel Dhuti is free from all efforts,"
+msgstr "The central channel Dhuti, free from effort,"
 
 msgctxt "a28501a8d8e04acbb2a7ea8ff9b2a823"
 msgid "མ་ བཅོ་␣ས་ རང་བྱུང་ གདོད་ ནས་ དག  །"
