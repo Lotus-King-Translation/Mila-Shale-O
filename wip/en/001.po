@@ -1485,7 +1485,7 @@ msgstr "The mind settles like a pond water,"
 
 msgctxt "e46faaed08eb4b4386d041aca6cf5da1"
 msgid "རྟོག་པ་␣འི་ འཕྲོ་ འདུ་ བཀག་པ་ ཙམ ། །"
-msgstr ""
+msgstr "Is merely blocking the emanating and gathering of thoughts."
 
 msgctxt "31bf2c5b4ac3433a840d30c0c1a02aa6"
 msgid "འཁོར་བ་␣འི་ རྒྱ་མཚོ་ དེ་␣ས་ མི་ སྒྲོལ ། །"
