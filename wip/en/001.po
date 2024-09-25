@@ -1493,7 +1493,7 @@ msgstr "This will not liberate one from the ocean of samsara."
 
 msgctxt "b0dc9fe95cb441ef96cdcba019b49da6"
 msgid "ཕྱག་མཚན་ སྒོམ་པ་␣འི་ ཙཎྜ་ ལཱིས ། །"
-msgstr "By meditating on the Tsandali of symbolic attributes,"
+msgstr "To meditate the Tsandali of symbolic attributes,"
 
 msgctxt "1617ccff0f5d4bab93ac05c543b19ad2"
 msgid "ཤེས་རབ་ ཕྱོགས་མེད་ བརྡོལ་བ་ དགོས ། །"
