@@ -1541,7 +1541,7 @@ msgstr "The essence, the meaning of Mahamudra,"
 
 msgctxt "18dad7803c2f4ee387f03ec50ce0ef6b"
 msgid "རྟོགས་པ་␣ར་ ལྡན་ ནམ་ ས་ལེ་ འོད་␣༑ །"
-msgstr ""
+msgstr "Have you realized it, Shale-O?"
 
 msgctxt "ac20b2be01d0458d93f835f8011aea6f"
 msgid "ཅེས་ གསུངས་པ་␣ས །"
