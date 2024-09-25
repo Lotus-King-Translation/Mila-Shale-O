@@ -1529,7 +1529,7 @@ msgstr "Dhuti, the central channel, free from effort,"
 
 msgctxt "a28501a8d8e04acbb2a7ea8ff9b2a823"
 msgid "མ་ བཅོ་␣ས་ རང་བྱུང་ གདོད་ ནས་ དག  །"
-msgstr ""
+msgstr "Is unaltered, naturally arisen, and primordially pure."
 
 msgctxt "2afb056883de43cd8c25f937b3a506ba"
 msgid "གཉིས་ འཛིན་ མདུད་པ་ རང་ས་␣ར་ གྲོལ ། །"
