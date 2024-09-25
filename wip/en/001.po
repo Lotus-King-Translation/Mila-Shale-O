@@ -1549,7 +1549,7 @@ msgstr "As [he] said."
 
 msgctxt "f39b8d5ef474433d9fd85f12c26a5b3f"
 msgid "ས་ལེ་ འོད་ ཀྱིས་ རྟོགས་པ་ ཕུལ་བ །"
-msgstr ""
+msgstr "Shale-O offered her realization:"
 
 msgctxt "744a280647a9434da1436cb70852bb70"
 msgid "རྡོ་རྗེ་ འཆང་ གི་ བརྒྱུད་པ་ འཛིན ། །"
