@@ -1557,7 +1557,7 @@ msgstr "The holder of the lineage of Vajradhara,"
 
 msgctxt "35b0d583377d4ddcba65449f0205f417"
 msgid "སྡེ་ བཞི་ མཁའ་འགྲོ་␣འི་ ལུང་བསྟན་ ཐོབ ། །"
-msgstr ""
+msgstr "The one who receives the prophecies of the four classes of dakinis,"
 
 msgctxt "1c644a23bc4b4b87a3ab814c104cb2be"
 msgid "སྒྲུབ་བརྒྱུད་ བསྟན་པ་ འཛིན་ མཛད་པ་␣འི ། །"
