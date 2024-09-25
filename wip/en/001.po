@@ -1473,7 +1473,7 @@ msgstr "Parrots know how to recite speech."
 
 msgctxt "84dd505c94fb4555a1c7148b2e39c58e"
 msgid "ལ་␣ར་ གྲོལ་ ཆ་ སེམས་ ལ་མ་ ཤར་ ན ། །"
-msgstr ""
+msgstr "But if the aspect of liberation does not rise in the mind,"
 
 msgctxt "42fb39b1ebe2475b94cdfb99c276307e"
 msgid "འདོད་པ་␣ས་ ཐར་ལམ་ བཙལ་ མི་ རྙེད ། །"
