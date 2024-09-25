@@ -1561,7 +1561,7 @@ msgstr "The one who receives the prophecies of the four classes of dakinis,"
 
 msgctxt "1c644a23bc4b4b87a3ab814c104cb2be"
 msgid "སྒྲུབ་བརྒྱུད་ བསྟན་པ་ འཛིན་ མཛད་པ་␣འི ། །"
-msgstr "Who upholder of the practice lineage teachings,"
+msgstr "Who upholds the practice lineage teachings,"
 
 msgctxt "8eecc2620862409bbbccbe8f64ccd834"
 msgid "ཏཻ་ ལོ་ ནཱ་ རོ་␣འི་ ཐུགས་རྗེ་ ཡིས ། །"
