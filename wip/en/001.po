@@ -1513,7 +1513,7 @@ msgstr "[To know] The ultimate Tsandali of the innate meaning,"
 
 msgctxt "f2fbddb5961644e4bff9260f70b16143"
 msgid "སྐྱེ་འགག་ མེད་པ་␣འི་ དོན་ རྟོགས་ དགོས ། །"
-msgstr ""
+msgstr "One needs to realize the meaning beyond birth and cessation."
 
 msgctxt "a0ca57906fea47b99fc5c154e0a96a27"
 msgid "ཐིག་ལེ་ ནཱ་ ད་␣འི་ ཙནྡྲ་ ལཱིས ། །"
