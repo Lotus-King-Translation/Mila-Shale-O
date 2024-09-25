@@ -1605,7 +1605,7 @@ msgstr "To the precious crown jewel,"
 
 msgctxt "af9cfbfaadb14e98ab52d231ee2f80d8"
 msgid "ཡིད་ དད་ ཅིང་ གུས་པ་␣ས་ གསོལ་བ་ འདེབས ། །"
-msgstr ""
+msgstr "I pray with faith and devotion."
 
 msgctxt "57a64572db0d4b4cadcbcd31469ccd72"
 msgid "ཕ་ བླ་མ་ ཁྱེད་ ཀྱི་ བཀའ་དྲིན་ གྱིས ། །"
