@@ -1577,7 +1577,7 @@ msgstr "The translator Marpa Lotsawa's"
 
 msgctxt "d94291ee7ef849efb3befc7a41192877"
 msgid "ཐུགས་རྗེ་␣འི་ ལོ་ཏོག་ ཕྱོགས་ བཅུར་ རྒྱས ། །"
-msgstr "Harvest of compassion spread in the ten directions."
+msgstr "Harvest of compassion has spreaded in the ten directions."
 
 msgctxt "a02c2a7e334d401ea0de3d6d13ddc72d"
 msgid "དག་པ་␣འི་ འབྲས་བུ་ སོ་སོ་␣ར་ སྨིན ། །"
