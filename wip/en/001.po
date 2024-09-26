@@ -1737,7 +1737,7 @@ msgstr "Inseparable from emptiness and compassion,"
 
 msgctxt "add6ef7010be4a1c87454fb38ea2c9dd"
 msgid "ཁྱད་གསོད་ ང་རྒྱལ་ བདག་ ལ་ མེད ། །"
-msgstr ""
+msgstr "I have no pride, and I do not belittle others."
 
 msgctxt "d2805438e6d44679b838fad8ae251ca9"
 msgid "ཆོས་ དྲི་རྨེད་ བགྱིད་ དུ་མ་ བདེ་མེད ། །"
