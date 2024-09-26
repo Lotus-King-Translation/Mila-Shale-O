@@ -1713,7 +1713,7 @@ msgstr "[I] have extended my endurance on top of calm abiding."
 
 msgctxt "959eb3f0460d492194145cc32513acbe"
 msgid "སྐྱེས་པ་ རྣམས་ ལ་ གདོང་ བདས་ བྱས ། །"
-msgstr ""
+msgstr "I confronted all men."
 
 msgctxt "241b54570701462a9d45f3cb9a49c4a9"
 msgid "འབོལ་ སྔས་ བོར་ ནས་ ལོ་ མང་ སོང་ ། །"
