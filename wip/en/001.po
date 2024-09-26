@@ -22,7 +22,7 @@ msgid ""
 " སྙོམས་ ཀྱི་ ལྡོམ་བུ་ ལ་ བྱོན་ ནས་ ལ་ ཞིང་ དུ་ཞག་ ཤས་ བཞུགས་ ཏེ །"
 msgstr ""
 "Jetsun Milarepa went to beg for alms in the practice of the equalization of "
-"taste from the Nyanang Belly Cave to Ngokang. He stayed for a few days at "
+"taste from Nyanang Belly Cave to Ngokang. He stayed for a few days at "
 "Lazhing."
 
 msgctxt "7f01080397d8493ea4ed0ebf322a13d1"
