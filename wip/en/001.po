@@ -1802,4 +1802,4 @@ msgstr ""
 
 msgctxt "4ccb13dfebef43c1b144be3e928bfac4"
 msgid "ས་ལེ་ འོད་ ཀྱི་ སྐོར་ རོ །།།"
-msgstr ""
+msgstr "This concludes the section on Shale-O."
