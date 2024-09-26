@@ -1717,7 +1717,7 @@ msgstr "I confronted all men."
 
 msgctxt "241b54570701462a9d45f3cb9a49c4a9"
 msgid "འབོལ་ སྔས་ བོར་ ནས་ ལོ་ མང་ སོང་ ། །"
-msgstr ""
+msgstr "Many years have passed since I abandoned soft cushions."
 
 msgctxt "59954aa4ada24ee5a97cd835a91f67d9"
 msgid "དོན་ ཕྱག་རྒྱ་ ཆེན་པོ་␣འི་ ཐོག་ བབས་ ལ ། །"
