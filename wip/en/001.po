@@ -1729,7 +1729,7 @@ msgstr "I rest single-pointedly without distraction."
 
 msgctxt "3fbc6967198d4515aad89d4e0458cd20"
 msgid "མྱ་ངན་ འདས་པ་␣འི་ འདུན་མ་ དེ ། །"
-msgstr ""
+msgstr "That aspiration for nirvana,"
 
 msgctxt "ce850dcf93bd4f5ab10a11594500c727"
 msgid "སྟོང་ཉིད་ སྙིང་རྗེ་ མ་ བྲལ་བ་␣ས ༑ །"
