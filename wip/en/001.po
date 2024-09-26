@@ -1681,7 +1681,7 @@ msgstr "Since Buddhahood is not realized through desire,"
 
 msgctxt "67e3f11f3fb24ac6908c21ff339c3abc"
 msgid "རྒྱབ་རྟེན་ བཟང་པོ་ གསང་སྔགས་ ལ ། །"
-msgstr ""
+msgstr "The excellent support of the secret mantra,"
 
 msgctxt "8b327eaa1a594e5e841b8892125763b7"
 msgid "བླ་མ་␣འི་ དྲུང་ དུ་ ནན་ཏན་ ཞུས ། །"
