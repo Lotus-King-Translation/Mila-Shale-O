@@ -1677,7 +1677,7 @@ msgstr "There is no confusion from higher to lower paths."
 
 msgctxt "a1a2edf2082d43cb89d45b3952099f6e"
 msgid "འདོད་པ་␣ས་ སངས་རྒྱས་ མ་ རྟོགས་པ་␣ས ། །"
-msgstr ""
+msgstr "Since Buddhahood is not realized through desire,"
 
 msgctxt "67e3f11f3fb24ac6908c21ff339c3abc"
 msgid "རྒྱབ་རྟེན་ བཟང་པོ་ གསང་སྔགས་ ལ ། །"
