@@ -42,7 +42,7 @@ msgid ""
 "རྗེ་བཙུན་ གྱིས་ བུ་མོ་ རྣལ་འབྱོར་པ་ ང་ ལ་ད་ ནང་ གི་ ཚ་བ་ སྟེར་ དགོས་ "
 "གསུངས་པ་␣ས །"
 msgstr ""
-"Jetsun asked, \"Young lady, would you offer a meal to this yogi this "
+"Jetsun asked, \"Young lady, would you offer a meal to this yogi in the "
 "evening?\""
 
 msgctxt "3928d92eb67440ce9ec25f433d771880"
