@@ -1788,6 +1788,8 @@ msgstr "Shale-O also meditated without separating from the mountain retreat."
 msgctxt "4166b42735c34528b301e5745c7ee55b"
 msgid "བསྟན་པ་ དང་སེམས་ ཅན་ ལ་ ཕན་ ཐོགས་པ་␣འི་ རང་གྲོལ་ གྱི་ རྣལ་འབྱོར་ མ །"
 msgstr ""
+"She became a self-liberated yogini benefiting the Dharma and sentient "
+"beings."
 
 msgctxt "f13d187d39d3486688af56d1a62eb05f"
 msgid ""
