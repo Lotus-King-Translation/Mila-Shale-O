@@ -1745,7 +1745,7 @@ msgstr ""
 
 msgctxt "925fe95cf2f64ebbbf57470e0ad7984e"
 msgid "བཀའ་དྲིན་ ཅན་ གྱི་ བླ་མ་ ལ ། །"
-msgstr ""
+msgstr "In [you], the kind guru,"
 
 msgctxt "c9d8afde7eb0477997c5052d5cdc7aa6"
 msgid "སངས་རྒྱས་ འདུ་ཤེས་ འབྲལ་ མ་ མྱོང་ ། །"
