@@ -1797,6 +1797,8 @@ msgid ""
 "ངན་ རྫོང་ སྟོན་པ་ བྱང་ཆུབ་ རྒྱལ་པོ་␣ས་ མི་ བརྗེད་པ་␣འི་ གཟུངས་ སུ་ ཡི་གེ་␣ར་"
 " བཀོད་པ་␣འོ ། །"
 msgstr ""
+"One of the four spiritual sisters among Jetsun's disciples. This story was "
+"written in an unforgettable form by Ngenzong Tonpa Jangchub Gyalpo."
 
 msgctxt "4ccb13dfebef43c1b144be3e928bfac4"
 msgid "ས་ལེ་ འོད་ ཀྱི་ སྐོར་ རོ །།།"
