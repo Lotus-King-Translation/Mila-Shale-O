@@ -1749,7 +1749,7 @@ msgstr "In [you], the kind guru,"
 
 msgctxt "c9d8afde7eb0477997c5052d5cdc7aa6"
 msgid "སངས་རྒྱས་ འདུ་ཤེས་ འབྲལ་ མ་ མྱོང་ ། །"
-msgstr ""
+msgstr "I have never separated [my] perception as a Buddha."
 
 msgctxt "b5199c2c3b2c4f799ed1704ae3a69755"
 msgid "གླུ་ མཆོད་པ་␣ར་ འབུལ་ ལོ་ སྐུ་དྲིན་ ཅན ། །"
