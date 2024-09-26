@@ -1673,7 +1673,7 @@ msgstr "This is the actuality of the secret mantra's path of method."
 
 msgctxt "99efc9c850f04b579a02f7e93ae614ac"
 msgid "ལམ་ གོང་ ནས་ འོག་ ཏུ་ འཁྲུལ་པ་ མེད ། །"
-msgstr ""
+msgstr "There is no confusion from higher to lower paths."
 
 msgctxt "a1a2edf2082d43cb89d45b3952099f6e"
 msgid "འདོད་པ་␣ས་ སངས་རྒྱས་ མ་ རྟོགས་པ་␣ས ། །"
