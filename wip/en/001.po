@@ -1766,6 +1766,8 @@ msgstr "Thus, she offered her realization."
 msgctxt "6b1b5aa19fbf446bb0ac4dfba2e3b30f"
 msgid "རྗེ་བཙུན་ མཉེས་ ཏེ་ ལ་␣ར་ བུད་ མེདཀྱི་ སྒོམ་ རྟགས་ ཐོན་པ་ དང་ །"
 msgstr ""
+"Jetsun was pleased and said, \"It is rare that a woman to emerge with the "
+"signs of meditation and"
 
 msgctxt "9c75a62bc78f4e599c4129c95c7b4d7a"
 msgid ""
