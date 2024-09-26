@@ -1733,7 +1733,7 @@ msgstr "That aspiration for nirvana,"
 
 msgctxt "ce850dcf93bd4f5ab10a11594500c727"
 msgid "སྟོང་ཉིད་ སྙིང་རྗེ་ མ་ བྲལ་བ་␣ས ༑ །"
-msgstr ""
+msgstr "Inseparable from emptiness and compassion,"
 
 msgctxt "add6ef7010be4a1c87454fb38ea2c9dd"
 msgid "ཁྱད་གསོད་ ང་རྒྱལ་ བདག་ ལ་ མེད ། །"
