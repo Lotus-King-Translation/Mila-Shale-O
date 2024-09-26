@@ -1783,7 +1783,7 @@ msgstr "You must continue to meditate in the mountain retreat,\" "
 
 msgctxt "cf07d2f80c544212b89703bb3181388e"
 msgid "ས་ལེ་ འོད་ ཀྱིས་ ཀྱང་ རི་ཁྲོད་ དང་ མ་ བྲལ་བ་␣ར་ བསྒོམས་པ་␣ས །"
-msgstr ""
+msgstr "Shale-O also meditated without separating from the mountain retreat."
 
 msgctxt "4166b42735c34528b301e5745c7ee55b"
 msgid "བསྟན་པ་ དང་སེམས་ ཅན་ ལ་ ཕན་ ཐོགས་པ་␣འི་ རང་གྲོལ་ གྱི་ རྣལ་འབྱོར་ མ །"
