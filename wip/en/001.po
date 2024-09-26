@@ -1721,7 +1721,7 @@ msgstr "Many years have passed since I abandoned soft cushions."
 
 msgctxt "59954aa4ada24ee5a97cd835a91f67d9"
 msgid "དོན་ ཕྱག་རྒྱ་ ཆེན་པོ་␣འི་ ཐོག་ བབས་ ལ ། །"
-msgstr ""
+msgstr "Having arrived at the pinnacle state of Mahamudra,"
 
 msgctxt "9e8715874bfc4a8cb50e5e84a1c09269"
 msgid "མ་ ཡེངས་ རྩེ་གཅིག་ ངང་ ལ་ བཞག  །"
