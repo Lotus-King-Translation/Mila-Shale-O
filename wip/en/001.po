@@ -1697,7 +1697,7 @@ msgstr "I compared my realizations of the experience with Ngenzong."
 
 msgctxt "d3d24e2920e84a5fb8b182cbce42b67d"
 msgid "མོ་ གྲུང་ མོ་␣འི་ ཤེས་ ལྗིད་ སྙིང་ ལ་ བཀུར་␣༑ །"
-msgstr ""
+msgstr "She is bright, and I took her intelligence to heart."
 
 msgctxt "0f0dcd3243794824a593d411887c5f81"
 msgid "ཟོག་ གི་ བློ་ ཁྲིད་ ལྟོ་ ལ་ བྱས ། །"
