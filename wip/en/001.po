@@ -1705,7 +1705,7 @@ msgstr "The deceptive mind transforms just as food does."
 
 msgctxt "72e3a1bad8fc4fe79fa91838ee67c553"
 msgid "གཏི་མུག་ གཉིད་ ལ་ ཕྱི་ཐག་ བསྟུངས ། །"
-msgstr ""
+msgstr "The outer rope of delusive sleep is shortened,"
 
 msgctxt "e0483a9c04114b3389d536e2ed8e7a24"
 msgid "ཞི་གནས་ སྟེང་ དུ་ ངང་རྒྱུད་ བསྲིངས་␣༑ །"
