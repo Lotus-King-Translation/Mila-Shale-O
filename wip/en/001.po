@@ -1701,7 +1701,7 @@ msgstr "She is bright, and I took her intelligence to heart."
 
 msgctxt "0f0dcd3243794824a593d411887c5f81"
 msgid "ཟོག་ གི་ བློ་ ཁྲིད་ ལྟོ་ ལ་ བྱས ། །"
-msgstr ""
+msgstr "The deceptive mind transforms just as food does."
 
 msgctxt "72e3a1bad8fc4fe79fa91838ee67c553"
 msgid "གཏི་མུག་ གཉིད་ ལ་ ཕྱི་ཐག་ བསྟུངས ། །"
