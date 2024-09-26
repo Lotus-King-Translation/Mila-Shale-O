@@ -1669,7 +1669,7 @@ msgstr "Born in the lineage of gems,"
 
 msgctxt "d5af3103f28f4da29a86b5f10c4316a6"
 msgid "གསང་སྔགས་ ཐབས་ལམ་ གནས་ལུགས་ སོ ། །"
-msgstr ""
+msgstr "This is the actuality of the secret mantra's path of method."
 
 msgctxt "99efc9c850f04b579a02f7e93ae614ac"
 msgid "ལམ་ གོང་ ནས་ འོག་ ཏུ་ འཁྲུལ་པ་ མེད ། །"
