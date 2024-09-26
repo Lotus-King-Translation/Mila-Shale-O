@@ -1753,7 +1753,7 @@ msgstr "I have never separated [my] perception as a Buddha."
 
 msgctxt "b5199c2c3b2c4f799ed1704ae3a69755"
 msgid "གླུ་ མཆོད་པ་␣ར་ འབུལ་ ལོ་ སྐུ་དྲིན་ ཅན ། །"
-msgstr ""
+msgstr "I offer this song as an offering to the gracious one."
 
 msgctxt "685b2dbb12c3419f8e36983050f6b488"
 msgid "སྒྲ་ ཚོགས་ སུ་ རོལ་ ཅིག་ མཁའ་འགྲོ་ རྣམས་␣༑ །"
