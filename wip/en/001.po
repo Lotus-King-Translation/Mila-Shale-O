@@ -1725,7 +1725,7 @@ msgstr "Having arrived at the pinnacle state of Mahamudra,"
 
 msgctxt "9e8715874bfc4a8cb50e5e84a1c09269"
 msgid "མ་ ཡེངས་ རྩེ་གཅིག་ ངང་ ལ་ བཞག  །"
-msgstr ""
+msgstr "I rest single-pointedly without distraction."
 
 msgctxt "3fbc6967198d4515aad89d4e0458cd20"
 msgid "མྱ་ངན་ འདས་པ་␣འི་ འདུན་མ་ དེ ། །"
