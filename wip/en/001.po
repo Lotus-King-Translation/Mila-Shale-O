@@ -1709,7 +1709,7 @@ msgstr "The outer rope of delusive sleep is shortened,"
 
 msgctxt "e0483a9c04114b3389d536e2ed8e7a24"
 msgid "ཞི་གནས་ སྟེང་ དུ་ ངང་རྒྱུད་ བསྲིངས་␣༑ །"
-msgstr ""
+msgstr "[I] have extended my endurance on top of calm abiding."
 
 msgctxt "959eb3f0460d492194145cc32513acbe"
 msgid "སྐྱེས་པ་ རྣམས་ ལ་ གདོང་ བདས་ བྱས ། །"
