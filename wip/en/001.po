@@ -1761,7 +1761,7 @@ msgstr "All Dakinis harmonize with me in a unified voice,"
 
 msgctxt "daa11facc51442c3a1968bcaea5b4069"
 msgid "ཞེས་ རྟོགས་པ་ ཕུལ་བ་␣ས །"
-msgstr ""
+msgstr "Thus, she offered her realization."
 
 msgctxt "6b1b5aa19fbf446bb0ac4dfba2e3b30f"
 msgid "རྗེ་བཙུན་ མཉེས་ ཏེ་ ལ་␣ར་ བུད་ མེདཀྱི་ སྒོམ་ རྟགས་ ཐོན་པ་ དང་ །"
