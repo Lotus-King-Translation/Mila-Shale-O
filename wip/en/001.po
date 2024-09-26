@@ -1693,7 +1693,7 @@ msgstr "With [my] special vajra relative as a companion,"
 
 msgctxt "cd015c0228fd4cc28b83d423c918eaec"
 msgid "ངན་ རྫོང་བ་ ལ་ ཉམས་རྟོགས་ བསྡུ་␣ར ། །"
-msgstr ""
+msgstr "I compared my realizations of the experience with Ngenzong."
 
 msgctxt "d3d24e2920e84a5fb8b182cbce42b67d"
 msgid "མོ་ གྲུང་ མོ་␣འི་ ཤེས་ ལྗིད་ སྙིང་ ལ་ བཀུར་␣༑ །"
