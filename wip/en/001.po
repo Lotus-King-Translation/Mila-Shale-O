@@ -1741,7 +1741,7 @@ msgstr "I have no pride, and I do not belittle others."
 
 msgctxt "d2805438e6d44679b838fad8ae251ca9"
 msgid "ཆོས་ དྲི་རྨེད་ བགྱིད་ དུ་མ་ བདེ་མེད ། །"
-msgstr ""
+msgstr "I remain committed to perform the pure Doctrine."
 
 msgctxt "925fe95cf2f64ebbbf57470e0ad7984e"
 msgid "བཀའ་དྲིན་ ཅན་ གྱི་ བླ་མ་ ལ ། །"
