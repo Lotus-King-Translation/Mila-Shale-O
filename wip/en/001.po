@@ -1689,7 +1689,7 @@ msgstr "I assiduously request it from [my] guru. "
 
 msgctxt "e773383e5ca448fc82b1ad4718b8997e"
 msgid "མཚུངས་ལྡན་ མཆེད་གྲོགས་ ཁྱད་པར་ཅན ། །"
-msgstr ""
+msgstr "With [my] special vajra relative as a companion,"
 
 msgctxt "cd015c0228fd4cc28b83d423c918eaec"
 msgid "ངན་ རྫོང་བ་ ལ་ ཉམས་རྟོགས་ བསྡུ་␣ར ། །"
