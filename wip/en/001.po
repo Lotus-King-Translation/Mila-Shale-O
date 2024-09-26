@@ -1779,7 +1779,7 @@ msgstr ""
 
 msgctxt "c51063a6d6514e58a74b830f158d8872"
 msgid "ད་དུང་ རི་ཁྲོད་ ལ་ སྒོམས་ ཤིག་ གསུངས་པ་ ལྟར །"
-msgstr ""
+msgstr "You must continue to meditate in the mountain retreat,\" "
 
 msgctxt "cf07d2f80c544212b89703bb3181388e"
 msgid "ས་ལེ་ འོད་ ཀྱིས་ ཀྱང་ རི་ཁྲོད་ དང་ མ་ བྲལ་བ་␣ར་ བསྒོམས་པ་␣ས །"
