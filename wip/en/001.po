@@ -1685,7 +1685,7 @@ msgstr "The excellent support of the secret mantra,"
 
 msgctxt "8b327eaa1a594e5e841b8892125763b7"
 msgid "བླ་མ་␣འི་ དྲུང་ དུ་ ནན་ཏན་ ཞུས ། །"
-msgstr ""
+msgstr "I assiduously request it from [my] guru. "
 
 msgctxt "e773383e5ca448fc82b1ad4718b8997e"
 msgid "མཚུངས་ལྡན་ མཆེད་གྲོགས་ ཁྱད་པར་ཅན ། །"
