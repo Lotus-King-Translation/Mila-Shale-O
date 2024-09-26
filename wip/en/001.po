@@ -1665,7 +1665,7 @@ msgstr "All exaggerations were cut directly."
 
 msgctxt "568933c0815441058cf2d2476f3142d5"
 msgid "ནོར་ རྒྱུད་ ལ་ སྐྱེས་པ་ ཡི ། །"
-msgstr ""
+msgstr "Born in the lineage of gems,"
 
 msgctxt "d5af3103f28f4da29a86b5f10c4316a6"
 msgid "གསང་སྔགས་ ཐབས་ལམ་ གནས་ལུགས་ སོ ། །"
