@@ -1774,6 +1774,8 @@ msgid ""
 "ལྷག་མཐོང་ གི་ རྟོགས་པ་ ཤར་བ་ འདི་ དཀོན་པ་ ཡིན་ ན་␣འང་ ཁྱོད་ ཀྱིས་ ཐམས་ཅད་ "
 "མཁྱེན་པ་␣འི་ ལམ་ དུ་ ཆུད་ འདུག་པ་␣ས །"
 msgstr ""
+"The realization of insight to arise. However, you have entered the path of "
+"omniscience,"
 
 msgctxt "c51063a6d6514e58a74b830f158d8872"
 msgid "ད་དུང་ རི་ཁྲོད་ ལ་ སྒོམས་ ཤིག་ གསུངས་པ་ ལྟར །"
